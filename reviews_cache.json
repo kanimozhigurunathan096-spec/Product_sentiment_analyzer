@@ -1,0 +1,1466 @@
+[
+  {
+    "product": "demo",
+    "review": "Great product",
+    "sentiment": "Positive",
+    "created_at": "2026-06-29 15:19:06.694164+00:00"
+  },
+  {
+    "product": "https://www.flipkart.com/anushansa-women-embroidered-straight-kurta/product-reviews/itm603202da2cf7e?pid=KTAHKDXCFUFFFYHE&lid=LSTKTAHKDXCFUFFFYHEIQTKH6&aid=74023fca-7f57-40a1-a907-402d83d8dbf7&mid=FLIPKART&an=Fabric%20Quality&cat=WomenEthnicContemporary&vert=WomenKurtaAndKurti",
+    "review": "Flipkart A one-stop Shopping Minutes Everything in Minutes Grocery At wholesale prices Travel All your travel needs Search Icon Search Icon Login New customer? Sign Up My Profile Flipkart Plus Zone Orders Wishlist Become a Seller Rewards Gift Cards Notification Preferences 24x7 Customer Care Advertise Download App More More Become a Seller Notification Settings 24x7 Customer Care Advertise on Flipkart Cart",
+    "sentiment": "Positive",
+    "created_at": "2026-06-29 15:20:09.486102+00:00"
+  },
+  {
+    "product": "https://www.flipkart.com/anushansa-women-embroidered-straight-kurta/product-reviews/itm603202da2cf7e?pid=KTAHKDXCFUFFFYHE&lid=LSTKTAHKDXCFUFFFYHEIQTKH6&aid=74023fca-7f57-40a1-a907-402d83d8dbf7&mid=FLIPKART&an=Fabric%20Quality&cat=WomenEthnicContemporary&vert=WomenKurtaAndKurti",
+    "review": "Flipkart A one-stop Shopping Minutes Everything in Minutes Grocery At wholesale prices Travel All your travel needs",
+    "sentiment": "Neutral",
+    "created_at": "2026-06-29 15:20:09.486144+00:00"
+  },
+  {
+    "product": "https://www.flipkart.com/anushansa-women-embroidered-straight-kurta/product-reviews/itm603202da2cf7e?pid=KTAHKDXCFUFFFYHE&lid=LSTKTAHKDXCFUFFFYHEIQTKH6&aid=74023fca-7f57-40a1-a907-402d83d8dbf7&mid=FLIPKART&an=Fabric%20Quality&cat=WomenEthnicContemporary&vert=WomenKurtaAndKurti",
+    "review": "Flipkart A one-stop Shopping",
+    "sentiment": "Neutral",
+    "created_at": "2026-06-29 15:20:09.486150+00:00"
+  },
+  {
+    "product": "https://www.flipkart.com/anushansa-women-embroidered-straight-kurta/product-reviews/itm603202da2cf7e?pid=KTAHKDXCFUFFFYHE&lid=LSTKTAHKDXCFUFFFYHEIQTKH6&aid=74023fca-7f57-40a1-a907-402d83d8dbf7&mid=FLIPKART&an=Fabric%20Quality&cat=WomenEthnicContemporary&vert=WomenKurtaAndKurti",
+    "review": "Minutes Everything in Minutes",
+    "sentiment": "Neutral",
+    "created_at": "2026-06-29 15:20:09.486157+00:00"
+  },
+  {
+    "product": "https://www.flipkart.com/anushansa-women-embroidered-straight-kurta/product-reviews/itm603202da2cf7e?pid=KTAHKDXCFUFFFYHE&lid=LSTKTAHKDXCFUFFFYHEIQTKH6&aid=74023fca-7f57-40a1-a907-402d83d8dbf7&mid=FLIPKART&an=Fabric%20Quality&cat=WomenEthnicContemporary&vert=WomenKurtaAndKurti",
+    "review": "Grocery At wholesale prices",
+    "sentiment": "Neutral",
+    "created_at": "2026-06-29 15:20:09.486162+00:00"
+  },
+  {
+    "product": "https://www.flipkart.com/anushansa-women-embroidered-straight-kurta/product-reviews/itm603202da2cf7e?pid=KTAHKDXCFUFFFYHE&lid=LSTKTAHKDXCFUFFFYHEIQTKH6&aid=74023fca-7f57-40a1-a907-402d83d8dbf7&mid=FLIPKART&an=Fabric%20Quality&cat=WomenEthnicContemporary&vert=WomenKurtaAndKurti",
+    "review": "Travel All your travel needs",
+    "sentiment": "Neutral",
+    "created_at": "2026-06-29 15:20:09.486167+00:00"
+  },
+  {
+    "product": "https://www.flipkart.com/anushansa-women-embroidered-straight-kurta/product-reviews/itm603202da2cf7e?pid=KTAHKDXCFUFFFYHE&lid=LSTKTAHKDXCFUFFFYHEIQTKH6&aid=74023fca-7f57-40a1-a907-402d83d8dbf7&mid=FLIPKART&an=Fabric%20Quality&cat=WomenEthnicContemporary&vert=WomenKurtaAndKurti",
+    "review": "Login New customer? Sign Up My Profile Flipkart Plus Zone Orders Wishlist Become a Seller Rewards Gift Cards Notification Preferences 24x7 Customer Care Advertise Download App More More Become a Seller Notification Settings 24x7 Customer Care Advertise on Flipkart Cart",
+    "sentiment": "Positive",
+    "created_at": "2026-06-29 15:20:09.486172+00:00"
+  },
+  {
+    "product": "https://www.flipkart.com/anushansa-women-embroidered-straight-kurta/product-reviews/itm603202da2cf7e?pid=KTAHKDXCFUFFFYHE&lid=LSTKTAHKDXCFUFFFYHEIQTKH6&aid=74023fca-7f57-40a1-a907-402d83d8dbf7&mid=FLIPKART&an=Fabric%20Quality&cat=WomenEthnicContemporary&vert=WomenKurtaAndKurti",
+    "review": "Login New customer? Sign Up My Profile Flipkart Plus Zone Orders Wishlist Become a Seller Rewards Gift Cards Notification Preferences 24x7 Customer Care Advertise Download App",
+    "sentiment": "Positive",
+    "created_at": "2026-06-29 15:20:09.486177+00:00"
+  },
+  {
+    "product": "https://www.flipkart.com/anushansa-women-embroidered-straight-kurta/product-reviews/itm603202da2cf7e?pid=KTAHKDXCFUFFFYHE&lid=LSTKTAHKDXCFUFFFYHEIQTKH6&aid=74023fca-7f57-40a1-a907-402d83d8dbf7&mid=FLIPKART&an=Fabric%20Quality&cat=WomenEthnicContemporary&vert=WomenKurtaAndKurti",
+    "review": "More More Become a Seller Notification Settings 24x7 Customer Care Advertise on Flipkart",
+    "sentiment": "Positive",
+    "created_at": "2026-06-29 15:20:09.486182+00:00"
+  },
+  {
+    "product": "https://www.flipkart.com/anushansa-women-embroidered-straight-kurta/product-reviews/itm603202da2cf7e?pid=KTAHKDXCFUFFFYHE&lid=LSTKTAHKDXCFUFFFYHEIQTKH6&aid=74023fca-7f57-40a1-a907-402d83d8dbf7&mid=FLIPKART&an=Fabric%20Quality&cat=WomenEthnicContemporary&vert=WomenKurtaAndKurti",
+    "review": "4.2 75% Positive feedback 25% Negative feedback There are no reviews available for Fabric Quality at the moment",
+    "sentiment": "Positive",
+    "created_at": "2026-06-29 15:20:09.486188+00:00"
+  },
+  {
+    "product": "https://www.flipkart.com/anushansa-women-embroidered-straight-kurta/product-reviews/itm603202da2cf7e?pid=KTAHKDXCFUFFFYHE&lid=LSTKTAHKDXCFUFFFYHEIQTKH6&aid=74023fca-7f57-40a1-a907-402d83d8dbf7&mid=FLIPKART&an=Fabric%20Quality&cat=WomenEthnicContemporary&vert=WomenKurtaAndKurti",
+    "review": "4.2 75% Positive feedback 25% Negative feedback",
+    "sentiment": "Negative",
+    "created_at": "2026-06-29 15:20:09.486193+00:00"
+  },
+  {
+    "product": "https://www.flipkart.com/anushansa-women-embroidered-straight-kurta/product-reviews/itm603202da2cf7e?pid=KTAHKDXCFUFFFYHE&lid=LSTKTAHKDXCFUFFFYHEIQTKH6&aid=74023fca-7f57-40a1-a907-402d83d8dbf7&mid=FLIPKART&an=Fabric%20Quality&cat=WomenEthnicContemporary&vert=WomenKurtaAndKurti",
+    "review": "75% Positive feedback 25% Negative feedback",
+    "sentiment": "Negative",
+    "created_at": "2026-06-29 15:20:09.486198+00:00"
+  },
+  {
+    "product": "https://www.flipkart.com/anushansa-women-embroidered-straight-kurta/product-reviews/itm603202da2cf7e?pid=KTAHKDXCFUFFFYHE&lid=LSTKTAHKDXCFUFFFYHEIQTKH6&aid=74023fca-7f57-40a1-a907-402d83d8dbf7&mid=FLIPKART&an=Fabric%20Quality&cat=WomenEthnicContemporary&vert=WomenKurtaAndKurti",
+    "review": "There are no reviews available for Fabric Quality at the moment",
+    "sentiment": "Positive",
+    "created_at": "2026-06-29 15:20:09.486202+00:00"
+  },
+  {
+    "product": "https://www.flipkart.com/anushansa-women-checkered-straight-kurta/p/itmf0ee384048ad6?pid=KTAFY3YAGJVT8EYY&lid=LSTKTAFY3YAGJVT8EYYY4V8YJ&hl_lid=&marketplace=FLIPKART&fm=eyJ3dHAiOiJyZWNvIiwicHJwdCI6InBwIiwibWlkIjoicHJvZHVjdFJlY29tbWVuZGF0aW9uL3NpbWlsYXIifQ%3D%3D&pageUID=1782746460338",
+    "review": "Flipkart A one-stop Shopping Minutes Everything in Minutes Grocery At wholesale prices Travel All your travel needs Search Icon Search Icon Login New customer? Sign Up My Profile Flipkart Plus Zone Orders Wishlist Become a Seller Rewards Gift Cards Notification Preferences 24x7 Customer Care Advertise Download App More More Become a Seller Notification Settings 24x7 Customer Care Advertise on Flipkart Cart",
+    "sentiment": "Positive",
+    "created_at": "2026-06-29 15:21:24.262237+00:00"
+  },
+  {
+    "product": "https://www.flipkart.com/anushansa-women-checkered-straight-kurta/p/itmf0ee384048ad6?pid=KTAFY3YAGJVT8EYY&lid=LSTKTAFY3YAGJVT8EYYY4V8YJ&hl_lid=&marketplace=FLIPKART&fm=eyJ3dHAiOiJyZWNvIiwicHJwdCI6InBwIiwibWlkIjoicHJvZHVjdFJlY29tbWVuZGF0aW9uL3NpbWlsYXIifQ%3D%3D&pageUID=1782746460338",
+    "review": "Flipkart A one-stop Shopping Minutes Everything in Minutes Grocery At wholesale prices Travel All your travel needs",
+    "sentiment": "Neutral",
+    "created_at": "2026-06-29 15:21:24.262246+00:00"
+  },
+  {
+    "product": "https://www.flipkart.com/anushansa-women-checkered-straight-kurta/p/itmf0ee384048ad6?pid=KTAFY3YAGJVT8EYY&lid=LSTKTAFY3YAGJVT8EYYY4V8YJ&hl_lid=&marketplace=FLIPKART&fm=eyJ3dHAiOiJyZWNvIiwicHJwdCI6InBwIiwibWlkIjoicHJvZHVjdFJlY29tbWVuZGF0aW9uL3NpbWlsYXIifQ%3D%3D&pageUID=1782746460338",
+    "review": "Flipkart A one-stop Shopping",
+    "sentiment": "Neutral",
+    "created_at": "2026-06-29 15:21:24.262249+00:00"
+  },
+  {
+    "product": "https://www.flipkart.com/anushansa-women-checkered-straight-kurta/p/itmf0ee384048ad6?pid=KTAFY3YAGJVT8EYY&lid=LSTKTAFY3YAGJVT8EYYY4V8YJ&hl_lid=&marketplace=FLIPKART&fm=eyJ3dHAiOiJyZWNvIiwicHJwdCI6InBwIiwibWlkIjoicHJvZHVjdFJlY29tbWVuZGF0aW9uL3NpbWlsYXIifQ%3D%3D&pageUID=1782746460338",
+    "review": "Minutes Everything in Minutes",
+    "sentiment": "Neutral",
+    "created_at": "2026-06-29 15:21:24.262253+00:00"
+  },
+  {
+    "product": "https://www.flipkart.com/anushansa-women-checkered-straight-kurta/p/itmf0ee384048ad6?pid=KTAFY3YAGJVT8EYY&lid=LSTKTAFY3YAGJVT8EYYY4V8YJ&hl_lid=&marketplace=FLIPKART&fm=eyJ3dHAiOiJyZWNvIiwicHJwdCI6InBwIiwibWlkIjoicHJvZHVjdFJlY29tbWVuZGF0aW9uL3NpbWlsYXIifQ%3D%3D&pageUID=1782746460338",
+    "review": "Grocery At wholesale prices",
+    "sentiment": "Neutral",
+    "created_at": "2026-06-29 15:21:24.262256+00:00"
+  },
+  {
+    "product": "https://www.flipkart.com/anushansa-women-checkered-straight-kurta/p/itmf0ee384048ad6?pid=KTAFY3YAGJVT8EYY&lid=LSTKTAFY3YAGJVT8EYYY4V8YJ&hl_lid=&marketplace=FLIPKART&fm=eyJ3dHAiOiJyZWNvIiwicHJwdCI6InBwIiwibWlkIjoicHJvZHVjdFJlY29tbWVuZGF0aW9uL3NpbWlsYXIifQ%3D%3D&pageUID=1782746460338",
+    "review": "Travel All your travel needs",
+    "sentiment": "Neutral",
+    "created_at": "2026-06-29 15:21:24.262259+00:00"
+  },
+  {
+    "product": "https://www.flipkart.com/anushansa-women-checkered-straight-kurta/p/itmf0ee384048ad6?pid=KTAFY3YAGJVT8EYY&lid=LSTKTAFY3YAGJVT8EYYY4V8YJ&hl_lid=&marketplace=FLIPKART&fm=eyJ3dHAiOiJyZWNvIiwicHJwdCI6InBwIiwibWlkIjoicHJvZHVjdFJlY29tbWVuZGF0aW9uL3NpbWlsYXIifQ%3D%3D&pageUID=1782746460338",
+    "review": "Login New customer? Sign Up My Profile Flipkart Plus Zone Orders Wishlist Become a Seller Rewards Gift Cards Notification Preferences 24x7 Customer Care Advertise Download App More More Become a Seller Notification Settings 24x7 Customer Care Advertise on Flipkart Cart",
+    "sentiment": "Positive",
+    "created_at": "2026-06-29 15:21:24.262268+00:00"
+  },
+  {
+    "product": "https://www.flipkart.com/anushansa-women-checkered-straight-kurta/p/itmf0ee384048ad6?pid=KTAFY3YAGJVT8EYY&lid=LSTKTAFY3YAGJVT8EYYY4V8YJ&hl_lid=&marketplace=FLIPKART&fm=eyJ3dHAiOiJyZWNvIiwicHJwdCI6InBwIiwibWlkIjoicHJvZHVjdFJlY29tbWVuZGF0aW9uL3NpbWlsYXIifQ%3D%3D&pageUID=1782746460338",
+    "review": "Login New customer? Sign Up My Profile Flipkart Plus Zone Orders Wishlist Become a Seller Rewards Gift Cards Notification Preferences 24x7 Customer Care Advertise Download App",
+    "sentiment": "Positive",
+    "created_at": "2026-06-29 15:21:24.262271+00:00"
+  },
+  {
+    "product": "https://www.flipkart.com/anushansa-women-checkered-straight-kurta/p/itmf0ee384048ad6?pid=KTAFY3YAGJVT8EYY&lid=LSTKTAFY3YAGJVT8EYYY4V8YJ&hl_lid=&marketplace=FLIPKART&fm=eyJ3dHAiOiJyZWNvIiwicHJwdCI6InBwIiwibWlkIjoicHJvZHVjdFJlY29tbWVuZGF0aW9uL3NpbWlsYXIifQ%3D%3D&pageUID=1782746460338",
+    "review": "More More Become a Seller Notification Settings 24x7 Customer Care Advertise on Flipkart",
+    "sentiment": "Positive",
+    "created_at": "2026-06-29 15:21:24.262275+00:00"
+  },
+  {
+    "product": "https://www.flipkart.com/anushansa-women-checkered-straight-kurta/p/itmf0ee384048ad6?pid=KTAFY3YAGJVT8EYY&lid=LSTKTAFY3YAGJVT8EYYY4V8YJ&hl_lid=&marketplace=FLIPKART&fm=eyJ3dHAiOiJyZWNvIiwicHJwdCI6InBwIiwibWlkIjoicHJvZHVjdFJlY29tbWVuZGF0aW9uL3NpbWlsYXIifQ%3D%3D&pageUID=1782746460338",
+    "review": "Home / Clothing and Accessories / Kurtas, Ethnic Sets and Bottoms / Kurtas / Women's Kurtas / anushansa Women's Kurtas / Women Checkered Cotton Silk Straight Kurta",
+    "sentiment": "Positive",
+    "created_at": "2026-06-29 15:21:24.262278+00:00"
+  },
+  {
+    "product": "https://www.flipkart.com/anushansa-women-checkered-straight-kurta/p/itmf0ee384048ad6?pid=KTAFY3YAGJVT8EYY&lid=LSTKTAFY3YAGJVT8EYYY4V8YJ&hl_lid=&marketplace=FLIPKART&fm=eyJ3dHAiOiJyZWNvIiwicHJwdCI6InBwIiwibWlkIjoicHJvZHVjdFJlY29tbWVuZGF0aW9uL3NpbWlsYXIifQ%3D%3D&pageUID=1782746460338",
+    "review": "Home / Clothing and Accessories / Kurtas, Ethnic Sets and Bottoms / Kurtas / Women's Kurtas / anushansa Women's Kurtas /",
+    "sentiment": "Neutral",
+    "created_at": "2026-06-29 15:21:24.262282+00:00"
+  },
+  {
+    "product": "https://www.flipkart.com/anushansa-women-checkered-straight-kurta/p/itmf0ee384048ad6?pid=KTAFY3YAGJVT8EYY&lid=LSTKTAFY3YAGJVT8EYYY4V8YJ&hl_lid=&marketplace=FLIPKART&fm=eyJ3dHAiOiJyZWNvIiwicHJwdCI6InBwIiwibWlkIjoicHJvZHVjdFJlY29tbWVuZGF0aW9uL3NpbWlsYXIifQ%3D%3D&pageUID=1782746460338",
+    "review": "Clothing and Accessories /",
+    "sentiment": "Neutral",
+    "created_at": "2026-06-29 15:21:24.262285+00:00"
+  },
+  {
+    "product": "https://www.flipkart.com/anushansa-women-checkered-straight-kurta/p/itmf0ee384048ad6?pid=KTAFY3YAGJVT8EYY&lid=LSTKTAFY3YAGJVT8EYYY4V8YJ&hl_lid=&marketplace=FLIPKART&fm=eyJ3dHAiOiJyZWNvIiwicHJwdCI6InBwIiwibWlkIjoicHJvZHVjdFJlY29tbWVuZGF0aW9uL3NpbWlsYXIifQ%3D%3D&pageUID=1782746460338",
+    "review": "Kurtas, Ethnic Sets and Bottoms /",
+    "sentiment": "Neutral",
+    "created_at": "2026-06-29 15:21:24.262288+00:00"
+  },
+  {
+    "product": "https://www.flipkart.com/anushansa-women-checkered-straight-kurta/p/itmf0ee384048ad6?pid=KTAFY3YAGJVT8EYY&lid=LSTKTAFY3YAGJVT8EYYY4V8YJ&hl_lid=&marketplace=FLIPKART&fm=eyJ3dHAiOiJyZWNvIiwicHJwdCI6InBwIiwibWlkIjoicHJvZHVjdFJlY29tbWVuZGF0aW9uL3NpbWlsYXIifQ%3D%3D&pageUID=1782746460338",
+    "review": "anushansa Women's Kurtas /",
+    "sentiment": "Neutral",
+    "created_at": "2026-06-29 15:21:24.262292+00:00"
+  },
+  {
+    "product": "https://www.flipkart.com/anushansa-women-checkered-straight-kurta/p/itmf0ee384048ad6?pid=KTAFY3YAGJVT8EYY&lid=LSTKTAFY3YAGJVT8EYYY4V8YJ&hl_lid=&marketplace=FLIPKART&fm=eyJ3dHAiOiJyZWNvIiwicHJwdCI6InBwIiwibWlkIjoicHJvZHVjdFJlY29tbWVuZGF0aW9uL3NpbWlsYXIifQ%3D%3D&pageUID=1782746460338",
+    "review": "Women Checkered Cotton Silk Straight Kurta",
+    "sentiment": "Positive",
+    "created_at": "2026-06-29 15:21:24.262295+00:00"
+  },
+  {
+    "product": "https://www.flipkart.com/anushansa-women-checkered-straight-kurta/p/itmf0ee384048ad6?pid=KTAFY3YAGJVT8EYY&lid=LSTKTAFY3YAGJVT8EYYY4V8YJ&hl_lid=&marketplace=FLIPKART&fm=eyJ3dHAiOiJyZWNvIiwicHJwdCI6InBwIiwibWlkIjoicHJvZHVjdFJlY29tbWVuZGF0aW9uL3NpbWlsYXIifQ%3D%3D&pageUID=1782746460338",
+    "review": "Key Highlights Key Highlights Key Highlights 3.9 | 1.1L+",
+    "sentiment": "Neutral",
+    "created_at": "2026-06-29 15:21:24.262298+00:00"
+  },
+  {
+    "product": "https://www.flipkart.com/anushansa-women-checkered-straight-kurta/p/itmf0ee384048ad6?pid=KTAFY3YAGJVT8EYY&lid=LSTKTAFY3YAGJVT8EYYY4V8YJ&hl_lid=&marketplace=FLIPKART&fm=eyJ3dHAiOiJyZWNvIiwicHJwdCI6InBwIiwibWlkIjoicHJvZHVjdFJlY29tbWVuZGF0aW9uL3NpbWlsYXIifQ%3D%3D&pageUID=1782746460338",
+    "review": "Key Highlights Key Highlights Key Highlights",
+    "sentiment": "Neutral",
+    "created_at": "2026-06-29 15:21:24.262302+00:00"
+  },
+  {
+    "product": "https://www.flipkart.com/anushansa-women-checkered-straight-kurta/p/itmf0ee384048ad6?pid=KTAFY3YAGJVT8EYY&lid=LSTKTAFY3YAGJVT8EYYY4V8YJ&hl_lid=&marketplace=FLIPKART&fm=eyJ3dHAiOiJyZWNvIiwicHJwdCI6InBwIiwibWlkIjoicHJvZHVjdFJlY29tbWVuZGF0aW9uL3NpbWlsYXIifQ%3D%3D&pageUID=1782746460338",
+    "review": "anushansa Women Embroidered Viscose Rayon Straight Kurta 78% 1,999 \u20b9432 AD anushansa Women Embroidered Viscose Rayon Straight Kurta 79% 1,999 \u20b9425 AD anushansa Women Embroidered Viscose Rayon Straight Kurta 79% 1,999 \u20b9425 AD",
+    "sentiment": "Positive",
+    "created_at": "2026-06-29 15:21:24.262305+00:00"
+  },
+  {
+    "product": "https://www.flipkart.com/anushansa-women-checkered-straight-kurta/p/itmf0ee384048ad6?pid=KTAFY3YAGJVT8EYY&lid=LSTKTAFY3YAGJVT8EYYY4V8YJ&hl_lid=&marketplace=FLIPKART&fm=eyJ3dHAiOiJyZWNvIiwicHJwdCI6InBwIiwibWlkIjoicHJvZHVjdFJlY29tbWVuZGF0aW9uL3NpbWlsYXIifQ%3D%3D&pageUID=1782746460338",
+    "review": "anushansa Women Embroidered Viscose Rayon Straight Kurta 78% 1,999 \u20b9432 AD",
+    "sentiment": "Positive",
+    "created_at": "2026-06-29 15:21:24.262309+00:00"
+  },
+  {
+    "product": "https://www.flipkart.com/anushansa-women-checkered-straight-kurta/p/itmf0ee384048ad6?pid=KTAFY3YAGJVT8EYY&lid=LSTKTAFY3YAGJVT8EYYY4V8YJ&hl_lid=&marketplace=FLIPKART&fm=eyJ3dHAiOiJyZWNvIiwicHJwdCI6InBwIiwibWlkIjoicHJvZHVjdFJlY29tbWVuZGF0aW9uL3NpbWlsYXIifQ%3D%3D&pageUID=1782746460338",
+    "review": "anushansa Women Embroidered Viscose Rayon Straight Kurta 78% 1,999 \u20b9432",
+    "sentiment": "Positive",
+    "created_at": "2026-06-29 15:21:24.262312+00:00"
+  },
+  {
+    "product": "https://www.flipkart.com/fashion-patti-women-embroidered-a-line-kurta/p/itmcfcd256f596b9?pid=KTAHMEA3GHK4FC4Z&lid=LSTKTAHMEA3GHK4FC4Z39M9HQ&hl_lid=&marketplace=FLIPKART&fm=eyJ3dHAiOiJyZWNvIiwicHJwdCI6InBwIiwibWlkIjoicHJvZHVjdFJlY29tbWVuZGF0aW9uL3NpbWlsYXIifQ%3D%3D&pageUID=1782746638447",
+    "review": "Flipkart A one-stop Shopping Minutes Everything in Minutes Grocery At wholesale prices Travel All your travel needs Search Icon Search Icon Login New customer? Sign Up My Profile Flipkart Plus Zone Orders Wishlist Become a Seller Rewards Gift Cards Notification Preferences 24x7 Customer Care Advertise Download App More More Become a Seller Notification Settings 24x7 Customer Care Advertise on Flipkart Cart",
+    "sentiment": "Positive",
+    "created_at": "2026-06-29 15:24:15.220362+00:00"
+  },
+  {
+    "product": "https://www.flipkart.com/fashion-patti-women-embroidered-a-line-kurta/p/itmcfcd256f596b9?pid=KTAHMEA3GHK4FC4Z&lid=LSTKTAHMEA3GHK4FC4Z39M9HQ&hl_lid=&marketplace=FLIPKART&fm=eyJ3dHAiOiJyZWNvIiwicHJwdCI6InBwIiwibWlkIjoicHJvZHVjdFJlY29tbWVuZGF0aW9uL3NpbWlsYXIifQ%3D%3D&pageUID=1782746638447",
+    "review": "Flipkart A one-stop Shopping Minutes Everything in Minutes Grocery At wholesale prices Travel All your travel needs",
+    "sentiment": "Neutral",
+    "created_at": "2026-06-29 15:24:15.220374+00:00"
+  },
+  {
+    "product": "https://www.flipkart.com/fashion-patti-women-embroidered-a-line-kurta/p/itmcfcd256f596b9?pid=KTAHMEA3GHK4FC4Z&lid=LSTKTAHMEA3GHK4FC4Z39M9HQ&hl_lid=&marketplace=FLIPKART&fm=eyJ3dHAiOiJyZWNvIiwicHJwdCI6InBwIiwibWlkIjoicHJvZHVjdFJlY29tbWVuZGF0aW9uL3NpbWlsYXIifQ%3D%3D&pageUID=1782746638447",
+    "review": "Flipkart A one-stop Shopping",
+    "sentiment": "Neutral",
+    "created_at": "2026-06-29 15:24:15.220380+00:00"
+  },
+  {
+    "product": "https://www.flipkart.com/fashion-patti-women-embroidered-a-line-kurta/p/itmcfcd256f596b9?pid=KTAHMEA3GHK4FC4Z&lid=LSTKTAHMEA3GHK4FC4Z39M9HQ&hl_lid=&marketplace=FLIPKART&fm=eyJ3dHAiOiJyZWNvIiwicHJwdCI6InBwIiwibWlkIjoicHJvZHVjdFJlY29tbWVuZGF0aW9uL3NpbWlsYXIifQ%3D%3D&pageUID=1782746638447",
+    "review": "Minutes Everything in Minutes",
+    "sentiment": "Neutral",
+    "created_at": "2026-06-29 15:24:15.220386+00:00"
+  },
+  {
+    "product": "https://www.flipkart.com/fashion-patti-women-embroidered-a-line-kurta/p/itmcfcd256f596b9?pid=KTAHMEA3GHK4FC4Z&lid=LSTKTAHMEA3GHK4FC4Z39M9HQ&hl_lid=&marketplace=FLIPKART&fm=eyJ3dHAiOiJyZWNvIiwicHJwdCI6InBwIiwibWlkIjoicHJvZHVjdFJlY29tbWVuZGF0aW9uL3NpbWlsYXIifQ%3D%3D&pageUID=1782746638447",
+    "review": "Grocery At wholesale prices",
+    "sentiment": "Neutral",
+    "created_at": "2026-06-29 15:24:15.220390+00:00"
+  },
+  {
+    "product": "https://www.flipkart.com/fashion-patti-women-embroidered-a-line-kurta/p/itmcfcd256f596b9?pid=KTAHMEA3GHK4FC4Z&lid=LSTKTAHMEA3GHK4FC4Z39M9HQ&hl_lid=&marketplace=FLIPKART&fm=eyJ3dHAiOiJyZWNvIiwicHJwdCI6InBwIiwibWlkIjoicHJvZHVjdFJlY29tbWVuZGF0aW9uL3NpbWlsYXIifQ%3D%3D&pageUID=1782746638447",
+    "review": "Travel All your travel needs",
+    "sentiment": "Neutral",
+    "created_at": "2026-06-29 15:24:15.220396+00:00"
+  },
+  {
+    "product": "https://www.flipkart.com/fashion-patti-women-embroidered-a-line-kurta/p/itmcfcd256f596b9?pid=KTAHMEA3GHK4FC4Z&lid=LSTKTAHMEA3GHK4FC4Z39M9HQ&hl_lid=&marketplace=FLIPKART&fm=eyJ3dHAiOiJyZWNvIiwicHJwdCI6InBwIiwibWlkIjoicHJvZHVjdFJlY29tbWVuZGF0aW9uL3NpbWlsYXIifQ%3D%3D&pageUID=1782746638447",
+    "review": "Login New customer? Sign Up My Profile Flipkart Plus Zone Orders Wishlist Become a Seller Rewards Gift Cards Notification Preferences 24x7 Customer Care Advertise Download App More More Become a Seller Notification Settings 24x7 Customer Care Advertise on Flipkart Cart",
+    "sentiment": "Positive",
+    "created_at": "2026-06-29 15:24:15.220401+00:00"
+  },
+  {
+    "product": "https://www.flipkart.com/fashion-patti-women-embroidered-a-line-kurta/p/itmcfcd256f596b9?pid=KTAHMEA3GHK4FC4Z&lid=LSTKTAHMEA3GHK4FC4Z39M9HQ&hl_lid=&marketplace=FLIPKART&fm=eyJ3dHAiOiJyZWNvIiwicHJwdCI6InBwIiwibWlkIjoicHJvZHVjdFJlY29tbWVuZGF0aW9uL3NpbWlsYXIifQ%3D%3D&pageUID=1782746638447",
+    "review": "Login New customer? Sign Up My Profile Flipkart Plus Zone Orders Wishlist Become a Seller Rewards Gift Cards Notification Preferences 24x7 Customer Care Advertise Download App",
+    "sentiment": "Positive",
+    "created_at": "2026-06-29 15:24:15.220406+00:00"
+  },
+  {
+    "product": "https://www.flipkart.com/fashion-patti-women-embroidered-a-line-kurta/p/itmcfcd256f596b9?pid=KTAHMEA3GHK4FC4Z&lid=LSTKTAHMEA3GHK4FC4Z39M9HQ&hl_lid=&marketplace=FLIPKART&fm=eyJ3dHAiOiJyZWNvIiwicHJwdCI6InBwIiwibWlkIjoicHJvZHVjdFJlY29tbWVuZGF0aW9uL3NpbWlsYXIifQ%3D%3D&pageUID=1782746638447",
+    "review": "More More Become a Seller Notification Settings 24x7 Customer Care Advertise on Flipkart",
+    "sentiment": "Positive",
+    "created_at": "2026-06-29 15:24:15.220410+00:00"
+  },
+  {
+    "product": "https://www.flipkart.com/fashion-patti-women-embroidered-a-line-kurta/p/itmcfcd256f596b9?pid=KTAHMEA3GHK4FC4Z&lid=LSTKTAHMEA3GHK4FC4Z39M9HQ&hl_lid=&marketplace=FLIPKART&fm=eyJ3dHAiOiJyZWNvIiwicHJwdCI6InBwIiwibWlkIjoicHJvZHVjdFJlY29tbWVuZGF0aW9uL3NpbWlsYXIifQ%3D%3D&pageUID=1782746638447",
+    "review": "Home / Clothing and Accessories / Kurtas, Ethnic Sets and Bottoms / Kurtas / Women's Kurtas / FASHION PATTI Women's Kurtas / Women Embroidered Viscose Rayon A-line Kurta",
+    "sentiment": "Neutral",
+    "created_at": "2026-06-29 15:24:15.220415+00:00"
+  },
+  {
+    "product": "https://www.flipkart.com/fashion-patti-women-embroidered-a-line-kurta/p/itmcfcd256f596b9?pid=KTAHMEA3GHK4FC4Z&lid=LSTKTAHMEA3GHK4FC4Z39M9HQ&hl_lid=&marketplace=FLIPKART&fm=eyJ3dHAiOiJyZWNvIiwicHJwdCI6InBwIiwibWlkIjoicHJvZHVjdFJlY29tbWVuZGF0aW9uL3NpbWlsYXIifQ%3D%3D&pageUID=1782746638447",
+    "review": "Home / Clothing and Accessories / Kurtas, Ethnic Sets and Bottoms / Kurtas / Women's Kurtas / FASHION PATTI Women's Kurtas /",
+    "sentiment": "Neutral",
+    "created_at": "2026-06-29 15:24:15.220420+00:00"
+  },
+  {
+    "product": "https://www.flipkart.com/fashion-patti-women-embroidered-a-line-kurta/p/itmcfcd256f596b9?pid=KTAHMEA3GHK4FC4Z&lid=LSTKTAHMEA3GHK4FC4Z39M9HQ&hl_lid=&marketplace=FLIPKART&fm=eyJ3dHAiOiJyZWNvIiwicHJwdCI6InBwIiwibWlkIjoicHJvZHVjdFJlY29tbWVuZGF0aW9uL3NpbWlsYXIifQ%3D%3D&pageUID=1782746638447",
+    "review": "Clothing and Accessories /",
+    "sentiment": "Neutral",
+    "created_at": "2026-06-29 15:24:15.220425+00:00"
+  },
+  {
+    "product": "https://www.flipkart.com/fashion-patti-women-embroidered-a-line-kurta/p/itmcfcd256f596b9?pid=KTAHMEA3GHK4FC4Z&lid=LSTKTAHMEA3GHK4FC4Z39M9HQ&hl_lid=&marketplace=FLIPKART&fm=eyJ3dHAiOiJyZWNvIiwicHJwdCI6InBwIiwibWlkIjoicHJvZHVjdFJlY29tbWVuZGF0aW9uL3NpbWlsYXIifQ%3D%3D&pageUID=1782746638447",
+    "review": "Kurtas, Ethnic Sets and Bottoms /",
+    "sentiment": "Neutral",
+    "created_at": "2026-06-29 15:24:15.220429+00:00"
+  },
+  {
+    "product": "https://www.flipkart.com/fashion-patti-women-embroidered-a-line-kurta/p/itmcfcd256f596b9?pid=KTAHMEA3GHK4FC4Z&lid=LSTKTAHMEA3GHK4FC4Z39M9HQ&hl_lid=&marketplace=FLIPKART&fm=eyJ3dHAiOiJyZWNvIiwicHJwdCI6InBwIiwibWlkIjoicHJvZHVjdFJlY29tbWVuZGF0aW9uL3NpbWlsYXIifQ%3D%3D&pageUID=1782746638447",
+    "review": "FASHION PATTI Women's Kurtas /",
+    "sentiment": "Neutral",
+    "created_at": "2026-06-29 15:24:15.220434+00:00"
+  },
+  {
+    "product": "https://www.flipkart.com/fashion-patti-women-embroidered-a-line-kurta/p/itmcfcd256f596b9?pid=KTAHMEA3GHK4FC4Z&lid=LSTKTAHMEA3GHK4FC4Z39M9HQ&hl_lid=&marketplace=FLIPKART&fm=eyJ3dHAiOiJyZWNvIiwicHJwdCI6InBwIiwibWlkIjoicHJvZHVjdFJlY29tbWVuZGF0aW9uL3NpbWlsYXIifQ%3D%3D&pageUID=1782746638447",
+    "review": "Women Embroidered Viscose Rayon A-line Kurta",
+    "sentiment": "Neutral",
+    "created_at": "2026-06-29 15:24:15.220438+00:00"
+  },
+  {
+    "product": "https://www.flipkart.com/fashion-patti-women-embroidered-a-line-kurta/p/itmcfcd256f596b9?pid=KTAHMEA3GHK4FC4Z&lid=LSTKTAHMEA3GHK4FC4Z39M9HQ&hl_lid=&marketplace=FLIPKART&fm=eyJ3dHAiOiJyZWNvIiwicHJwdCI6InBwIiwibWlkIjoicHJvZHVjdFJlY29tbWVuZGF0aW9uL3NpbWlsYXIifQ%3D%3D&pageUID=1782746638447",
+    "review": "Key Highlights Key Highlights Key Highlights Key Highlights Key Highlights",
+    "sentiment": "Neutral",
+    "created_at": "2026-06-29 15:24:15.220443+00:00"
+  },
+  {
+    "product": "https://www.flipkart.com/fashion-patti-women-embroidered-a-line-kurta/p/itmcfcd256f596b9?pid=KTAHMEA3GHK4FC4Z&lid=LSTKTAHMEA3GHK4FC4Z39M9HQ&hl_lid=&marketplace=FLIPKART&fm=eyJ3dHAiOiJyZWNvIiwicHJwdCI6InBwIiwibWlkIjoicHJvZHVjdFJlY29tbWVuZGF0aW9uL3NpbWlsYXIifQ%3D%3D&pageUID=1782746638447",
+    "review": "anushansa Women Checkered Cotton Silk Straight Kurta 74% 1,610 \u20b9422 AD Selected Color: Grey Select Size Size Chart S M L XL XXL FASHION PATTI Women Embroidered Viscose Rayon A-line Kurta (Grey) 83% 1,999 \u20b9338 Buy at \u20b9288 Apply offers for maximum savings Buy at \u20b9288 Bank offers Bank offers \u20b950 off Delivery details Location not set Select delivery location Delivery by 3 Jul, Fri Fulfilled by Worldshigo 4.2 \u2022 5 years with Flipkart See other sellers 10-Day Return Cash on Delivery Flipkart Assured",
+    "sentiment": "Positive",
+    "created_at": "2026-06-29 15:24:15.220448+00:00"
+  },
+  {
+    "product": "https://www.flipkart.com/fashion-patti-women-embroidered-a-line-kurta/p/itmcfcd256f596b9?pid=KTAHMEA3GHK4FC4Z&lid=LSTKTAHMEA3GHK4FC4Z39M9HQ&hl_lid=&marketplace=FLIPKART&fm=eyJ3dHAiOiJyZWNvIiwicHJwdCI6InBwIiwibWlkIjoicHJvZHVjdFJlY29tbWVuZGF0aW9uL3NpbWlsYXIifQ%3D%3D&pageUID=1782746638447",
+    "review": "anushansa Women Checkered Cotton Silk Straight Kurta 74% 1,610 \u20b9422 AD",
+    "sentiment": "Positive",
+    "created_at": "2026-06-29 15:24:15.220453+00:00"
+  },
+  {
+    "product": "https://www.flipkart.com/fashion-patti-women-embroidered-a-line-kurta/p/itmcfcd256f596b9?pid=KTAHMEA3GHK4FC4Z&lid=LSTKTAHMEA3GHK4FC4Z39M9HQ&hl_lid=&marketplace=FLIPKART&fm=eyJ3dHAiOiJyZWNvIiwicHJwdCI6InBwIiwibWlkIjoicHJvZHVjdFJlY29tbWVuZGF0aW9uL3NpbWlsYXIifQ%3D%3D&pageUID=1782746638447",
+    "review": "anushansa Women Checkered Cotton Silk Straight Kurta 74% 1,610 \u20b9422",
+    "sentiment": "Positive",
+    "created_at": "2026-06-29 15:24:15.220458+00:00"
+  },
+  {
+    "product": "https://www.flipkart.com/fashion-patti-women-embroidered-a-line-kurta/p/itmcfcd256f596b9?pid=KTAHMEA3GHK4FC4Z&lid=LSTKTAHMEA3GHK4FC4Z39M9HQ&hl_lid=&marketplace=FLIPKART&fm=eyJ3dHAiOiJyZWNvIiwicHJwdCI6InBwIiwibWlkIjoicHJvZHVjdFJlY29tbWVuZGF0aW9uL3NpbWlsYXIifQ%3D%3D&pageUID=1782746638447",
+    "review": "anushansa Women Checkered Cotton Silk Straight Kurta",
+    "sentiment": "Positive",
+    "created_at": "2026-06-29 15:24:15.220463+00:00"
+  },
+  {
+    "product": "https://www.flipkart.com/house-sethia-women-embroidered-straight-kurta/p/itm463d9a7498d62?pid=KTAHMJW3ADREC6KZ&lid=LSTKTAHMJW3ADREC6KZ72WXAW&hl_lid=&marketplace=FLIPKART&fm=eyJ3dHAiOiJyZWNvIiwicHJwdCI6InBwIiwibWlkIjoicHJvZHVjdFJlY29tbWVuZGF0aW9uL3NpbWlsYXIifQ%3D%3D&pageUID=1782746722432",
+    "review": "Flipkart A one-stop Shopping Minutes Everything in Minutes Grocery At wholesale prices Travel All your travel needs Search Icon Search Icon Login New customer? Sign Up My Profile Flipkart Plus Zone Orders Wishlist Become a Seller Rewards Gift Cards Notification Preferences 24x7 Customer Care Advertise Download App More More Become a Seller Notification Settings 24x7 Customer Care Advertise on Flipkart Cart",
+    "sentiment": "Positive",
+    "created_at": "2026-06-29 15:25:42.172962+00:00"
+  },
+  {
+    "product": "https://www.flipkart.com/house-sethia-women-embroidered-straight-kurta/p/itm463d9a7498d62?pid=KTAHMJW3ADREC6KZ&lid=LSTKTAHMJW3ADREC6KZ72WXAW&hl_lid=&marketplace=FLIPKART&fm=eyJ3dHAiOiJyZWNvIiwicHJwdCI6InBwIiwibWlkIjoicHJvZHVjdFJlY29tbWVuZGF0aW9uL3NpbWlsYXIifQ%3D%3D&pageUID=1782746722432",
+    "review": "Flipkart A one-stop Shopping Minutes Everything in Minutes Grocery At wholesale prices Travel All your travel needs",
+    "sentiment": "Neutral",
+    "created_at": "2026-06-29 15:25:42.172972+00:00"
+  },
+  {
+    "product": "https://www.flipkart.com/house-sethia-women-embroidered-straight-kurta/p/itm463d9a7498d62?pid=KTAHMJW3ADREC6KZ&lid=LSTKTAHMJW3ADREC6KZ72WXAW&hl_lid=&marketplace=FLIPKART&fm=eyJ3dHAiOiJyZWNvIiwicHJwdCI6InBwIiwibWlkIjoicHJvZHVjdFJlY29tbWVuZGF0aW9uL3NpbWlsYXIifQ%3D%3D&pageUID=1782746722432",
+    "review": "Flipkart A one-stop Shopping",
+    "sentiment": "Neutral",
+    "created_at": "2026-06-29 15:25:42.172977+00:00"
+  },
+  {
+    "product": "https://www.flipkart.com/house-sethia-women-embroidered-straight-kurta/p/itm463d9a7498d62?pid=KTAHMJW3ADREC6KZ&lid=LSTKTAHMJW3ADREC6KZ72WXAW&hl_lid=&marketplace=FLIPKART&fm=eyJ3dHAiOiJyZWNvIiwicHJwdCI6InBwIiwibWlkIjoicHJvZHVjdFJlY29tbWVuZGF0aW9uL3NpbWlsYXIifQ%3D%3D&pageUID=1782746722432",
+    "review": "Minutes Everything in Minutes",
+    "sentiment": "Neutral",
+    "created_at": "2026-06-29 15:25:42.172981+00:00"
+  },
+  {
+    "product": "https://www.flipkart.com/house-sethia-women-embroidered-straight-kurta/p/itm463d9a7498d62?pid=KTAHMJW3ADREC6KZ&lid=LSTKTAHMJW3ADREC6KZ72WXAW&hl_lid=&marketplace=FLIPKART&fm=eyJ3dHAiOiJyZWNvIiwicHJwdCI6InBwIiwibWlkIjoicHJvZHVjdFJlY29tbWVuZGF0aW9uL3NpbWlsYXIifQ%3D%3D&pageUID=1782746722432",
+    "review": "Grocery At wholesale prices",
+    "sentiment": "Neutral",
+    "created_at": "2026-06-29 15:25:42.172986+00:00"
+  },
+  {
+    "product": "https://www.flipkart.com/house-sethia-women-embroidered-straight-kurta/p/itm463d9a7498d62?pid=KTAHMJW3ADREC6KZ&lid=LSTKTAHMJW3ADREC6KZ72WXAW&hl_lid=&marketplace=FLIPKART&fm=eyJ3dHAiOiJyZWNvIiwicHJwdCI6InBwIiwibWlkIjoicHJvZHVjdFJlY29tbWVuZGF0aW9uL3NpbWlsYXIifQ%3D%3D&pageUID=1782746722432",
+    "review": "Travel All your travel needs",
+    "sentiment": "Neutral",
+    "created_at": "2026-06-29 15:25:42.172991+00:00"
+  },
+  {
+    "product": "https://www.flipkart.com/house-sethia-women-embroidered-straight-kurta/p/itm463d9a7498d62?pid=KTAHMJW3ADREC6KZ&lid=LSTKTAHMJW3ADREC6KZ72WXAW&hl_lid=&marketplace=FLIPKART&fm=eyJ3dHAiOiJyZWNvIiwicHJwdCI6InBwIiwibWlkIjoicHJvZHVjdFJlY29tbWVuZGF0aW9uL3NpbWlsYXIifQ%3D%3D&pageUID=1782746722432",
+    "review": "Login New customer? Sign Up My Profile Flipkart Plus Zone Orders Wishlist Become a Seller Rewards Gift Cards Notification Preferences 24x7 Customer Care Advertise Download App More More Become a Seller Notification Settings 24x7 Customer Care Advertise on Flipkart Cart",
+    "sentiment": "Positive",
+    "created_at": "2026-06-29 15:25:42.172994+00:00"
+  },
+  {
+    "product": "https://www.flipkart.com/house-sethia-women-embroidered-straight-kurta/p/itm463d9a7498d62?pid=KTAHMJW3ADREC6KZ&lid=LSTKTAHMJW3ADREC6KZ72WXAW&hl_lid=&marketplace=FLIPKART&fm=eyJ3dHAiOiJyZWNvIiwicHJwdCI6InBwIiwibWlkIjoicHJvZHVjdFJlY29tbWVuZGF0aW9uL3NpbWlsYXIifQ%3D%3D&pageUID=1782746722432",
+    "review": "Login New customer? Sign Up My Profile Flipkart Plus Zone Orders Wishlist Become a Seller Rewards Gift Cards Notification Preferences 24x7 Customer Care Advertise Download App",
+    "sentiment": "Positive",
+    "created_at": "2026-06-29 15:25:42.172998+00:00"
+  },
+  {
+    "product": "https://www.flipkart.com/house-sethia-women-embroidered-straight-kurta/p/itm463d9a7498d62?pid=KTAHMJW3ADREC6KZ&lid=LSTKTAHMJW3ADREC6KZ72WXAW&hl_lid=&marketplace=FLIPKART&fm=eyJ3dHAiOiJyZWNvIiwicHJwdCI6InBwIiwibWlkIjoicHJvZHVjdFJlY29tbWVuZGF0aW9uL3NpbWlsYXIifQ%3D%3D&pageUID=1782746722432",
+    "review": "More More Become a Seller Notification Settings 24x7 Customer Care Advertise on Flipkart",
+    "sentiment": "Positive",
+    "created_at": "2026-06-29 15:25:42.173002+00:00"
+  },
+  {
+    "product": "https://www.flipkart.com/house-sethia-women-embroidered-straight-kurta/p/itm463d9a7498d62?pid=KTAHMJW3ADREC6KZ&lid=LSTKTAHMJW3ADREC6KZ72WXAW&hl_lid=&marketplace=FLIPKART&fm=eyJ3dHAiOiJyZWNvIiwicHJwdCI6InBwIiwibWlkIjoicHJvZHVjdFJlY29tbWVuZGF0aW9uL3NpbWlsYXIifQ%3D%3D&pageUID=1782746722432",
+    "review": "Home / Clothing and Accessories / Kurtas, Ethnic Sets and Bottoms / Kurtas / Women's Kurtas / HOUSE OF SETHIA Women's Kurtas / Women Embroidered Silk Blend Straight Kurta",
+    "sentiment": "Positive",
+    "created_at": "2026-06-29 15:25:42.173011+00:00"
+  },
+  {
+    "product": "https://www.flipkart.com/house-sethia-women-embroidered-straight-kurta/p/itm463d9a7498d62?pid=KTAHMJW3ADREC6KZ&lid=LSTKTAHMJW3ADREC6KZ72WXAW&hl_lid=&marketplace=FLIPKART&fm=eyJ3dHAiOiJyZWNvIiwicHJwdCI6InBwIiwibWlkIjoicHJvZHVjdFJlY29tbWVuZGF0aW9uL3NpbWlsYXIifQ%3D%3D&pageUID=1782746722432",
+    "review": "Home / Clothing and Accessories / Kurtas, Ethnic Sets and Bottoms / Kurtas / Women's Kurtas / HOUSE OF SETHIA Women's Kurtas /",
+    "sentiment": "Neutral",
+    "created_at": "2026-06-29 15:25:42.173015+00:00"
+  },
+  {
+    "product": "https://www.flipkart.com/house-sethia-women-embroidered-straight-kurta/p/itm463d9a7498d62?pid=KTAHMJW3ADREC6KZ&lid=LSTKTAHMJW3ADREC6KZ72WXAW&hl_lid=&marketplace=FLIPKART&fm=eyJ3dHAiOiJyZWNvIiwicHJwdCI6InBwIiwibWlkIjoicHJvZHVjdFJlY29tbWVuZGF0aW9uL3NpbWlsYXIifQ%3D%3D&pageUID=1782746722432",
+    "review": "Clothing and Accessories /",
+    "sentiment": "Neutral",
+    "created_at": "2026-06-29 15:25:42.173019+00:00"
+  },
+  {
+    "product": "https://www.flipkart.com/house-sethia-women-embroidered-straight-kurta/p/itm463d9a7498d62?pid=KTAHMJW3ADREC6KZ&lid=LSTKTAHMJW3ADREC6KZ72WXAW&hl_lid=&marketplace=FLIPKART&fm=eyJ3dHAiOiJyZWNvIiwicHJwdCI6InBwIiwibWlkIjoicHJvZHVjdFJlY29tbWVuZGF0aW9uL3NpbWlsYXIifQ%3D%3D&pageUID=1782746722432",
+    "review": "Kurtas, Ethnic Sets and Bottoms /",
+    "sentiment": "Neutral",
+    "created_at": "2026-06-29 15:25:42.173023+00:00"
+  },
+  {
+    "product": "https://www.flipkart.com/house-sethia-women-embroidered-straight-kurta/p/itm463d9a7498d62?pid=KTAHMJW3ADREC6KZ&lid=LSTKTAHMJW3ADREC6KZ72WXAW&hl_lid=&marketplace=FLIPKART&fm=eyJ3dHAiOiJyZWNvIiwicHJwdCI6InBwIiwibWlkIjoicHJvZHVjdFJlY29tbWVuZGF0aW9uL3NpbWlsYXIifQ%3D%3D&pageUID=1782746722432",
+    "review": "HOUSE OF SETHIA Women's Kurtas /",
+    "sentiment": "Neutral",
+    "created_at": "2026-06-29 15:25:42.173026+00:00"
+  },
+  {
+    "product": "https://www.flipkart.com/house-sethia-women-embroidered-straight-kurta/p/itm463d9a7498d62?pid=KTAHMJW3ADREC6KZ&lid=LSTKTAHMJW3ADREC6KZ72WXAW&hl_lid=&marketplace=FLIPKART&fm=eyJ3dHAiOiJyZWNvIiwicHJwdCI6InBwIiwibWlkIjoicHJvZHVjdFJlY29tbWVuZGF0aW9uL3NpbWlsYXIifQ%3D%3D&pageUID=1782746722432",
+    "review": "Women Embroidered Silk Blend Straight Kurta",
+    "sentiment": "Positive",
+    "created_at": "2026-06-29 15:25:42.173030+00:00"
+  },
+  {
+    "product": "https://www.flipkart.com/house-sethia-women-embroidered-straight-kurta/p/itm463d9a7498d62?pid=KTAHMJW3ADREC6KZ&lid=LSTKTAHMJW3ADREC6KZ72WXAW&hl_lid=&marketplace=FLIPKART&fm=eyJ3dHAiOiJyZWNvIiwicHJwdCI6InBwIiwibWlkIjoicHJvZHVjdFJlY29tbWVuZGF0aW9uL3NpbWlsYXIifQ%3D%3D&pageUID=1782746722432",
+    "review": "Key Highlights Key Highlights Key Highlights Key Highlights Key Highlights Key Highlights 4.4 | 27",
+    "sentiment": "Neutral",
+    "created_at": "2026-06-29 15:25:42.173034+00:00"
+  },
+  {
+    "product": "https://www.flipkart.com/house-sethia-women-embroidered-straight-kurta/p/itm463d9a7498d62?pid=KTAHMJW3ADREC6KZ&lid=LSTKTAHMJW3ADREC6KZ72WXAW&hl_lid=&marketplace=FLIPKART&fm=eyJ3dHAiOiJyZWNvIiwicHJwdCI6InBwIiwibWlkIjoicHJvZHVjdFJlY29tbWVuZGF0aW9uL3NpbWlsYXIifQ%3D%3D&pageUID=1782746722432",
+    "review": "Key Highlights Key Highlights Key Highlights Key Highlights Key Highlights Key Highlights",
+    "sentiment": "Neutral",
+    "created_at": "2026-06-29 15:25:42.173038+00:00"
+  },
+  {
+    "product": "https://www.flipkart.com/house-sethia-women-embroidered-straight-kurta/p/itm463d9a7498d62?pid=KTAHMJW3ADREC6KZ&lid=LSTKTAHMJW3ADREC6KZ72WXAW&hl_lid=&marketplace=FLIPKART&fm=eyJ3dHAiOiJyZWNvIiwicHJwdCI6InBwIiwibWlkIjoicHJvZHVjdFJlY29tbWVuZGF0aW9uL3NpbWlsYXIifQ%3D%3D&pageUID=1782746722432",
+    "review": "HOUSE OF SETHIA Women Embroidered Silk Blend Straight Kurta 77% 2,499 \u20b9568 AD HOUSE OF SETHIA Women Embroidered Silk Blend Straight Kurta 77% 2,499 \u20b9568 AD HOUSE OF SETHIA Women Embroidered Silk Blend Straight Kurta 77% 2,499 \u20b9568 AD",
+    "sentiment": "Positive",
+    "created_at": "2026-06-29 15:25:42.173042+00:00"
+  },
+  {
+    "product": "https://www.flipkart.com/house-sethia-women-embroidered-straight-kurta/p/itm463d9a7498d62?pid=KTAHMJW3ADREC6KZ&lid=LSTKTAHMJW3ADREC6KZ72WXAW&hl_lid=&marketplace=FLIPKART&fm=eyJ3dHAiOiJyZWNvIiwicHJwdCI6InBwIiwibWlkIjoicHJvZHVjdFJlY29tbWVuZGF0aW9uL3NpbWlsYXIifQ%3D%3D&pageUID=1782746722432",
+    "review": "HOUSE OF SETHIA Women Embroidered Silk Blend Straight Kurta 77% 2,499 \u20b9568 AD",
+    "sentiment": "Positive",
+    "created_at": "2026-06-29 15:25:42.173046+00:00"
+  },
+  {
+    "product": "https://www.flipkart.com/house-sethia-women-embroidered-straight-kurta/p/itm463d9a7498d62?pid=KTAHMJW3ADREC6KZ&lid=LSTKTAHMJW3ADREC6KZ72WXAW&hl_lid=&marketplace=FLIPKART&fm=eyJ3dHAiOiJyZWNvIiwicHJwdCI6InBwIiwibWlkIjoicHJvZHVjdFJlY29tbWVuZGF0aW9uL3NpbWlsYXIifQ%3D%3D&pageUID=1782746722432",
+    "review": "HOUSE OF SETHIA Women Embroidered Silk Blend Straight Kurta 77% 2,499 \u20b9568",
+    "sentiment": "Positive",
+    "created_at": "2026-06-29 15:25:42.173050+00:00"
+  },
+  {
+    "product": "https://www.flipkart.com/house-sethia-women-embroidered-straight-kurta/p/itm463d9a7498d62?pid=KTAHMJW3ADREC6KZ&lid=LSTKTAHMJW3ADREC6KZ72WXAW&hl_lid=&marketplace=FLIPKART&fm=eyJ3dHAiOiJyZWNvIiwicHJwdCI6InBwIiwibWlkIjoicHJvZHVjdFJlY29tbWVuZGF0aW9uL3NpbWlsYXIifQ%3D%3D&pageUID=1782746722432",
+    "review": "Flipkart A one-stop Shopping Minutes Everything in Minutes Grocery At wholesale prices Travel All your travel needs Search Icon Search Icon Login New customer? Sign Up My Profile Flipkart Plus Zone Orders Wishlist Become a Seller Rewards Gift Cards Notification Preferences 24x7 Customer Care Advertise Download App More More Become a Seller Notification Settings 24x7 Customer Care Advertise on Flipkart Cart Home / Clothing and Accessories / Kurtas, Ethnic Sets and Bottoms / Kurtas / Women's Kurtas / HOUSE OF SETHIA Women's Kurtas / Women Embroidered Silk Blend Straight Kurta Key Highlights Key Highlights Key Highlights Key Highlights Key Highlights Key Highlights 4.4 | 27 HOUSE OF SETHIA Women Embroidered Silk Blend Straight Kurta 77% 2,499 \u20b9568 AD anushansa Women Embroidered Viscose Rayon Straight Kurta 78% 1,999 \u20b9432 AD HOUSE OF SETHIA Women Embroidered Silk Blend Straight Kurta 77% 2,499 \u20b9568 AD Selected Color: Green Select Size Size Chart XS S M L XL XXL 3XL HOUSE OF SETHIA Women Embroidered Silk Blend Straight Kurta (Gree... more 4.4 | 27 77% 2,499 \u20b9568 Buy at \u20b9518 Apply offers for maximum savings Buy at \u20b9518 Bank offers Bank offers \u20b950 off Delivery details Location not set Select delivery location Delivery by 4 Jul, Sat Fulfilled by HOUSEOFSETHIA 4.4 \u2022 8 months with flipkart See other sellers 10-Day Return Cash on Delivery Customer support Similar Products AD 3.9 anushansa Women Embroidered Viscose Rayon Straight Kurta Green 78% OFF \u20b91,999 \u20b9432 \u20b9382 with 2 offers Get it by 5 Jul AD 4.4 HOUSE OF SETHIA Women Embroidered Silk Blend Straight Kurta Dark Green 77% OFF \u20b92,499 \u20b9568 \u20b9518 with 2 offers Get it by 6 Jul AD 4.4 HOUSE OF SETHIA Women Embroidered Silk Blend Straight Kurta Yellow 77% OFF \u20b92,499 \u20b9568 \u20b9518 with 2 offers Get it by 6 Jul AD 4.4 HOUSE OF SETHIA Women Embroidered Silk Blend Straight Kurta Dark Green 77% OFF \u20b92,499 \u20b9568 \u20b9518 with 2 offers Get it by 6 Jul AD 4.4 HOUSE OF SETHIA Women Embroidered Silk Blend Straight Kurta Orange 77% OFF \u20b92,499 \u20b9568 \u20b9518 with 2 offers Get it by 6 Jul AD 4.4 HOUSE OF SETHIA Women Embroidered Silk Blend Straight Kurta Black 77% OFF \u20b92,499 \u20b9568 \u20b9518 with 2 offers Get it by 6 Jul AD 4.4 HOUSE OF SETHIA Women Embroidered Silk Blend Straight Kurta Maroon 77% OFF \u20b92,499 \u20b9568 \u20b9518 with 2 offers Get it by 6 Jul 4 RARE THREAD Women Embroidered Silk Blend Straight Kurta Green 77% OFF \u20b92,499 \u20b9565 \u20b9515 with 2 offers Get it by 5 Jul Hang on, loading content",
+    "sentiment": "Positive",
+    "created_at": "2026-06-29 15:47:46.266789+00:00"
+  },
+  {
+    "product": "https://www.flipkart.com/house-sethia-women-embroidered-straight-kurta/p/itm463d9a7498d62?pid=KTAHMJW3ADREC6KZ&lid=LSTKTAHMJW3ADREC6KZ72WXAW&hl_lid=&marketplace=FLIPKART&fm=eyJ3dHAiOiJyZWNvIiwicHJwdCI6InBwIiwibWlkIjoicHJvZHVjdFJlY29tbWVuZGF0aW9uL3NpbWlsYXIifQ%3D%3D&pageUID=1782746722432",
+    "review": "Flipkart A one-stop Shopping Minutes Everything in Minutes Grocery At wholesale prices Travel All your travel needs Search Icon Search Icon Login New customer? Sign Up My Profile Flipkart Plus Zone Orders Wishlist Become a Seller Rewards Gift Cards Notification Preferences 24x7 Customer Care Advertise Download App More More Become a Seller Notification Settings 24x7 Customer Care Advertise on Flipkart Cart",
+    "sentiment": "Positive",
+    "created_at": "2026-06-29 15:47:46.266805+00:00"
+  },
+  {
+    "product": "https://www.flipkart.com/house-sethia-women-embroidered-straight-kurta/p/itm463d9a7498d62?pid=KTAHMJW3ADREC6KZ&lid=LSTKTAHMJW3ADREC6KZ72WXAW&hl_lid=&marketplace=FLIPKART&fm=eyJ3dHAiOiJyZWNvIiwicHJwdCI6InBwIiwibWlkIjoicHJvZHVjdFJlY29tbWVuZGF0aW9uL3NpbWlsYXIifQ%3D%3D&pageUID=1782746722432",
+    "review": "Flipkart A one-stop Shopping Minutes Everything in Minutes Grocery At wholesale prices Travel All your travel needs",
+    "sentiment": "Neutral",
+    "created_at": "2026-06-29 15:47:46.266810+00:00"
+  },
+  {
+    "product": "https://www.flipkart.com/house-sethia-women-embroidered-straight-kurta/p/itm463d9a7498d62?pid=KTAHMJW3ADREC6KZ&lid=LSTKTAHMJW3ADREC6KZ72WXAW&hl_lid=&marketplace=FLIPKART&fm=eyJ3dHAiOiJyZWNvIiwicHJwdCI6InBwIiwibWlkIjoicHJvZHVjdFJlY29tbWVuZGF0aW9uL3NpbWlsYXIifQ%3D%3D&pageUID=1782746722432",
+    "review": "Flipkart A one-stop Shopping",
+    "sentiment": "Neutral",
+    "created_at": "2026-06-29 15:47:46.266813+00:00"
+  },
+  {
+    "product": "https://www.flipkart.com/house-sethia-women-embroidered-straight-kurta/p/itm463d9a7498d62?pid=KTAHMJW3ADREC6KZ&lid=LSTKTAHMJW3ADREC6KZ72WXAW&hl_lid=&marketplace=FLIPKART&fm=eyJ3dHAiOiJyZWNvIiwicHJwdCI6InBwIiwibWlkIjoicHJvZHVjdFJlY29tbWVuZGF0aW9uL3NpbWlsYXIifQ%3D%3D&pageUID=1782746722432",
+    "review": "Minutes Everything in Minutes",
+    "sentiment": "Neutral",
+    "created_at": "2026-06-29 15:47:46.266817+00:00"
+  },
+  {
+    "product": "https://www.flipkart.com/house-sethia-women-embroidered-straight-kurta/p/itm463d9a7498d62?pid=KTAHMJW3ADREC6KZ&lid=LSTKTAHMJW3ADREC6KZ72WXAW&hl_lid=&marketplace=FLIPKART&fm=eyJ3dHAiOiJyZWNvIiwicHJwdCI6InBwIiwibWlkIjoicHJvZHVjdFJlY29tbWVuZGF0aW9uL3NpbWlsYXIifQ%3D%3D&pageUID=1782746722432",
+    "review": "Grocery At wholesale prices",
+    "sentiment": "Neutral",
+    "created_at": "2026-06-29 15:47:46.266821+00:00"
+  },
+  {
+    "product": "https://www.flipkart.com/house-sethia-women-embroidered-straight-kurta/p/itm463d9a7498d62?pid=KTAHMJW3ADREC6KZ&lid=LSTKTAHMJW3ADREC6KZ72WXAW&hl_lid=&marketplace=FLIPKART&fm=eyJ3dHAiOiJyZWNvIiwicHJwdCI6InBwIiwibWlkIjoicHJvZHVjdFJlY29tbWVuZGF0aW9uL3NpbWlsYXIifQ%3D%3D&pageUID=1782746722432",
+    "review": "Travel All your travel needs",
+    "sentiment": "Neutral",
+    "created_at": "2026-06-29 15:47:46.266824+00:00"
+  },
+  {
+    "product": "https://www.flipkart.com/house-sethia-women-embroidered-straight-kurta/p/itm463d9a7498d62?pid=KTAHMJW3ADREC6KZ&lid=LSTKTAHMJW3ADREC6KZ72WXAW&hl_lid=&marketplace=FLIPKART&fm=eyJ3dHAiOiJyZWNvIiwicHJwdCI6InBwIiwibWlkIjoicHJvZHVjdFJlY29tbWVuZGF0aW9uL3NpbWlsYXIifQ%3D%3D&pageUID=1782746722432",
+    "review": "Login New customer? Sign Up My Profile Flipkart Plus Zone Orders Wishlist Become a Seller Rewards Gift Cards Notification Preferences 24x7 Customer Care Advertise Download App More More Become a Seller Notification Settings 24x7 Customer Care Advertise on Flipkart Cart",
+    "sentiment": "Positive",
+    "created_at": "2026-06-29 15:47:46.266828+00:00"
+  },
+  {
+    "product": "https://www.flipkart.com/house-sethia-women-embroidered-straight-kurta/p/itm463d9a7498d62?pid=KTAHMJW3ADREC6KZ&lid=LSTKTAHMJW3ADREC6KZ72WXAW&hl_lid=&marketplace=FLIPKART&fm=eyJ3dHAiOiJyZWNvIiwicHJwdCI6InBwIiwibWlkIjoicHJvZHVjdFJlY29tbWVuZGF0aW9uL3NpbWlsYXIifQ%3D%3D&pageUID=1782746722432",
+    "review": "Login New customer? Sign Up My Profile Flipkart Plus Zone Orders Wishlist Become a Seller Rewards Gift Cards Notification Preferences 24x7 Customer Care Advertise Download App",
+    "sentiment": "Positive",
+    "created_at": "2026-06-29 15:47:46.266831+00:00"
+  },
+  {
+    "product": "https://www.flipkart.com/house-sethia-women-embroidered-straight-kurta/p/itm463d9a7498d62?pid=KTAHMJW3ADREC6KZ&lid=LSTKTAHMJW3ADREC6KZ72WXAW&hl_lid=&marketplace=FLIPKART&fm=eyJ3dHAiOiJyZWNvIiwicHJwdCI6InBwIiwibWlkIjoicHJvZHVjdFJlY29tbWVuZGF0aW9uL3NpbWlsYXIifQ%3D%3D&pageUID=1782746722432",
+    "review": "More More Become a Seller Notification Settings 24x7 Customer Care Advertise on Flipkart",
+    "sentiment": "Positive",
+    "created_at": "2026-06-29 15:47:46.266835+00:00"
+  },
+  {
+    "product": "https://www.flipkart.com/house-sethia-women-embroidered-straight-kurta/p/itm463d9a7498d62?pid=KTAHMJW3ADREC6KZ&lid=LSTKTAHMJW3ADREC6KZ72WXAW&hl_lid=&marketplace=FLIPKART&fm=eyJ3dHAiOiJyZWNvIiwicHJwdCI6InBwIiwibWlkIjoicHJvZHVjdFJlY29tbWVuZGF0aW9uL3NpbWlsYXIifQ%3D%3D&pageUID=1782746722432",
+    "review": "Home / Clothing and Accessories / Kurtas, Ethnic Sets and Bottoms / Kurtas / Women's Kurtas / HOUSE OF SETHIA Women's Kurtas / Women Embroidered Silk Blend Straight Kurta Key Highlights Key Highlights Key Highlights Key Highlights Key Highlights Key Highlights 4.4 | 27 HOUSE OF SETHIA Women Embroidered Silk Blend Straight Kurta 77% 2,499 \u20b9568 AD anushansa Women Embroidered Viscose Rayon Straight Kurta 78% 1,999 \u20b9432 AD HOUSE OF SETHIA Women Embroidered Silk Blend Straight Kurta 77% 2,499 \u20b9568 AD Selected Color: Green Select Size Size Chart XS S M L XL XXL 3XL HOUSE OF SETHIA Women Embroidered Silk Blend Straight Kurta (Gree... more 4.4 | 27 77% 2,499 \u20b9568 Buy at \u20b9518 Apply offers for maximum savings Buy at \u20b9518 Bank offers Bank offers \u20b950 off Delivery details Location not set Select delivery location Delivery by 4 Jul, Sat Fulfilled by HOUSEOFSETHIA 4.4 \u2022 8 months with flipkart See other sellers 10-Day Return Cash on Delivery Customer support Similar Products AD 3.9 anushansa Women Embroidered Viscose Rayon Straight Kurta Green 78% OFF \u20b91,999 \u20b9432 \u20b9382 with 2 offers Get it by 5 Jul AD 4.4 HOUSE OF SETHIA Women Embroidered Silk Blend Straight Kurta Dark Green 77% OFF \u20b92,499 \u20b9568 \u20b9518 with 2 offers Get it by 6 Jul AD 4.4 HOUSE OF SETHIA Women Embroidered Silk Blend Straight Kurta Yellow 77% OFF \u20b92,499 \u20b9568 \u20b9518 with 2 offers Get it by 6 Jul AD 4.4 HOUSE OF SETHIA Women Embroidered Silk Blend Straight Kurta Dark Green 77% OFF \u20b92,499 \u20b9568 \u20b9518 with 2 offers Get it by 6 Jul AD 4.4 HOUSE OF SETHIA Women Embroidered Silk Blend Straight Kurta Orange 77% OFF \u20b92,499 \u20b9568 \u20b9518 with 2 offers Get it by 6 Jul AD 4.4 HOUSE OF SETHIA Women Embroidered Silk Blend Straight Kurta Black 77% OFF \u20b92,499 \u20b9568 \u20b9518 with 2 offers Get it by 6 Jul AD 4.4 HOUSE OF SETHIA Women Embroidered Silk Blend Straight Kurta Maroon 77% OFF \u20b92,499 \u20b9568 \u20b9518 with 2 offers Get it by 6 Jul 4 RARE THREAD Women Embroidered Silk Blend Straight Kurta Green 77% OFF \u20b92,499 \u20b9565 \u20b9515 with 2 offers Get it by 5 Jul Hang on, loading content",
+    "sentiment": "Positive",
+    "created_at": "2026-06-29 15:47:46.266838+00:00"
+  },
+  {
+    "product": "https://www.flipkart.com/house-sethia-women-embroidered-straight-kurta/p/itm463d9a7498d62?pid=KTAHMJW3ADREC6KZ&lid=LSTKTAHMJW3ADREC6KZ72WXAW&hl_lid=&marketplace=FLIPKART&fm=eyJ3dHAiOiJyZWNvIiwicHJwdCI6InBwIiwibWlkIjoicHJvZHVjdFJlY29tbWVuZGF0aW9uL3NpbWlsYXIifQ%3D%3D&pageUID=1782746722432",
+    "review": "Home / Clothing and Accessories / Kurtas, Ethnic Sets and Bottoms / Kurtas / Women's Kurtas / HOUSE OF SETHIA Women's Kurtas / Women Embroidered Silk Blend Straight Kurta",
+    "sentiment": "Positive",
+    "created_at": "2026-06-29 15:47:46.266842+00:00"
+  },
+  {
+    "product": "https://www.flipkart.com/house-sethia-women-embroidered-straight-kurta/p/itm463d9a7498d62?pid=KTAHMJW3ADREC6KZ&lid=LSTKTAHMJW3ADREC6KZ72WXAW&hl_lid=&marketplace=FLIPKART&fm=eyJ3dHAiOiJyZWNvIiwicHJwdCI6InBwIiwibWlkIjoicHJvZHVjdFJlY29tbWVuZGF0aW9uL3NpbWlsYXIifQ%3D%3D&pageUID=1782746722432",
+    "review": "Home / Clothing and Accessories / Kurtas, Ethnic Sets and Bottoms / Kurtas / Women's Kurtas / HOUSE OF SETHIA Women's Kurtas /",
+    "sentiment": "Neutral",
+    "created_at": "2026-06-29 15:47:46.266845+00:00"
+  },
+  {
+    "product": "https://www.flipkart.com/house-sethia-women-embroidered-straight-kurta/p/itm463d9a7498d62?pid=KTAHMJW3ADREC6KZ&lid=LSTKTAHMJW3ADREC6KZ72WXAW&hl_lid=&marketplace=FLIPKART&fm=eyJ3dHAiOiJyZWNvIiwicHJwdCI6InBwIiwibWlkIjoicHJvZHVjdFJlY29tbWVuZGF0aW9uL3NpbWlsYXIifQ%3D%3D&pageUID=1782746722432",
+    "review": "Clothing and Accessories /",
+    "sentiment": "Neutral",
+    "created_at": "2026-06-29 15:47:46.266848+00:00"
+  },
+  {
+    "product": "https://www.flipkart.com/house-sethia-women-embroidered-straight-kurta/p/itm463d9a7498d62?pid=KTAHMJW3ADREC6KZ&lid=LSTKTAHMJW3ADREC6KZ72WXAW&hl_lid=&marketplace=FLIPKART&fm=eyJ3dHAiOiJyZWNvIiwicHJwdCI6InBwIiwibWlkIjoicHJvZHVjdFJlY29tbWVuZGF0aW9uL3NpbWlsYXIifQ%3D%3D&pageUID=1782746722432",
+    "review": "Kurtas, Ethnic Sets and Bottoms /",
+    "sentiment": "Neutral",
+    "created_at": "2026-06-29 15:47:46.266851+00:00"
+  },
+  {
+    "product": "https://www.flipkart.com/house-sethia-women-embroidered-straight-kurta/p/itm463d9a7498d62?pid=KTAHMJW3ADREC6KZ&lid=LSTKTAHMJW3ADREC6KZ72WXAW&hl_lid=&marketplace=FLIPKART&fm=eyJ3dHAiOiJyZWNvIiwicHJwdCI6InBwIiwibWlkIjoicHJvZHVjdFJlY29tbWVuZGF0aW9uL3NpbWlsYXIifQ%3D%3D&pageUID=1782746722432",
+    "review": "HOUSE OF SETHIA Women's Kurtas /",
+    "sentiment": "Neutral",
+    "created_at": "2026-06-29 15:47:46.266854+00:00"
+  },
+  {
+    "product": "https://www.flipkart.com/house-sethia-women-embroidered-straight-kurta/p/itm463d9a7498d62?pid=KTAHMJW3ADREC6KZ&lid=LSTKTAHMJW3ADREC6KZ72WXAW&hl_lid=&marketplace=FLIPKART&fm=eyJ3dHAiOiJyZWNvIiwicHJwdCI6InBwIiwibWlkIjoicHJvZHVjdFJlY29tbWVuZGF0aW9uL3NpbWlsYXIifQ%3D%3D&pageUID=1782746722432",
+    "review": "Women Embroidered Silk Blend Straight Kurta",
+    "sentiment": "Positive",
+    "created_at": "2026-06-29 15:47:46.266857+00:00"
+  },
+  {
+    "product": "https://www.flipkart.com/house-sethia-women-embroidered-straight-kurta/p/itm463d9a7498d62?pid=KTAHMJW3ADREC6KZ&lid=LSTKTAHMJW3ADREC6KZ72WXAW&hl_lid=&marketplace=FLIPKART&fm=eyJ3dHAiOiJyZWNvIiwicHJwdCI6InBwIiwibWlkIjoicHJvZHVjdFJlY29tbWVuZGF0aW9uL3NpbWlsYXIifQ%3D%3D&pageUID=1782746722432",
+    "review": "Key Highlights Key Highlights Key Highlights Key Highlights Key Highlights Key Highlights 4.4 | 27 HOUSE OF SETHIA Women Embroidered Silk Blend Straight Kurta 77% 2,499 \u20b9568 AD anushansa Women Embroidered Viscose Rayon Straight Kurta 78% 1,999 \u20b9432 AD HOUSE OF SETHIA Women Embroidered Silk Blend Straight Kurta 77% 2,499 \u20b9568 AD Selected Color: Green Select Size Size Chart XS S M L XL XXL 3XL HOUSE OF SETHIA Women Embroidered Silk Blend Straight Kurta (Gree... more 4.4 | 27 77% 2,499 \u20b9568 Buy at \u20b9518 Apply offers for maximum savings Buy at \u20b9518 Bank offers Bank offers \u20b950 off Delivery details Location not set Select delivery location Delivery by 4 Jul, Sat Fulfilled by HOUSEOFSETHIA 4.4 \u2022 8 months with flipkart See other sellers 10-Day Return Cash on Delivery Customer support Similar Products AD 3.9 anushansa Women Embroidered Viscose Rayon Straight Kurta Green 78% OFF \u20b91,999 \u20b9432 \u20b9382 with 2 offers Get it by 5 Jul AD 4.4 HOUSE OF SETHIA Women Embroidered Silk Blend Straight Kurta Dark Green 77% OFF \u20b92,499 \u20b9568 \u20b9518 with 2 offers Get it by 6 Jul AD 4.4 HOUSE OF SETHIA Women Embroidered Silk Blend Straight Kurta Yellow 77% OFF \u20b92,499 \u20b9568 \u20b9518 with 2 offers Get it by 6 Jul AD 4.4 HOUSE OF SETHIA Women Embroidered Silk Blend Straight Kurta Dark Green 77% OFF \u20b92,499 \u20b9568 \u20b9518 with 2 offers Get it by 6 Jul AD 4.4 HOUSE OF SETHIA Women Embroidered Silk Blend Straight Kurta Orange 77% OFF \u20b92,499 \u20b9568 \u20b9518 with 2 offers Get it by 6 Jul AD 4.4 HOUSE OF SETHIA Women Embroidered Silk Blend Straight Kurta Black 77% OFF \u20b92,499 \u20b9568 \u20b9518 with 2 offers Get it by 6 Jul AD 4.4 HOUSE OF SETHIA Women Embroidered Silk Blend Straight Kurta Maroon 77% OFF \u20b92,499 \u20b9568 \u20b9518 with 2 offers Get it by 6 Jul 4 RARE THREAD Women Embroidered Silk Blend Straight Kurta Green 77% OFF \u20b92,499 \u20b9565 \u20b9515 with 2 offers Get it by 5 Jul",
+    "sentiment": "Positive",
+    "created_at": "2026-06-29 15:47:46.266860+00:00"
+  },
+  {
+    "product": "https://www.flipkart.com/house-sethia-women-embroidered-straight-kurta/p/itm463d9a7498d62?pid=KTAHMJW3ADREC6KZ&lid=LSTKTAHMJW3ADREC6KZ72WXAW&hl_lid=&marketplace=FLIPKART&fm=eyJ3dHAiOiJyZWNvIiwicHJwdCI6InBwIiwibWlkIjoicHJvZHVjdFJlY29tbWVuZGF0aW9uL3NpbWlsYXIifQ%3D%3D&pageUID=1782746722432",
+    "review": "Key Highlights Key Highlights Key Highlights Key Highlights Key Highlights Key Highlights 4.4 | 27 HOUSE OF SETHIA Women Embroidered Silk Blend Straight Kurta 77% 2,499 \u20b9568 AD anushansa Women Embroidered Viscose Rayon Straight Kurta 78% 1,999 \u20b9432 AD HOUSE OF SETHIA Women Embroidered Silk Blend Straight Kurta 77% 2,499 \u20b9568 AD Selected Color: Green Select Size Size Chart XS S M L XL XXL 3XL HOUSE OF SETHIA Women Embroidered Silk Blend Straight Kurta (Gree... more 4.4 | 27 77% 2,499 \u20b9568 Buy at \u20b9518 Apply offers for maximum savings Buy at \u20b9518 Bank offers Bank offers \u20b950 off Delivery details Location not set Select delivery location Delivery by 4 Jul, Sat Fulfilled by HOUSEOFSETHIA 4.4 \u2022 8 months with flipkart See other sellers 10-Day Return Cash on Delivery Customer support",
+    "sentiment": "Positive",
+    "created_at": "2026-06-29 15:47:46.266864+00:00"
+  },
+  {
+    "product": "https://www.flipkart.com/house-sethia-women-embroidered-straight-kurta/p/itm463d9a7498d62?pid=KTAHMJW3ADREC6KZ&lid=LSTKTAHMJW3ADREC6KZ72WXAW&hl_lid=&marketplace=FLIPKART&fm=eyJ3dHAiOiJyZWNvIiwicHJwdCI6InBwIiwibWlkIjoicHJvZHVjdFJlY29tbWVuZGF0aW9uL3NpbWlsYXIifQ%3D%3D&pageUID=1782746722432",
+    "review": "Key Highlights Key Highlights Key Highlights Key Highlights Key Highlights Key Highlights 4.4 | 27",
+    "sentiment": "Neutral",
+    "created_at": "2026-06-29 15:47:46.266867+00:00"
+  },
+  {
+    "product": "https://www.flipkart.com/hirvanti-fashion-women-kurta-palazzo-dupatta-set/p/itmcf19461c9cd21?pid=ETHHHHYAEGYGFE7S&lid=LSTETHHHHYAEGYGFE7SSFKFMO&marketplace=FLIPKART&store=clo%2Fcfv%2Fitg%2Ftys&srno=b_1_1&otracker=browse&fm=organic&iid=en_U2AUnGXQG4-cMk5RKSR1o3oGGk8PfrbWhxs_NqJIg9OhxnzcggVQeB6ZsDmyICuQeD-eNlam0jKMjnlvLfjiz9quU6zuVnKVDoEVF-j778JAIY7ssQMzUNQ4_ZojZ_Yq&ppt=None&ppn=None&ssid=xudgopv8680000001782746263333&ov_redirect=true",
+    "review": "Flipkart A one-stop Shopping Minutes Everything in Minutes Grocery At wholesale prices Travel All your travel needs Search Icon Search Icon Login New customer? Sign Up My Profile Flipkart Plus Zone Orders Wishlist Become a Seller Rewards Gift Cards Notification Preferences 24x7 Customer Care Advertise Download App More More Become a Seller Notification Settings 24x7 Customer Care Advertise on Flipkart Cart Home / Clothing and Accessories / Kurtas, Ethnic Sets and Bottoms / Ethnic Sets / Women's Ethnic Sets / Hirvanti Fashion Women's Ethnic Sets / Women Silk Blend Kurta Palazzo Dupatta Set Key Highlights Key Highlights Key Highlights Key Highlights Key Highlights Key Highlights 4.2 | 107 CALLME TEXTILE & DESIGN Women Pure Silk Kurti Pant Attached Dupatta Set 67% 3,199 \u20b91,048 AD TRAHIMAM Women Pure Cotton Kurta Palazzo Dupatta Set 78% 3,999 \u20b9894 AD InWeave Women Viscose Rayon Kurta Palazzo Set 71% 3,095 \u20b9899 AD Selected Color: Purple Out of stock Out of stock Out of stock Out of stock Select Size Size Chart S M L XL XXL Hirvanti Fashion Women Silk Blend Kurta Palazzo Dupatta Set 4.2 | 107 Lowest Price since Launch 83% 3,999 \u20b9693 Buy at \u20b9658 Apply offers for maximum savings Buy at \u20b9658 Bank offers Bank offers \u20b935 off Delivery details Location not set Select delivery location Delivery by 3 Jul, Fri Fulfilled by HirvantiFashion 4.0 \u2022 7 years with Flipkart See other sellers 10-Day Return Cash on Delivery Flipkart Assured Similar Products AD 4 SANGOURI Women Viscose Rayon Kurti Pant Attached Dupatta Set 85% OFF \u20b92,999 \u20b9440 Hot Deal Get it by 4 Jul AD CALLME TEXTILE & DESIGN Women Pure Silk Kurti Pant Attached Dupatta Set 67% OFF \u20b93,199 \u20b91,048 Hot Deal Get it by 5 Jul AD TRAHIMAM Women Pure Cotton Kurta Palazzo Dupatta Set 78% OFF \u20b93,999 \u20b9894 \u20b9849 with 2 offers Get it by 4 Jul AD dharmkunj Women Silk Blend Kurta Palazzo Dupatta Set 70% OFF \u20b93,999 \u20b91,188 \u20b91,128 with Bank offer Get it by 5 Jul AD 4.3 PILUDI HOUSE Women Chanderi Kurti Pant Dupatta Set 72% OFF \u20b92,999 \u20b9848 Hot Deal Get it by 4 Jul AD 4.5 MOKOSH Women Pure Silk Kurta Pant Dupatta Set 71% OFF \u20b94,299 \u20b91,242 \u20b91,179 with Bank offer Get by Today AD 4.4 InWeave Women Viscose Rayon Kurta Palazzo Set 71% OFF \u20b93,095 \u20b9899 Hot Deal Get it by 6 Jul AD 4.4 KIMAYRA Women Pure Cotton Kurta Palazzo Dupatta Set 65% OFF \u20b93,799 \u20b91,342 Hot Deal Get it by 4 Jul Hang on, loading content",
+    "sentiment": "Positive",
+    "created_at": "2026-06-30 06:34:37.819480+00:00"
+  },
+  {
+    "product": "https://www.flipkart.com/hirvanti-fashion-women-kurta-palazzo-dupatta-set/p/itmcf19461c9cd21?pid=ETHHHHYAEGYGFE7S&lid=LSTETHHHHYAEGYGFE7SSFKFMO&marketplace=FLIPKART&store=clo%2Fcfv%2Fitg%2Ftys&srno=b_1_1&otracker=browse&fm=organic&iid=en_U2AUnGXQG4-cMk5RKSR1o3oGGk8PfrbWhxs_NqJIg9OhxnzcggVQeB6ZsDmyICuQeD-eNlam0jKMjnlvLfjiz9quU6zuVnKVDoEVF-j778JAIY7ssQMzUNQ4_ZojZ_Yq&ppt=None&ppn=None&ssid=xudgopv8680000001782746263333&ov_redirect=true",
+    "review": "Flipkart A one-stop Shopping Minutes Everything in Minutes Grocery At wholesale prices Travel All your travel needs Search Icon Search Icon Login New customer? Sign Up My Profile Flipkart Plus Zone Orders Wishlist Become a Seller Rewards Gift Cards Notification Preferences 24x7 Customer Care Advertise Download App More More Become a Seller Notification Settings 24x7 Customer Care Advertise on Flipkart Cart",
+    "sentiment": "Positive",
+    "created_at": "2026-06-30 06:34:37.819504+00:00"
+  },
+  {
+    "product": "https://www.flipkart.com/hirvanti-fashion-women-kurta-palazzo-dupatta-set/p/itmcf19461c9cd21?pid=ETHHHHYAEGYGFE7S&lid=LSTETHHHHYAEGYGFE7SSFKFMO&marketplace=FLIPKART&store=clo%2Fcfv%2Fitg%2Ftys&srno=b_1_1&otracker=browse&fm=organic&iid=en_U2AUnGXQG4-cMk5RKSR1o3oGGk8PfrbWhxs_NqJIg9OhxnzcggVQeB6ZsDmyICuQeD-eNlam0jKMjnlvLfjiz9quU6zuVnKVDoEVF-j778JAIY7ssQMzUNQ4_ZojZ_Yq&ppt=None&ppn=None&ssid=xudgopv8680000001782746263333&ov_redirect=true",
+    "review": "Flipkart A one-stop Shopping Minutes Everything in Minutes Grocery At wholesale prices Travel All your travel needs",
+    "sentiment": "Neutral",
+    "created_at": "2026-06-30 06:34:37.819509+00:00"
+  },
+  {
+    "product": "https://www.flipkart.com/hirvanti-fashion-women-kurta-palazzo-dupatta-set/p/itmcf19461c9cd21?pid=ETHHHHYAEGYGFE7S&lid=LSTETHHHHYAEGYGFE7SSFKFMO&marketplace=FLIPKART&store=clo%2Fcfv%2Fitg%2Ftys&srno=b_1_1&otracker=browse&fm=organic&iid=en_U2AUnGXQG4-cMk5RKSR1o3oGGk8PfrbWhxs_NqJIg9OhxnzcggVQeB6ZsDmyICuQeD-eNlam0jKMjnlvLfjiz9quU6zuVnKVDoEVF-j778JAIY7ssQMzUNQ4_ZojZ_Yq&ppt=None&ppn=None&ssid=xudgopv8680000001782746263333&ov_redirect=true",
+    "review": "Flipkart A one-stop Shopping",
+    "sentiment": "Neutral",
+    "created_at": "2026-06-30 06:34:37.819514+00:00"
+  },
+  {
+    "product": "https://www.flipkart.com/hirvanti-fashion-women-kurta-palazzo-dupatta-set/p/itmcf19461c9cd21?pid=ETHHHHYAEGYGFE7S&lid=LSTETHHHHYAEGYGFE7SSFKFMO&marketplace=FLIPKART&store=clo%2Fcfv%2Fitg%2Ftys&srno=b_1_1&otracker=browse&fm=organic&iid=en_U2AUnGXQG4-cMk5RKSR1o3oGGk8PfrbWhxs_NqJIg9OhxnzcggVQeB6ZsDmyICuQeD-eNlam0jKMjnlvLfjiz9quU6zuVnKVDoEVF-j778JAIY7ssQMzUNQ4_ZojZ_Yq&ppt=None&ppn=None&ssid=xudgopv8680000001782746263333&ov_redirect=true",
+    "review": "Minutes Everything in Minutes",
+    "sentiment": "Neutral",
+    "created_at": "2026-06-30 06:34:37.819518+00:00"
+  },
+  {
+    "product": "https://www.flipkart.com/hirvanti-fashion-women-kurta-palazzo-dupatta-set/p/itmcf19461c9cd21?pid=ETHHHHYAEGYGFE7S&lid=LSTETHHHHYAEGYGFE7SSFKFMO&marketplace=FLIPKART&store=clo%2Fcfv%2Fitg%2Ftys&srno=b_1_1&otracker=browse&fm=organic&iid=en_U2AUnGXQG4-cMk5RKSR1o3oGGk8PfrbWhxs_NqJIg9OhxnzcggVQeB6ZsDmyICuQeD-eNlam0jKMjnlvLfjiz9quU6zuVnKVDoEVF-j778JAIY7ssQMzUNQ4_ZojZ_Yq&ppt=None&ppn=None&ssid=xudgopv8680000001782746263333&ov_redirect=true",
+    "review": "Grocery At wholesale prices",
+    "sentiment": "Neutral",
+    "created_at": "2026-06-30 06:34:37.819523+00:00"
+  },
+  {
+    "product": "https://www.flipkart.com/hirvanti-fashion-women-kurta-palazzo-dupatta-set/p/itmcf19461c9cd21?pid=ETHHHHYAEGYGFE7S&lid=LSTETHHHHYAEGYGFE7SSFKFMO&marketplace=FLIPKART&store=clo%2Fcfv%2Fitg%2Ftys&srno=b_1_1&otracker=browse&fm=organic&iid=en_U2AUnGXQG4-cMk5RKSR1o3oGGk8PfrbWhxs_NqJIg9OhxnzcggVQeB6ZsDmyICuQeD-eNlam0jKMjnlvLfjiz9quU6zuVnKVDoEVF-j778JAIY7ssQMzUNQ4_ZojZ_Yq&ppt=None&ppn=None&ssid=xudgopv8680000001782746263333&ov_redirect=true",
+    "review": "Travel All your travel needs",
+    "sentiment": "Neutral",
+    "created_at": "2026-06-30 06:34:37.819527+00:00"
+  },
+  {
+    "product": "https://www.flipkart.com/hirvanti-fashion-women-kurta-palazzo-dupatta-set/p/itmcf19461c9cd21?pid=ETHHHHYAEGYGFE7S&lid=LSTETHHHHYAEGYGFE7SSFKFMO&marketplace=FLIPKART&store=clo%2Fcfv%2Fitg%2Ftys&srno=b_1_1&otracker=browse&fm=organic&iid=en_U2AUnGXQG4-cMk5RKSR1o3oGGk8PfrbWhxs_NqJIg9OhxnzcggVQeB6ZsDmyICuQeD-eNlam0jKMjnlvLfjiz9quU6zuVnKVDoEVF-j778JAIY7ssQMzUNQ4_ZojZ_Yq&ppt=None&ppn=None&ssid=xudgopv8680000001782746263333&ov_redirect=true",
+    "review": "Login New customer? Sign Up My Profile Flipkart Plus Zone Orders Wishlist Become a Seller Rewards Gift Cards Notification Preferences 24x7 Customer Care Advertise Download App More More Become a Seller Notification Settings 24x7 Customer Care Advertise on Flipkart Cart",
+    "sentiment": "Positive",
+    "created_at": "2026-06-30 06:34:37.819531+00:00"
+  },
+  {
+    "product": "https://www.flipkart.com/hirvanti-fashion-women-kurta-palazzo-dupatta-set/p/itmcf19461c9cd21?pid=ETHHHHYAEGYGFE7S&lid=LSTETHHHHYAEGYGFE7SSFKFMO&marketplace=FLIPKART&store=clo%2Fcfv%2Fitg%2Ftys&srno=b_1_1&otracker=browse&fm=organic&iid=en_U2AUnGXQG4-cMk5RKSR1o3oGGk8PfrbWhxs_NqJIg9OhxnzcggVQeB6ZsDmyICuQeD-eNlam0jKMjnlvLfjiz9quU6zuVnKVDoEVF-j778JAIY7ssQMzUNQ4_ZojZ_Yq&ppt=None&ppn=None&ssid=xudgopv8680000001782746263333&ov_redirect=true",
+    "review": "Login New customer? Sign Up My Profile Flipkart Plus Zone Orders Wishlist Become a Seller Rewards Gift Cards Notification Preferences 24x7 Customer Care Advertise Download App",
+    "sentiment": "Positive",
+    "created_at": "2026-06-30 06:34:37.819535+00:00"
+  },
+  {
+    "product": "https://www.flipkart.com/hirvanti-fashion-women-kurta-palazzo-dupatta-set/p/itmcf19461c9cd21?pid=ETHHHHYAEGYGFE7S&lid=LSTETHHHHYAEGYGFE7SSFKFMO&marketplace=FLIPKART&store=clo%2Fcfv%2Fitg%2Ftys&srno=b_1_1&otracker=browse&fm=organic&iid=en_U2AUnGXQG4-cMk5RKSR1o3oGGk8PfrbWhxs_NqJIg9OhxnzcggVQeB6ZsDmyICuQeD-eNlam0jKMjnlvLfjiz9quU6zuVnKVDoEVF-j778JAIY7ssQMzUNQ4_ZojZ_Yq&ppt=None&ppn=None&ssid=xudgopv8680000001782746263333&ov_redirect=true",
+    "review": "More More Become a Seller Notification Settings 24x7 Customer Care Advertise on Flipkart",
+    "sentiment": "Positive",
+    "created_at": "2026-06-30 06:34:37.819539+00:00"
+  },
+  {
+    "product": "https://www.flipkart.com/hirvanti-fashion-women-kurta-palazzo-dupatta-set/p/itmcf19461c9cd21?pid=ETHHHHYAEGYGFE7S&lid=LSTETHHHHYAEGYGFE7SSFKFMO&marketplace=FLIPKART&store=clo%2Fcfv%2Fitg%2Ftys&srno=b_1_1&otracker=browse&fm=organic&iid=en_U2AUnGXQG4-cMk5RKSR1o3oGGk8PfrbWhxs_NqJIg9OhxnzcggVQeB6ZsDmyICuQeD-eNlam0jKMjnlvLfjiz9quU6zuVnKVDoEVF-j778JAIY7ssQMzUNQ4_ZojZ_Yq&ppt=None&ppn=None&ssid=xudgopv8680000001782746263333&ov_redirect=true",
+    "review": "Home / Clothing and Accessories / Kurtas, Ethnic Sets and Bottoms / Ethnic Sets / Women's Ethnic Sets / Hirvanti Fashion Women's Ethnic Sets / Women Silk Blend Kurta Palazzo Dupatta Set Key Highlights Key Highlights Key Highlights Key Highlights Key Highlights Key Highlights 4.2 | 107 CALLME TEXTILE & DESIGN Women Pure Silk Kurti Pant Attached Dupatta Set 67% 3,199 \u20b91,048 AD TRAHIMAM Women Pure Cotton Kurta Palazzo Dupatta Set 78% 3,999 \u20b9894 AD InWeave Women Viscose Rayon Kurta Palazzo Set 71% 3,095 \u20b9899 AD Selected Color: Purple Out of stock Out of stock Out of stock Out of stock Select Size Size Chart S M L XL XXL Hirvanti Fashion Women Silk Blend Kurta Palazzo Dupatta Set 4.2 | 107 Lowest Price since Launch 83% 3,999 \u20b9693 Buy at \u20b9658 Apply offers for maximum savings Buy at \u20b9658 Bank offers Bank offers \u20b935 off Delivery details Location not set Select delivery location Delivery by 3 Jul, Fri Fulfilled by HirvantiFashion 4.0 \u2022 7 years with Flipkart See other sellers 10-Day Return Cash on Delivery Flipkart Assured Similar Products AD 4 SANGOURI Women Viscose Rayon Kurti Pant Attached Dupatta Set 85% OFF \u20b92,999 \u20b9440 Hot Deal Get it by 4 Jul AD CALLME TEXTILE & DESIGN Women Pure Silk Kurti Pant Attached Dupatta Set 67% OFF \u20b93,199 \u20b91,048 Hot Deal Get it by 5 Jul AD TRAHIMAM Women Pure Cotton Kurta Palazzo Dupatta Set 78% OFF \u20b93,999 \u20b9894 \u20b9849 with 2 offers Get it by 4 Jul AD dharmkunj Women Silk Blend Kurta Palazzo Dupatta Set 70% OFF \u20b93,999 \u20b91,188 \u20b91,128 with Bank offer Get it by 5 Jul AD 4.3 PILUDI HOUSE Women Chanderi Kurti Pant Dupatta Set 72% OFF \u20b92,999 \u20b9848 Hot Deal Get it by 4 Jul AD 4.5 MOKOSH Women Pure Silk Kurta Pant Dupatta Set 71% OFF \u20b94,299 \u20b91,242 \u20b91,179 with Bank offer Get by Today AD 4.4 InWeave Women Viscose Rayon Kurta Palazzo Set 71% OFF \u20b93,095 \u20b9899 Hot Deal Get it by 6 Jul AD 4.4 KIMAYRA Women Pure Cotton Kurta Palazzo Dupatta Set 65% OFF \u20b93,799 \u20b91,342 Hot Deal Get it by 4 Jul Hang on, loading content",
+    "sentiment": "Positive",
+    "created_at": "2026-06-30 06:34:37.819544+00:00"
+  },
+  {
+    "product": "https://www.flipkart.com/hirvanti-fashion-women-kurta-palazzo-dupatta-set/p/itmcf19461c9cd21?pid=ETHHHHYAEGYGFE7S&lid=LSTETHHHHYAEGYGFE7SSFKFMO&marketplace=FLIPKART&store=clo%2Fcfv%2Fitg%2Ftys&srno=b_1_1&otracker=browse&fm=organic&iid=en_U2AUnGXQG4-cMk5RKSR1o3oGGk8PfrbWhxs_NqJIg9OhxnzcggVQeB6ZsDmyICuQeD-eNlam0jKMjnlvLfjiz9quU6zuVnKVDoEVF-j778JAIY7ssQMzUNQ4_ZojZ_Yq&ppt=None&ppn=None&ssid=xudgopv8680000001782746263333&ov_redirect=true",
+    "review": "Home / Clothing and Accessories / Kurtas, Ethnic Sets and Bottoms / Ethnic Sets / Women's Ethnic Sets / Hirvanti Fashion Women's Ethnic Sets / Women Silk Blend Kurta Palazzo Dupatta Set",
+    "sentiment": "Neutral",
+    "created_at": "2026-06-30 06:34:37.819549+00:00"
+  },
+  {
+    "product": "https://www.flipkart.com/hirvanti-fashion-women-kurta-palazzo-dupatta-set/p/itmcf19461c9cd21?pid=ETHHHHYAEGYGFE7S&lid=LSTETHHHHYAEGYGFE7SSFKFMO&marketplace=FLIPKART&store=clo%2Fcfv%2Fitg%2Ftys&srno=b_1_1&otracker=browse&fm=organic&iid=en_U2AUnGXQG4-cMk5RKSR1o3oGGk8PfrbWhxs_NqJIg9OhxnzcggVQeB6ZsDmyICuQeD-eNlam0jKMjnlvLfjiz9quU6zuVnKVDoEVF-j778JAIY7ssQMzUNQ4_ZojZ_Yq&ppt=None&ppn=None&ssid=xudgopv8680000001782746263333&ov_redirect=true",
+    "review": "Home / Clothing and Accessories / Kurtas, Ethnic Sets and Bottoms / Ethnic Sets / Women's Ethnic Sets / Hirvanti Fashion Women's Ethnic Sets /",
+    "sentiment": "Neutral",
+    "created_at": "2026-06-30 06:34:37.819553+00:00"
+  },
+  {
+    "product": "https://www.flipkart.com/hirvanti-fashion-women-kurta-palazzo-dupatta-set/p/itmcf19461c9cd21?pid=ETHHHHYAEGYGFE7S&lid=LSTETHHHHYAEGYGFE7SSFKFMO&marketplace=FLIPKART&store=clo%2Fcfv%2Fitg%2Ftys&srno=b_1_1&otracker=browse&fm=organic&iid=en_U2AUnGXQG4-cMk5RKSR1o3oGGk8PfrbWhxs_NqJIg9OhxnzcggVQeB6ZsDmyICuQeD-eNlam0jKMjnlvLfjiz9quU6zuVnKVDoEVF-j778JAIY7ssQMzUNQ4_ZojZ_Yq&ppt=None&ppn=None&ssid=xudgopv8680000001782746263333&ov_redirect=true",
+    "review": "Clothing and Accessories /",
+    "sentiment": "Neutral",
+    "created_at": "2026-06-30 06:34:37.819557+00:00"
+  },
+  {
+    "product": "https://www.flipkart.com/hirvanti-fashion-women-kurta-palazzo-dupatta-set/p/itmcf19461c9cd21?pid=ETHHHHYAEGYGFE7S&lid=LSTETHHHHYAEGYGFE7SSFKFMO&marketplace=FLIPKART&store=clo%2Fcfv%2Fitg%2Ftys&srno=b_1_1&otracker=browse&fm=organic&iid=en_U2AUnGXQG4-cMk5RKSR1o3oGGk8PfrbWhxs_NqJIg9OhxnzcggVQeB6ZsDmyICuQeD-eNlam0jKMjnlvLfjiz9quU6zuVnKVDoEVF-j778JAIY7ssQMzUNQ4_ZojZ_Yq&ppt=None&ppn=None&ssid=xudgopv8680000001782746263333&ov_redirect=true",
+    "review": "Kurtas, Ethnic Sets and Bottoms /",
+    "sentiment": "Neutral",
+    "created_at": "2026-06-30 06:34:37.819561+00:00"
+  },
+  {
+    "product": "https://www.flipkart.com/hirvanti-fashion-women-kurta-palazzo-dupatta-set/p/itmcf19461c9cd21?pid=ETHHHHYAEGYGFE7S&lid=LSTETHHHHYAEGYGFE7SSFKFMO&marketplace=FLIPKART&store=clo%2Fcfv%2Fitg%2Ftys&srno=b_1_1&otracker=browse&fm=organic&iid=en_U2AUnGXQG4-cMk5RKSR1o3oGGk8PfrbWhxs_NqJIg9OhxnzcggVQeB6ZsDmyICuQeD-eNlam0jKMjnlvLfjiz9quU6zuVnKVDoEVF-j778JAIY7ssQMzUNQ4_ZojZ_Yq&ppt=None&ppn=None&ssid=xudgopv8680000001782746263333&ov_redirect=true",
+    "review": "Hirvanti Fashion Women's Ethnic Sets /",
+    "sentiment": "Neutral",
+    "created_at": "2026-06-30 06:34:37.819565+00:00"
+  },
+  {
+    "product": "https://www.flipkart.com/hirvanti-fashion-women-kurta-palazzo-dupatta-set/p/itmcf19461c9cd21?pid=ETHHHHYAEGYGFE7S&lid=LSTETHHHHYAEGYGFE7SSFKFMO&marketplace=FLIPKART&store=clo%2Fcfv%2Fitg%2Ftys&srno=b_1_1&otracker=browse&fm=organic&iid=en_U2AUnGXQG4-cMk5RKSR1o3oGGk8PfrbWhxs_NqJIg9OhxnzcggVQeB6ZsDmyICuQeD-eNlam0jKMjnlvLfjiz9quU6zuVnKVDoEVF-j778JAIY7ssQMzUNQ4_ZojZ_Yq&ppt=None&ppn=None&ssid=xudgopv8680000001782746263333&ov_redirect=true",
+    "review": "Women Silk Blend Kurta Palazzo Dupatta Set",
+    "sentiment": "Neutral",
+    "created_at": "2026-06-30 06:34:37.819569+00:00"
+  },
+  {
+    "product": "https://www.flipkart.com/hirvanti-fashion-women-kurta-palazzo-dupatta-set/p/itmcf19461c9cd21?pid=ETHHHHYAEGYGFE7S&lid=LSTETHHHHYAEGYGFE7SSFKFMO&marketplace=FLIPKART&store=clo%2Fcfv%2Fitg%2Ftys&srno=b_1_1&otracker=browse&fm=organic&iid=en_U2AUnGXQG4-cMk5RKSR1o3oGGk8PfrbWhxs_NqJIg9OhxnzcggVQeB6ZsDmyICuQeD-eNlam0jKMjnlvLfjiz9quU6zuVnKVDoEVF-j778JAIY7ssQMzUNQ4_ZojZ_Yq&ppt=None&ppn=None&ssid=xudgopv8680000001782746263333&ov_redirect=true",
+    "review": "Key Highlights Key Highlights Key Highlights Key Highlights Key Highlights Key Highlights 4.2 | 107 CALLME TEXTILE & DESIGN Women Pure Silk Kurti Pant Attached Dupatta Set 67% 3,199 \u20b91,048 AD TRAHIMAM Women Pure Cotton Kurta Palazzo Dupatta Set 78% 3,999 \u20b9894 AD InWeave Women Viscose Rayon Kurta Palazzo Set 71% 3,095 \u20b9899 AD Selected Color: Purple Out of stock Out of stock Out of stock Out of stock Select Size Size Chart S M L XL XXL Hirvanti Fashion Women Silk Blend Kurta Palazzo Dupatta Set 4.2 | 107 Lowest Price since Launch 83% 3,999 \u20b9693 Buy at \u20b9658 Apply offers for maximum savings Buy at \u20b9658 Bank offers Bank offers \u20b935 off Delivery details Location not set Select delivery location Delivery by 3 Jul, Fri Fulfilled by HirvantiFashion 4.0 \u2022 7 years with Flipkart See other sellers 10-Day Return Cash on Delivery Flipkart Assured Similar Products AD 4 SANGOURI Women Viscose Rayon Kurti Pant Attached Dupatta Set 85% OFF \u20b92,999 \u20b9440 Hot Deal Get it by 4 Jul AD CALLME TEXTILE & DESIGN Women Pure Silk Kurti Pant Attached Dupatta Set 67% OFF \u20b93,199 \u20b91,048 Hot Deal Get it by 5 Jul AD TRAHIMAM Women Pure Cotton Kurta Palazzo Dupatta Set 78% OFF \u20b93,999 \u20b9894 \u20b9849 with 2 offers Get it by 4 Jul AD dharmkunj Women Silk Blend Kurta Palazzo Dupatta Set 70% OFF \u20b93,999 \u20b91,188 \u20b91,128 with Bank offer Get it by 5 Jul AD 4.3 PILUDI HOUSE Women Chanderi Kurti Pant Dupatta Set 72% OFF \u20b92,999 \u20b9848 Hot Deal Get it by 4 Jul AD 4.5 MOKOSH Women Pure Silk Kurta Pant Dupatta Set 71% OFF \u20b94,299 \u20b91,242 \u20b91,179 with Bank offer Get by Today AD 4.4 InWeave Women Viscose Rayon Kurta Palazzo Set 71% OFF \u20b93,095 \u20b9899 Hot Deal Get it by 6 Jul AD 4.4 KIMAYRA Women Pure Cotton Kurta Palazzo Dupatta Set 65% OFF \u20b93,799 \u20b91,342 Hot Deal Get it by 4 Jul",
+    "sentiment": "Positive",
+    "created_at": "2026-06-30 06:34:37.819574+00:00"
+  },
+  {
+    "product": "https://www.flipkart.com/hirvanti-fashion-women-kurta-palazzo-dupatta-set/p/itmcf19461c9cd21?pid=ETHHHHYAEGYGFE7S&lid=LSTETHHHHYAEGYGFE7SSFKFMO&marketplace=FLIPKART&store=clo%2Fcfv%2Fitg%2Ftys&srno=b_1_1&otracker=browse&fm=organic&iid=en_U2AUnGXQG4-cMk5RKSR1o3oGGk8PfrbWhxs_NqJIg9OhxnzcggVQeB6ZsDmyICuQeD-eNlam0jKMjnlvLfjiz9quU6zuVnKVDoEVF-j778JAIY7ssQMzUNQ4_ZojZ_Yq&ppt=None&ppn=None&ssid=xudgopv8680000001782746263333&ov_redirect=true",
+    "review": "Key Highlights Key Highlights Key Highlights Key Highlights Key Highlights Key Highlights 4.2 | 107 CALLME TEXTILE & DESIGN Women Pure Silk Kurti Pant Attached Dupatta Set 67% 3,199 \u20b91,048 AD TRAHIMAM Women Pure Cotton Kurta Palazzo Dupatta Set 78% 3,999 \u20b9894 AD InWeave Women Viscose Rayon Kurta Palazzo Set 71% 3,095 \u20b9899 AD Selected Color: Purple Out of stock Out of stock Out of stock Out of stock Select Size Size Chart S M L XL XXL Hirvanti Fashion Women Silk Blend Kurta Palazzo Dupatta Set 4.2 | 107 Lowest Price since Launch 83% 3,999 \u20b9693 Buy at \u20b9658 Apply offers for maximum savings Buy at \u20b9658 Bank offers Bank offers \u20b935 off Delivery details Location not set Select delivery location Delivery by 3 Jul, Fri Fulfilled by HirvantiFashion 4.0 \u2022 7 years with Flipkart See other sellers 10-Day Return Cash on Delivery Flipkart Assured",
+    "sentiment": "Positive",
+    "created_at": "2026-06-30 06:34:37.819578+00:00"
+  },
+  {
+    "product": "https://www.flipkart.com/hirvanti-fashion-women-kurta-palazzo-dupatta-set/p/itmcf19461c9cd21?pid=ETHHHHYAEGYGFE7S&lid=LSTETHHHHYAEGYGFE7SSFKFMO&marketplace=FLIPKART&store=clo%2Fcfv%2Fitg%2Ftys&srno=b_1_1&otracker=browse&fm=organic&iid=en_U2AUnGXQG4-cMk5RKSR1o3oGGk8PfrbWhxs_NqJIg9OhxnzcggVQeB6ZsDmyICuQeD-eNlam0jKMjnlvLfjiz9quU6zuVnKVDoEVF-j778JAIY7ssQMzUNQ4_ZojZ_Yq&ppt=None&ppn=None&ssid=xudgopv8680000001782746263333&ov_redirect=true",
+    "review": "Key Highlights Key Highlights Key Highlights Key Highlights Key Highlights Key Highlights 4.2 | 107",
+    "sentiment": "Neutral",
+    "created_at": "2026-06-30 06:34:37.819583+00:00"
+  },
+  {
+    "product": "https://www.flipkart.com/hirvanti-fashion-women-kurta-palazzo-dupatta-set/p/itmcf19461c9cd21?pid=ETHHHHYAEGYGFE7S&lid=LSTETHHHHYAEGYGFE7SSFKFMO&marketplace=FLIPKART&store=clo%2Fcfv%2Fitg%2Ftys&srno=b_1_1&otracker=browse&fm=organic&iid=en_U2AUnGXQG4-cMk5RKSR1o3oGGk8PfrbWhxs_NqJIg9OhxnzcggVQeB6ZsDmyICuQeD-eNlam0jKMjnlvLfjiz9quU6zuVnKVDoEVF-j778JAIY7ssQMzUNQ4_ZojZ_Yq&ppt=None&ppn=None&ssid=xudgopv8680000001782746263333&ov_redirect=true",
+    "review": "Flipkart A one-stop Shopping Minutes Everything in Minutes Grocery At wholesale prices Travel All your travel needs Search Icon Search Icon Login New customer? Sign Up My Profile Flipkart Plus Zone Orders Wishlist Become a Seller Rewards Gift Cards Notification Preferences 24x7 Customer Care Advertise Download App More More Become a Seller Notification Settings 24x7 Customer Care Advertise on Flipkart Cart Home / Clothing and Accessories / Kurtas, Ethnic Sets and Bottoms / Ethnic Sets / Women's Ethnic Sets / Hirvanti Fashion Women's Ethnic Sets / Women Silk Blend Kurta Palazzo Dupatta Set Key Highlights Key Highlights Key Highlights Key Highlights Key Highlights Key Highlights 4.2 | 107 Saabhi Women Viscose Rayon Kurta Palazzo Dupatta Set 81% 3,999 \u20b9757 AD CALLME TEXTILE & DESIGN Women Pure Silk Kurti Pant Attached Dupatta Set 67% 3,199 \u20b91,048 AD TRAHIMAM Women Pure Cotton Kurta Palazzo Dupatta Set 78% 3,999 \u20b9894 AD Selected Color: Purple Out of stock Out of stock Out of stock Out of stock Select Size Size Chart S M L XL XXL Hirvanti Fashion Women Silk Blend Kurta Palazzo Dupatta Set 4.2 | 107 Lowest Price since Launch 83% 3,999 \u20b9693 Buy at \u20b9658 Apply offers for maximum savings Buy at \u20b9658 Bank offers Bank offers \u20b935 off Delivery details Location not set Select delivery location Delivery by 3 Jul, Fri Fulfilled by HirvantiFashion 4.0 \u2022 7 years with Flipkart See other sellers 10-Day Return Cash on Delivery Flipkart Assured Similar Products AD 4.3 Saabhi Women Viscose Rayon Kurta Palazzo Dupatta Set 81% OFF \u20b93,999 \u20b9757 \u20b9719 with 2 offers Get it by 5 Jul AD 4 SANGOURI Women Viscose Rayon Kurti Pant Attached Dupatta Set 85% OFF \u20b92,999 \u20b9440 Hot Deal Get it by 4 Jul AD CALLME TEXTILE & DESIGN Women Pure Silk Kurti Pant Attached Dupatta Set 67% OFF \u20b93,199 \u20b91,048 Hot Deal Get it by 5 Jul AD TRAHIMAM Women Pure Cotton Kurta Palazzo Dupatta Set 78% OFF \u20b93,999 \u20b9894 \u20b9849 with 2 offers Get it by 4 Jul AD dharmkunj Women Silk Blend Kurta Palazzo Dupatta Set 70% OFF \u20b93,999 \u20b91,188 \u20b91,128 with Bank offer Get it by 5 Jul AD 4.3 PILUDI HOUSE Women Chanderi Kurti Pant Dupatta Set 72% OFF \u20b92,999 \u20b9848 Hot Deal Get it by 4 Jul AD 4.5 MOKOSH Women Pure Silk Kurta Pant Dupatta Set 71% OFF \u20b94,299 \u20b91,242 \u20b91,179 with Bank offer Get by Today AD 4.4 InWeave Women Viscose Rayon Kurta Palazzo Set 71% OFF \u20b93,095 \u20b9899 Hot Deal Get it by 6 Jul Hang on, loading content",
+    "sentiment": "Positive",
+    "created_at": "2026-06-30 06:46:20.126748+00:00"
+  },
+  {
+    "product": "https://www.flipkart.com/hirvanti-fashion-women-kurta-palazzo-dupatta-set/p/itmcf19461c9cd21?pid=ETHHHHYAEGYGFE7S&lid=LSTETHHHHYAEGYGFE7SSFKFMO&marketplace=FLIPKART&store=clo%2Fcfv%2Fitg%2Ftys&srno=b_1_1&otracker=browse&fm=organic&iid=en_U2AUnGXQG4-cMk5RKSR1o3oGGk8PfrbWhxs_NqJIg9OhxnzcggVQeB6ZsDmyICuQeD-eNlam0jKMjnlvLfjiz9quU6zuVnKVDoEVF-j778JAIY7ssQMzUNQ4_ZojZ_Yq&ppt=None&ppn=None&ssid=xudgopv8680000001782746263333&ov_redirect=true",
+    "review": "Flipkart A one-stop Shopping Minutes Everything in Minutes Grocery At wholesale prices Travel All your travel needs Search Icon Search Icon Login New customer? Sign Up My Profile Flipkart Plus Zone Orders Wishlist Become a Seller Rewards Gift Cards Notification Preferences 24x7 Customer Care Advertise Download App More More Become a Seller Notification Settings 24x7 Customer Care Advertise on Flipkart Cart",
+    "sentiment": "Positive",
+    "created_at": "2026-06-30 06:46:20.126769+00:00"
+  },
+  {
+    "product": "https://www.flipkart.com/hirvanti-fashion-women-kurta-palazzo-dupatta-set/p/itmcf19461c9cd21?pid=ETHHHHYAEGYGFE7S&lid=LSTETHHHHYAEGYGFE7SSFKFMO&marketplace=FLIPKART&store=clo%2Fcfv%2Fitg%2Ftys&srno=b_1_1&otracker=browse&fm=organic&iid=en_U2AUnGXQG4-cMk5RKSR1o3oGGk8PfrbWhxs_NqJIg9OhxnzcggVQeB6ZsDmyICuQeD-eNlam0jKMjnlvLfjiz9quU6zuVnKVDoEVF-j778JAIY7ssQMzUNQ4_ZojZ_Yq&ppt=None&ppn=None&ssid=xudgopv8680000001782746263333&ov_redirect=true",
+    "review": "Flipkart A one-stop Shopping Minutes Everything in Minutes Grocery At wholesale prices Travel All your travel needs",
+    "sentiment": "Neutral",
+    "created_at": "2026-06-30 06:46:20.126774+00:00"
+  },
+  {
+    "product": "https://www.flipkart.com/hirvanti-fashion-women-kurta-palazzo-dupatta-set/p/itmcf19461c9cd21?pid=ETHHHHYAEGYGFE7S&lid=LSTETHHHHYAEGYGFE7SSFKFMO&marketplace=FLIPKART&store=clo%2Fcfv%2Fitg%2Ftys&srno=b_1_1&otracker=browse&fm=organic&iid=en_U2AUnGXQG4-cMk5RKSR1o3oGGk8PfrbWhxs_NqJIg9OhxnzcggVQeB6ZsDmyICuQeD-eNlam0jKMjnlvLfjiz9quU6zuVnKVDoEVF-j778JAIY7ssQMzUNQ4_ZojZ_Yq&ppt=None&ppn=None&ssid=xudgopv8680000001782746263333&ov_redirect=true",
+    "review": "Flipkart A one-stop Shopping",
+    "sentiment": "Neutral",
+    "created_at": "2026-06-30 06:46:20.126778+00:00"
+  },
+  {
+    "product": "https://www.flipkart.com/hirvanti-fashion-women-kurta-palazzo-dupatta-set/p/itmcf19461c9cd21?pid=ETHHHHYAEGYGFE7S&lid=LSTETHHHHYAEGYGFE7SSFKFMO&marketplace=FLIPKART&store=clo%2Fcfv%2Fitg%2Ftys&srno=b_1_1&otracker=browse&fm=organic&iid=en_U2AUnGXQG4-cMk5RKSR1o3oGGk8PfrbWhxs_NqJIg9OhxnzcggVQeB6ZsDmyICuQeD-eNlam0jKMjnlvLfjiz9quU6zuVnKVDoEVF-j778JAIY7ssQMzUNQ4_ZojZ_Yq&ppt=None&ppn=None&ssid=xudgopv8680000001782746263333&ov_redirect=true",
+    "review": "Minutes Everything in Minutes",
+    "sentiment": "Neutral",
+    "created_at": "2026-06-30 06:46:20.126782+00:00"
+  },
+  {
+    "product": "https://www.flipkart.com/hirvanti-fashion-women-kurta-palazzo-dupatta-set/p/itmcf19461c9cd21?pid=ETHHHHYAEGYGFE7S&lid=LSTETHHHHYAEGYGFE7SSFKFMO&marketplace=FLIPKART&store=clo%2Fcfv%2Fitg%2Ftys&srno=b_1_1&otracker=browse&fm=organic&iid=en_U2AUnGXQG4-cMk5RKSR1o3oGGk8PfrbWhxs_NqJIg9OhxnzcggVQeB6ZsDmyICuQeD-eNlam0jKMjnlvLfjiz9quU6zuVnKVDoEVF-j778JAIY7ssQMzUNQ4_ZojZ_Yq&ppt=None&ppn=None&ssid=xudgopv8680000001782746263333&ov_redirect=true",
+    "review": "Grocery At wholesale prices",
+    "sentiment": "Neutral",
+    "created_at": "2026-06-30 06:46:20.126786+00:00"
+  },
+  {
+    "product": "https://www.flipkart.com/hirvanti-fashion-women-kurta-palazzo-dupatta-set/p/itmcf19461c9cd21?pid=ETHHHHYAEGYGFE7S&lid=LSTETHHHHYAEGYGFE7SSFKFMO&marketplace=FLIPKART&store=clo%2Fcfv%2Fitg%2Ftys&srno=b_1_1&otracker=browse&fm=organic&iid=en_U2AUnGXQG4-cMk5RKSR1o3oGGk8PfrbWhxs_NqJIg9OhxnzcggVQeB6ZsDmyICuQeD-eNlam0jKMjnlvLfjiz9quU6zuVnKVDoEVF-j778JAIY7ssQMzUNQ4_ZojZ_Yq&ppt=None&ppn=None&ssid=xudgopv8680000001782746263333&ov_redirect=true",
+    "review": "Travel All your travel needs",
+    "sentiment": "Neutral",
+    "created_at": "2026-06-30 06:46:20.126793+00:00"
+  },
+  {
+    "product": "https://www.flipkart.com/hirvanti-fashion-women-kurta-palazzo-dupatta-set/p/itmcf19461c9cd21?pid=ETHHHHYAEGYGFE7S&lid=LSTETHHHHYAEGYGFE7SSFKFMO&marketplace=FLIPKART&store=clo%2Fcfv%2Fitg%2Ftys&srno=b_1_1&otracker=browse&fm=organic&iid=en_U2AUnGXQG4-cMk5RKSR1o3oGGk8PfrbWhxs_NqJIg9OhxnzcggVQeB6ZsDmyICuQeD-eNlam0jKMjnlvLfjiz9quU6zuVnKVDoEVF-j778JAIY7ssQMzUNQ4_ZojZ_Yq&ppt=None&ppn=None&ssid=xudgopv8680000001782746263333&ov_redirect=true",
+    "review": "Login New customer? Sign Up My Profile Flipkart Plus Zone Orders Wishlist Become a Seller Rewards Gift Cards Notification Preferences 24x7 Customer Care Advertise Download App More More Become a Seller Notification Settings 24x7 Customer Care Advertise on Flipkart Cart",
+    "sentiment": "Positive",
+    "created_at": "2026-06-30 06:46:20.126797+00:00"
+  },
+  {
+    "product": "https://www.flipkart.com/hirvanti-fashion-women-kurta-palazzo-dupatta-set/p/itmcf19461c9cd21?pid=ETHHHHYAEGYGFE7S&lid=LSTETHHHHYAEGYGFE7SSFKFMO&marketplace=FLIPKART&store=clo%2Fcfv%2Fitg%2Ftys&srno=b_1_1&otracker=browse&fm=organic&iid=en_U2AUnGXQG4-cMk5RKSR1o3oGGk8PfrbWhxs_NqJIg9OhxnzcggVQeB6ZsDmyICuQeD-eNlam0jKMjnlvLfjiz9quU6zuVnKVDoEVF-j778JAIY7ssQMzUNQ4_ZojZ_Yq&ppt=None&ppn=None&ssid=xudgopv8680000001782746263333&ov_redirect=true",
+    "review": "Login New customer? Sign Up My Profile Flipkart Plus Zone Orders Wishlist Become a Seller Rewards Gift Cards Notification Preferences 24x7 Customer Care Advertise Download App",
+    "sentiment": "Positive",
+    "created_at": "2026-06-30 06:46:20.126801+00:00"
+  },
+  {
+    "product": "https://www.flipkart.com/hirvanti-fashion-women-kurta-palazzo-dupatta-set/p/itmcf19461c9cd21?pid=ETHHHHYAEGYGFE7S&lid=LSTETHHHHYAEGYGFE7SSFKFMO&marketplace=FLIPKART&store=clo%2Fcfv%2Fitg%2Ftys&srno=b_1_1&otracker=browse&fm=organic&iid=en_U2AUnGXQG4-cMk5RKSR1o3oGGk8PfrbWhxs_NqJIg9OhxnzcggVQeB6ZsDmyICuQeD-eNlam0jKMjnlvLfjiz9quU6zuVnKVDoEVF-j778JAIY7ssQMzUNQ4_ZojZ_Yq&ppt=None&ppn=None&ssid=xudgopv8680000001782746263333&ov_redirect=true",
+    "review": "More More Become a Seller Notification Settings 24x7 Customer Care Advertise on Flipkart",
+    "sentiment": "Positive",
+    "created_at": "2026-06-30 06:46:20.126806+00:00"
+  },
+  {
+    "product": "https://www.flipkart.com/hirvanti-fashion-women-kurta-palazzo-dupatta-set/p/itmcf19461c9cd21?pid=ETHHHHYAEGYGFE7S&lid=LSTETHHHHYAEGYGFE7SSFKFMO&marketplace=FLIPKART&store=clo%2Fcfv%2Fitg%2Ftys&srno=b_1_1&otracker=browse&fm=organic&iid=en_U2AUnGXQG4-cMk5RKSR1o3oGGk8PfrbWhxs_NqJIg9OhxnzcggVQeB6ZsDmyICuQeD-eNlam0jKMjnlvLfjiz9quU6zuVnKVDoEVF-j778JAIY7ssQMzUNQ4_ZojZ_Yq&ppt=None&ppn=None&ssid=xudgopv8680000001782746263333&ov_redirect=true",
+    "review": "Home / Clothing and Accessories / Kurtas, Ethnic Sets and Bottoms / Ethnic Sets / Women's Ethnic Sets / Hirvanti Fashion Women's Ethnic Sets / Women Silk Blend Kurta Palazzo Dupatta Set Key Highlights Key Highlights Key Highlights Key Highlights Key Highlights Key Highlights 4.2 | 107 Saabhi Women Viscose Rayon Kurta Palazzo Dupatta Set 81% 3,999 \u20b9757 AD CALLME TEXTILE & DESIGN Women Pure Silk Kurti Pant Attached Dupatta Set 67% 3,199 \u20b91,048 AD TRAHIMAM Women Pure Cotton Kurta Palazzo Dupatta Set 78% 3,999 \u20b9894 AD Selected Color: Purple Out of stock Out of stock Out of stock Out of stock Select Size Size Chart S M L XL XXL Hirvanti Fashion Women Silk Blend Kurta Palazzo Dupatta Set 4.2 | 107 Lowest Price since Launch 83% 3,999 \u20b9693 Buy at \u20b9658 Apply offers for maximum savings Buy at \u20b9658 Bank offers Bank offers \u20b935 off Delivery details Location not set Select delivery location Delivery by 3 Jul, Fri Fulfilled by HirvantiFashion 4.0 \u2022 7 years with Flipkart See other sellers 10-Day Return Cash on Delivery Flipkart Assured Similar Products AD 4.3 Saabhi Women Viscose Rayon Kurta Palazzo Dupatta Set 81% OFF \u20b93,999 \u20b9757 \u20b9719 with 2 offers Get it by 5 Jul AD 4 SANGOURI Women Viscose Rayon Kurti Pant Attached Dupatta Set 85% OFF \u20b92,999 \u20b9440 Hot Deal Get it by 4 Jul AD CALLME TEXTILE & DESIGN Women Pure Silk Kurti Pant Attached Dupatta Set 67% OFF \u20b93,199 \u20b91,048 Hot Deal Get it by 5 Jul AD TRAHIMAM Women Pure Cotton Kurta Palazzo Dupatta Set 78% OFF \u20b93,999 \u20b9894 \u20b9849 with 2 offers Get it by 4 Jul AD dharmkunj Women Silk Blend Kurta Palazzo Dupatta Set 70% OFF \u20b93,999 \u20b91,188 \u20b91,128 with Bank offer Get it by 5 Jul AD 4.3 PILUDI HOUSE Women Chanderi Kurti Pant Dupatta Set 72% OFF \u20b92,999 \u20b9848 Hot Deal Get it by 4 Jul AD 4.5 MOKOSH Women Pure Silk Kurta Pant Dupatta Set 71% OFF \u20b94,299 \u20b91,242 \u20b91,179 with Bank offer Get by Today AD 4.4 InWeave Women Viscose Rayon Kurta Palazzo Set 71% OFF \u20b93,095 \u20b9899 Hot Deal Get it by 6 Jul Hang on, loading content",
+    "sentiment": "Positive",
+    "created_at": "2026-06-30 06:46:20.126818+00:00"
+  },
+  {
+    "product": "https://www.flipkart.com/hirvanti-fashion-women-kurta-palazzo-dupatta-set/p/itmcf19461c9cd21?pid=ETHHHHYAEGYGFE7S&lid=LSTETHHHHYAEGYGFE7SSFKFMO&marketplace=FLIPKART&store=clo%2Fcfv%2Fitg%2Ftys&srno=b_1_1&otracker=browse&fm=organic&iid=en_U2AUnGXQG4-cMk5RKSR1o3oGGk8PfrbWhxs_NqJIg9OhxnzcggVQeB6ZsDmyICuQeD-eNlam0jKMjnlvLfjiz9quU6zuVnKVDoEVF-j778JAIY7ssQMzUNQ4_ZojZ_Yq&ppt=None&ppn=None&ssid=xudgopv8680000001782746263333&ov_redirect=true",
+    "review": "Home / Clothing and Accessories / Kurtas, Ethnic Sets and Bottoms / Ethnic Sets / Women's Ethnic Sets / Hirvanti Fashion Women's Ethnic Sets / Women Silk Blend Kurta Palazzo Dupatta Set",
+    "sentiment": "Neutral",
+    "created_at": "2026-06-30 06:46:20.126822+00:00"
+  },
+  {
+    "product": "https://www.flipkart.com/hirvanti-fashion-women-kurta-palazzo-dupatta-set/p/itmcf19461c9cd21?pid=ETHHHHYAEGYGFE7S&lid=LSTETHHHHYAEGYGFE7SSFKFMO&marketplace=FLIPKART&store=clo%2Fcfv%2Fitg%2Ftys&srno=b_1_1&otracker=browse&fm=organic&iid=en_U2AUnGXQG4-cMk5RKSR1o3oGGk8PfrbWhxs_NqJIg9OhxnzcggVQeB6ZsDmyICuQeD-eNlam0jKMjnlvLfjiz9quU6zuVnKVDoEVF-j778JAIY7ssQMzUNQ4_ZojZ_Yq&ppt=None&ppn=None&ssid=xudgopv8680000001782746263333&ov_redirect=true",
+    "review": "Home / Clothing and Accessories / Kurtas, Ethnic Sets and Bottoms / Ethnic Sets / Women's Ethnic Sets / Hirvanti Fashion Women's Ethnic Sets /",
+    "sentiment": "Neutral",
+    "created_at": "2026-06-30 06:46:20.126826+00:00"
+  },
+  {
+    "product": "https://www.flipkart.com/hirvanti-fashion-women-kurta-palazzo-dupatta-set/p/itmcf19461c9cd21?pid=ETHHHHYAEGYGFE7S&lid=LSTETHHHHYAEGYGFE7SSFKFMO&marketplace=FLIPKART&store=clo%2Fcfv%2Fitg%2Ftys&srno=b_1_1&otracker=browse&fm=organic&iid=en_U2AUnGXQG4-cMk5RKSR1o3oGGk8PfrbWhxs_NqJIg9OhxnzcggVQeB6ZsDmyICuQeD-eNlam0jKMjnlvLfjiz9quU6zuVnKVDoEVF-j778JAIY7ssQMzUNQ4_ZojZ_Yq&ppt=None&ppn=None&ssid=xudgopv8680000001782746263333&ov_redirect=true",
+    "review": "Clothing and Accessories /",
+    "sentiment": "Neutral",
+    "created_at": "2026-06-30 06:46:20.126830+00:00"
+  },
+  {
+    "product": "https://www.flipkart.com/hirvanti-fashion-women-kurta-palazzo-dupatta-set/p/itmcf19461c9cd21?pid=ETHHHHYAEGYGFE7S&lid=LSTETHHHHYAEGYGFE7SSFKFMO&marketplace=FLIPKART&store=clo%2Fcfv%2Fitg%2Ftys&srno=b_1_1&otracker=browse&fm=organic&iid=en_U2AUnGXQG4-cMk5RKSR1o3oGGk8PfrbWhxs_NqJIg9OhxnzcggVQeB6ZsDmyICuQeD-eNlam0jKMjnlvLfjiz9quU6zuVnKVDoEVF-j778JAIY7ssQMzUNQ4_ZojZ_Yq&ppt=None&ppn=None&ssid=xudgopv8680000001782746263333&ov_redirect=true",
+    "review": "Kurtas, Ethnic Sets and Bottoms /",
+    "sentiment": "Neutral",
+    "created_at": "2026-06-30 06:46:20.126833+00:00"
+  },
+  {
+    "product": "https://www.flipkart.com/hirvanti-fashion-women-kurta-palazzo-dupatta-set/p/itmcf19461c9cd21?pid=ETHHHHYAEGYGFE7S&lid=LSTETHHHHYAEGYGFE7SSFKFMO&marketplace=FLIPKART&store=clo%2Fcfv%2Fitg%2Ftys&srno=b_1_1&otracker=browse&fm=organic&iid=en_U2AUnGXQG4-cMk5RKSR1o3oGGk8PfrbWhxs_NqJIg9OhxnzcggVQeB6ZsDmyICuQeD-eNlam0jKMjnlvLfjiz9quU6zuVnKVDoEVF-j778JAIY7ssQMzUNQ4_ZojZ_Yq&ppt=None&ppn=None&ssid=xudgopv8680000001782746263333&ov_redirect=true",
+    "review": "Hirvanti Fashion Women's Ethnic Sets /",
+    "sentiment": "Neutral",
+    "created_at": "2026-06-30 06:46:20.126837+00:00"
+  },
+  {
+    "product": "https://www.flipkart.com/hirvanti-fashion-women-kurta-palazzo-dupatta-set/p/itmcf19461c9cd21?pid=ETHHHHYAEGYGFE7S&lid=LSTETHHHHYAEGYGFE7SSFKFMO&marketplace=FLIPKART&store=clo%2Fcfv%2Fitg%2Ftys&srno=b_1_1&otracker=browse&fm=organic&iid=en_U2AUnGXQG4-cMk5RKSR1o3oGGk8PfrbWhxs_NqJIg9OhxnzcggVQeB6ZsDmyICuQeD-eNlam0jKMjnlvLfjiz9quU6zuVnKVDoEVF-j778JAIY7ssQMzUNQ4_ZojZ_Yq&ppt=None&ppn=None&ssid=xudgopv8680000001782746263333&ov_redirect=true",
+    "review": "Women Silk Blend Kurta Palazzo Dupatta Set",
+    "sentiment": "Neutral",
+    "created_at": "2026-06-30 06:46:20.126841+00:00"
+  },
+  {
+    "product": "https://www.flipkart.com/hirvanti-fashion-women-kurta-palazzo-dupatta-set/p/itmcf19461c9cd21?pid=ETHHHHYAEGYGFE7S&lid=LSTETHHHHYAEGYGFE7SSFKFMO&marketplace=FLIPKART&store=clo%2Fcfv%2Fitg%2Ftys&srno=b_1_1&otracker=browse&fm=organic&iid=en_U2AUnGXQG4-cMk5RKSR1o3oGGk8PfrbWhxs_NqJIg9OhxnzcggVQeB6ZsDmyICuQeD-eNlam0jKMjnlvLfjiz9quU6zuVnKVDoEVF-j778JAIY7ssQMzUNQ4_ZojZ_Yq&ppt=None&ppn=None&ssid=xudgopv8680000001782746263333&ov_redirect=true",
+    "review": "Key Highlights Key Highlights Key Highlights Key Highlights Key Highlights Key Highlights 4.2 | 107 Saabhi Women Viscose Rayon Kurta Palazzo Dupatta Set 81% 3,999 \u20b9757 AD CALLME TEXTILE & DESIGN Women Pure Silk Kurti Pant Attached Dupatta Set 67% 3,199 \u20b91,048 AD TRAHIMAM Women Pure Cotton Kurta Palazzo Dupatta Set 78% 3,999 \u20b9894 AD Selected Color: Purple Out of stock Out of stock Out of stock Out of stock Select Size Size Chart S M L XL XXL Hirvanti Fashion Women Silk Blend Kurta Palazzo Dupatta Set 4.2 | 107 Lowest Price since Launch 83% 3,999 \u20b9693 Buy at \u20b9658 Apply offers for maximum savings Buy at \u20b9658 Bank offers Bank offers \u20b935 off Delivery details Location not set Select delivery location Delivery by 3 Jul, Fri Fulfilled by HirvantiFashion 4.0 \u2022 7 years with Flipkart See other sellers 10-Day Return Cash on Delivery Flipkart Assured Similar Products AD 4.3 Saabhi Women Viscose Rayon Kurta Palazzo Dupatta Set 81% OFF \u20b93,999 \u20b9757 \u20b9719 with 2 offers Get it by 5 Jul AD 4 SANGOURI Women Viscose Rayon Kurti Pant Attached Dupatta Set 85% OFF \u20b92,999 \u20b9440 Hot Deal Get it by 4 Jul AD CALLME TEXTILE & DESIGN Women Pure Silk Kurti Pant Attached Dupatta Set 67% OFF \u20b93,199 \u20b91,048 Hot Deal Get it by 5 Jul AD TRAHIMAM Women Pure Cotton Kurta Palazzo Dupatta Set 78% OFF \u20b93,999 \u20b9894 \u20b9849 with 2 offers Get it by 4 Jul AD dharmkunj Women Silk Blend Kurta Palazzo Dupatta Set 70% OFF \u20b93,999 \u20b91,188 \u20b91,128 with Bank offer Get it by 5 Jul AD 4.3 PILUDI HOUSE Women Chanderi Kurti Pant Dupatta Set 72% OFF \u20b92,999 \u20b9848 Hot Deal Get it by 4 Jul AD 4.5 MOKOSH Women Pure Silk Kurta Pant Dupatta Set 71% OFF \u20b94,299 \u20b91,242 \u20b91,179 with Bank offer Get by Today AD 4.4 InWeave Women Viscose Rayon Kurta Palazzo Set 71% OFF \u20b93,095 \u20b9899 Hot Deal Get it by 6 Jul",
+    "sentiment": "Positive",
+    "created_at": "2026-06-30 06:46:20.126845+00:00"
+  },
+  {
+    "product": "https://www.flipkart.com/hirvanti-fashion-women-kurta-palazzo-dupatta-set/p/itmcf19461c9cd21?pid=ETHHHHYAEGYGFE7S&lid=LSTETHHHHYAEGYGFE7SSFKFMO&marketplace=FLIPKART&store=clo%2Fcfv%2Fitg%2Ftys&srno=b_1_1&otracker=browse&fm=organic&iid=en_U2AUnGXQG4-cMk5RKSR1o3oGGk8PfrbWhxs_NqJIg9OhxnzcggVQeB6ZsDmyICuQeD-eNlam0jKMjnlvLfjiz9quU6zuVnKVDoEVF-j778JAIY7ssQMzUNQ4_ZojZ_Yq&ppt=None&ppn=None&ssid=xudgopv8680000001782746263333&ov_redirect=true",
+    "review": "Key Highlights Key Highlights Key Highlights Key Highlights Key Highlights Key Highlights 4.2 | 107 Saabhi Women Viscose Rayon Kurta Palazzo Dupatta Set 81% 3,999 \u20b9757 AD CALLME TEXTILE & DESIGN Women Pure Silk Kurti Pant Attached Dupatta Set 67% 3,199 \u20b91,048 AD TRAHIMAM Women Pure Cotton Kurta Palazzo Dupatta Set 78% 3,999 \u20b9894 AD Selected Color: Purple Out of stock Out of stock Out of stock Out of stock Select Size Size Chart S M L XL XXL Hirvanti Fashion Women Silk Blend Kurta Palazzo Dupatta Set 4.2 | 107 Lowest Price since Launch 83% 3,999 \u20b9693 Buy at \u20b9658 Apply offers for maximum savings Buy at \u20b9658 Bank offers Bank offers \u20b935 off Delivery details Location not set Select delivery location Delivery by 3 Jul, Fri Fulfilled by HirvantiFashion 4.0 \u2022 7 years with Flipkart See other sellers 10-Day Return Cash on Delivery Flipkart Assured",
+    "sentiment": "Positive",
+    "created_at": "2026-06-30 06:46:20.126849+00:00"
+  },
+  {
+    "product": "https://www.flipkart.com/hirvanti-fashion-women-kurta-palazzo-dupatta-set/p/itmcf19461c9cd21?pid=ETHHHHYAEGYGFE7S&lid=LSTETHHHHYAEGYGFE7SSFKFMO&marketplace=FLIPKART&store=clo%2Fcfv%2Fitg%2Ftys&srno=b_1_1&otracker=browse&fm=organic&iid=en_U2AUnGXQG4-cMk5RKSR1o3oGGk8PfrbWhxs_NqJIg9OhxnzcggVQeB6ZsDmyICuQeD-eNlam0jKMjnlvLfjiz9quU6zuVnKVDoEVF-j778JAIY7ssQMzUNQ4_ZojZ_Yq&ppt=None&ppn=None&ssid=xudgopv8680000001782746263333&ov_redirect=true",
+    "review": "Key Highlights Key Highlights Key Highlights Key Highlights Key Highlights Key Highlights 4.2 | 107",
+    "sentiment": "Neutral",
+    "created_at": "2026-06-30 06:46:20.126853+00:00"
+  },
+  {
+    "product": "https://www.flipkart.com/callme-textile-design-women-kurti-pant-attached-dupatta-set/p/itmad44e9fc600d0?pid=ETHHNKEZP98HFUNE&lid=LSTETHHNKEZP98HFUNE1LKXKT&hl_lid=&marketplace=FLIPKART&fm=eyJ3dHAiOiJyZWNvIiwicHJwdCI6InBwIiwibWlkIjoicHJvZHVjdFJlY29tbWVuZGF0aW9uL3NpbWlsYXIifQ%3D%3D&pageUID=1782801989400",
+    "review": "Flipkart A one-stop Shopping Minutes Everything in Minutes Grocery At wholesale prices Travel All your travel needs Search Icon Search Icon Login New customer? Sign Up My Profile Flipkart Plus Zone Orders Wishlist Become a Seller Rewards Gift Cards Notification Preferences 24x7 Customer Care Advertise Download App More More Become a Seller Notification Settings 24x7 Customer Care Advertise on Flipkart Cart Home / Clothing and Accessories / Kurtas, Ethnic Sets and Bottoms / Ethnic Sets / Women's Ethnic Sets / CALLME TEXTILE & DESIGN Women's Ethnic Sets / Women Pure Silk Kurti Pant Attached Dupatta Set Key Highlights Key Highlights Key Highlights Key Highlights Key Highlights Key Highlights HIVA TRENDZ Women Pure Silk Kurta Pant Dupatta Set 81% 4,149 \u20b9774 AD HIVA TRENDZ Women Pure Silk Kurta Pant Dupatta Set 81% 4,049 \u20b9759 AD DSK STUDIO Women Pure Silk Kurta Pant Dupatta Set 81% 4,049 \u20b9759 AD Select Size Size Chart S M L XL XXL CALLME TEXTILE & DESIGN Women Pure Silk Kurti Pant Attached Dupat... more Hot Deal 67% 3,199 \u20b91,048 Buy at \u20b9995 Apply offers for maximum savings \u20b9995 Lowest price for you OR \u20b996 x 12m Pay \u20b91,147 Bank offers Bank offers \u20b953 off View EMI offers Delivery details Location not set Select delivery location Delivery by 3 Jul, Fri Fulfilled by JDCORPORATION 4.1 \u2022 3 years with Flipkart See other sellers 10-Day Return Cash on Delivery Flipkart Assured Similar Products AD 3.8 HIVA TRENDZ Women Pure Silk Kurta Pant Dupatta Set 81% OFF \u20b94,149 \u20b9774 \u20b9735 with 2 offers Get it by 4 Jul AD 4.2 HIVA TRENDZ Women Pure Silk Kurta Pant Dupatta Set 81% OFF \u20b94,049 \u20b9759 \u20b9721 with 2 offers Get it by 4 Jul AD 3.8 HIVA TRENDZ Women Pure Silk Kurta Pant Dupatta Set 81% OFF \u20b94,149 \u20b9774 \u20b9735 with 2 offers Get it by 4 Jul AD 4.8 DSK STUDIO Women Pure Silk Kurta Pant Dupatta Set 81% OFF \u20b94,049 \u20b9759 \u20b9721 with 2 offers Get it by 4 Jul AD 4.8 DSK STUDIO Women Pure Silk Kurta Pant Dupatta Set 81% OFF \u20b94,049 \u20b9759 \u20b9721 with 2 offers Get it by 4 Jul AD ANOUK Women Cotton Blend Kurti Pant Dupatta Set 69% OFF \u20b95,495 \u20b91,697 \u20b91,612 with Bank offer Get it by 5 Jul AD Skylee Women Pure Cotton Kurta Pant Dupatta Set 59% OFF \u20b93,799 \u20b91,563 \u20b91,484 with Bank offer Get it by 5 Jul AD Skylee Women Pure Cotton Kurta Pant Dupatta Set 59% OFF \u20b93,599 \u20b91,486 \u20b91,411 with Bank offer Get it by 5 Jul Hang on, loading content",
+    "sentiment": "Positive",
+    "created_at": "2026-06-30 06:46:47.461341+00:00"
+  },
+  {
+    "product": "https://www.flipkart.com/callme-textile-design-women-kurti-pant-attached-dupatta-set/p/itmad44e9fc600d0?pid=ETHHNKEZP98HFUNE&lid=LSTETHHNKEZP98HFUNE1LKXKT&hl_lid=&marketplace=FLIPKART&fm=eyJ3dHAiOiJyZWNvIiwicHJwdCI6InBwIiwibWlkIjoicHJvZHVjdFJlY29tbWVuZGF0aW9uL3NpbWlsYXIifQ%3D%3D&pageUID=1782801989400",
+    "review": "Flipkart A one-stop Shopping Minutes Everything in Minutes Grocery At wholesale prices Travel All your travel needs Search Icon Search Icon Login New customer? Sign Up My Profile Flipkart Plus Zone Orders Wishlist Become a Seller Rewards Gift Cards Notification Preferences 24x7 Customer Care Advertise Download App More More Become a Seller Notification Settings 24x7 Customer Care Advertise on Flipkart Cart",
+    "sentiment": "Positive",
+    "created_at": "2026-06-30 06:46:47.461355+00:00"
+  },
+  {
+    "product": "https://www.flipkart.com/callme-textile-design-women-kurti-pant-attached-dupatta-set/p/itmad44e9fc600d0?pid=ETHHNKEZP98HFUNE&lid=LSTETHHNKEZP98HFUNE1LKXKT&hl_lid=&marketplace=FLIPKART&fm=eyJ3dHAiOiJyZWNvIiwicHJwdCI6InBwIiwibWlkIjoicHJvZHVjdFJlY29tbWVuZGF0aW9uL3NpbWlsYXIifQ%3D%3D&pageUID=1782801989400",
+    "review": "Flipkart A one-stop Shopping Minutes Everything in Minutes Grocery At wholesale prices Travel All your travel needs",
+    "sentiment": "Neutral",
+    "created_at": "2026-06-30 06:46:47.461360+00:00"
+  },
+  {
+    "product": "https://www.flipkart.com/callme-textile-design-women-kurti-pant-attached-dupatta-set/p/itmad44e9fc600d0?pid=ETHHNKEZP98HFUNE&lid=LSTETHHNKEZP98HFUNE1LKXKT&hl_lid=&marketplace=FLIPKART&fm=eyJ3dHAiOiJyZWNvIiwicHJwdCI6InBwIiwibWlkIjoicHJvZHVjdFJlY29tbWVuZGF0aW9uL3NpbWlsYXIifQ%3D%3D&pageUID=1782801989400",
+    "review": "Flipkart A one-stop Shopping",
+    "sentiment": "Neutral",
+    "created_at": "2026-06-30 06:46:47.461363+00:00"
+  },
+  {
+    "product": "https://www.flipkart.com/callme-textile-design-women-kurti-pant-attached-dupatta-set/p/itmad44e9fc600d0?pid=ETHHNKEZP98HFUNE&lid=LSTETHHNKEZP98HFUNE1LKXKT&hl_lid=&marketplace=FLIPKART&fm=eyJ3dHAiOiJyZWNvIiwicHJwdCI6InBwIiwibWlkIjoicHJvZHVjdFJlY29tbWVuZGF0aW9uL3NpbWlsYXIifQ%3D%3D&pageUID=1782801989400",
+    "review": "Minutes Everything in Minutes",
+    "sentiment": "Neutral",
+    "created_at": "2026-06-30 06:46:47.461367+00:00"
+  },
+  {
+    "product": "https://www.flipkart.com/callme-textile-design-women-kurti-pant-attached-dupatta-set/p/itmad44e9fc600d0?pid=ETHHNKEZP98HFUNE&lid=LSTETHHNKEZP98HFUNE1LKXKT&hl_lid=&marketplace=FLIPKART&fm=eyJ3dHAiOiJyZWNvIiwicHJwdCI6InBwIiwibWlkIjoicHJvZHVjdFJlY29tbWVuZGF0aW9uL3NpbWlsYXIifQ%3D%3D&pageUID=1782801989400",
+    "review": "Grocery At wholesale prices",
+    "sentiment": "Neutral",
+    "created_at": "2026-06-30 06:46:47.461371+00:00"
+  },
+  {
+    "product": "https://www.flipkart.com/callme-textile-design-women-kurti-pant-attached-dupatta-set/p/itmad44e9fc600d0?pid=ETHHNKEZP98HFUNE&lid=LSTETHHNKEZP98HFUNE1LKXKT&hl_lid=&marketplace=FLIPKART&fm=eyJ3dHAiOiJyZWNvIiwicHJwdCI6InBwIiwibWlkIjoicHJvZHVjdFJlY29tbWVuZGF0aW9uL3NpbWlsYXIifQ%3D%3D&pageUID=1782801989400",
+    "review": "Travel All your travel needs",
+    "sentiment": "Neutral",
+    "created_at": "2026-06-30 06:46:47.461374+00:00"
+  },
+  {
+    "product": "https://www.flipkart.com/callme-textile-design-women-kurti-pant-attached-dupatta-set/p/itmad44e9fc600d0?pid=ETHHNKEZP98HFUNE&lid=LSTETHHNKEZP98HFUNE1LKXKT&hl_lid=&marketplace=FLIPKART&fm=eyJ3dHAiOiJyZWNvIiwicHJwdCI6InBwIiwibWlkIjoicHJvZHVjdFJlY29tbWVuZGF0aW9uL3NpbWlsYXIifQ%3D%3D&pageUID=1782801989400",
+    "review": "Login New customer? Sign Up My Profile Flipkart Plus Zone Orders Wishlist Become a Seller Rewards Gift Cards Notification Preferences 24x7 Customer Care Advertise Download App More More Become a Seller Notification Settings 24x7 Customer Care Advertise on Flipkart Cart",
+    "sentiment": "Positive",
+    "created_at": "2026-06-30 06:46:47.461378+00:00"
+  },
+  {
+    "product": "https://www.flipkart.com/callme-textile-design-women-kurti-pant-attached-dupatta-set/p/itmad44e9fc600d0?pid=ETHHNKEZP98HFUNE&lid=LSTETHHNKEZP98HFUNE1LKXKT&hl_lid=&marketplace=FLIPKART&fm=eyJ3dHAiOiJyZWNvIiwicHJwdCI6InBwIiwibWlkIjoicHJvZHVjdFJlY29tbWVuZGF0aW9uL3NpbWlsYXIifQ%3D%3D&pageUID=1782801989400",
+    "review": "Login New customer? Sign Up My Profile Flipkart Plus Zone Orders Wishlist Become a Seller Rewards Gift Cards Notification Preferences 24x7 Customer Care Advertise Download App",
+    "sentiment": "Positive",
+    "created_at": "2026-06-30 06:46:47.461381+00:00"
+  },
+  {
+    "product": "https://www.flipkart.com/callme-textile-design-women-kurti-pant-attached-dupatta-set/p/itmad44e9fc600d0?pid=ETHHNKEZP98HFUNE&lid=LSTETHHNKEZP98HFUNE1LKXKT&hl_lid=&marketplace=FLIPKART&fm=eyJ3dHAiOiJyZWNvIiwicHJwdCI6InBwIiwibWlkIjoicHJvZHVjdFJlY29tbWVuZGF0aW9uL3NpbWlsYXIifQ%3D%3D&pageUID=1782801989400",
+    "review": "More More Become a Seller Notification Settings 24x7 Customer Care Advertise on Flipkart",
+    "sentiment": "Positive",
+    "created_at": "2026-06-30 06:46:47.461385+00:00"
+  },
+  {
+    "product": "https://www.flipkart.com/callme-textile-design-women-kurti-pant-attached-dupatta-set/p/itmad44e9fc600d0?pid=ETHHNKEZP98HFUNE&lid=LSTETHHNKEZP98HFUNE1LKXKT&hl_lid=&marketplace=FLIPKART&fm=eyJ3dHAiOiJyZWNvIiwicHJwdCI6InBwIiwibWlkIjoicHJvZHVjdFJlY29tbWVuZGF0aW9uL3NpbWlsYXIifQ%3D%3D&pageUID=1782801989400",
+    "review": "Home / Clothing and Accessories / Kurtas, Ethnic Sets and Bottoms / Ethnic Sets / Women's Ethnic Sets / CALLME TEXTILE & DESIGN Women's Ethnic Sets / Women Pure Silk Kurti Pant Attached Dupatta Set Key Highlights Key Highlights Key Highlights Key Highlights Key Highlights Key Highlights HIVA TRENDZ Women Pure Silk Kurta Pant Dupatta Set 81% 4,149 \u20b9774 AD HIVA TRENDZ Women Pure Silk Kurta Pant Dupatta Set 81% 4,049 \u20b9759 AD DSK STUDIO Women Pure Silk Kurta Pant Dupatta Set 81% 4,049 \u20b9759 AD Select Size Size Chart S M L XL XXL CALLME TEXTILE & DESIGN Women Pure Silk Kurti Pant Attached Dupat... more Hot Deal 67% 3,199 \u20b91,048 Buy at \u20b9995 Apply offers for maximum savings \u20b9995 Lowest price for you OR \u20b996 x 12m Pay \u20b91,147 Bank offers Bank offers \u20b953 off View EMI offers Delivery details Location not set Select delivery location Delivery by 3 Jul, Fri Fulfilled by JDCORPORATION 4.1 \u2022 3 years with Flipkart See other sellers 10-Day Return Cash on Delivery Flipkart Assured Similar Products AD 3.8 HIVA TRENDZ Women Pure Silk Kurta Pant Dupatta Set 81% OFF \u20b94,149 \u20b9774 \u20b9735 with 2 offers Get it by 4 Jul AD 4.2 HIVA TRENDZ Women Pure Silk Kurta Pant Dupatta Set 81% OFF \u20b94,049 \u20b9759 \u20b9721 with 2 offers Get it by 4 Jul AD 3.8 HIVA TRENDZ Women Pure Silk Kurta Pant Dupatta Set 81% OFF \u20b94,149 \u20b9774 \u20b9735 with 2 offers Get it by 4 Jul AD 4.8 DSK STUDIO Women Pure Silk Kurta Pant Dupatta Set 81% OFF \u20b94,049 \u20b9759 \u20b9721 with 2 offers Get it by 4 Jul AD 4.8 DSK STUDIO Women Pure Silk Kurta Pant Dupatta Set 81% OFF \u20b94,049 \u20b9759 \u20b9721 with 2 offers Get it by 4 Jul AD ANOUK Women Cotton Blend Kurti Pant Dupatta Set 69% OFF \u20b95,495 \u20b91,697 \u20b91,612 with Bank offer Get it by 5 Jul AD Skylee Women Pure Cotton Kurta Pant Dupatta Set 59% OFF \u20b93,799 \u20b91,563 \u20b91,484 with Bank offer Get it by 5 Jul AD Skylee Women Pure Cotton Kurta Pant Dupatta Set 59% OFF \u20b93,599 \u20b91,486 \u20b91,411 with Bank offer Get it by 5 Jul Hang on, loading content",
+    "sentiment": "Positive",
+    "created_at": "2026-06-30 06:46:47.461389+00:00"
+  },
+  {
+    "product": "https://www.flipkart.com/callme-textile-design-women-kurti-pant-attached-dupatta-set/p/itmad44e9fc600d0?pid=ETHHNKEZP98HFUNE&lid=LSTETHHNKEZP98HFUNE1LKXKT&hl_lid=&marketplace=FLIPKART&fm=eyJ3dHAiOiJyZWNvIiwicHJwdCI6InBwIiwibWlkIjoicHJvZHVjdFJlY29tbWVuZGF0aW9uL3NpbWlsYXIifQ%3D%3D&pageUID=1782801989400",
+    "review": "Home / Clothing and Accessories / Kurtas, Ethnic Sets and Bottoms / Ethnic Sets / Women's Ethnic Sets / CALLME TEXTILE & DESIGN Women's Ethnic Sets / Women Pure Silk Kurti Pant Attached Dupatta Set",
+    "sentiment": "Positive",
+    "created_at": "2026-06-30 06:46:47.461392+00:00"
+  },
+  {
+    "product": "https://www.flipkart.com/callme-textile-design-women-kurti-pant-attached-dupatta-set/p/itmad44e9fc600d0?pid=ETHHNKEZP98HFUNE&lid=LSTETHHNKEZP98HFUNE1LKXKT&hl_lid=&marketplace=FLIPKART&fm=eyJ3dHAiOiJyZWNvIiwicHJwdCI6InBwIiwibWlkIjoicHJvZHVjdFJlY29tbWVuZGF0aW9uL3NpbWlsYXIifQ%3D%3D&pageUID=1782801989400",
+    "review": "Home / Clothing and Accessories / Kurtas, Ethnic Sets and Bottoms / Ethnic Sets / Women's Ethnic Sets / CALLME TEXTILE & DESIGN Women's Ethnic Sets /",
+    "sentiment": "Neutral",
+    "created_at": "2026-06-30 06:46:47.461396+00:00"
+  },
+  {
+    "product": "https://www.flipkart.com/callme-textile-design-women-kurti-pant-attached-dupatta-set/p/itmad44e9fc600d0?pid=ETHHNKEZP98HFUNE&lid=LSTETHHNKEZP98HFUNE1LKXKT&hl_lid=&marketplace=FLIPKART&fm=eyJ3dHAiOiJyZWNvIiwicHJwdCI6InBwIiwibWlkIjoicHJvZHVjdFJlY29tbWVuZGF0aW9uL3NpbWlsYXIifQ%3D%3D&pageUID=1782801989400",
+    "review": "Clothing and Accessories /",
+    "sentiment": "Neutral",
+    "created_at": "2026-06-30 06:46:47.461450+00:00"
+  },
+  {
+    "product": "https://www.flipkart.com/callme-textile-design-women-kurti-pant-attached-dupatta-set/p/itmad44e9fc600d0?pid=ETHHNKEZP98HFUNE&lid=LSTETHHNKEZP98HFUNE1LKXKT&hl_lid=&marketplace=FLIPKART&fm=eyJ3dHAiOiJyZWNvIiwicHJwdCI6InBwIiwibWlkIjoicHJvZHVjdFJlY29tbWVuZGF0aW9uL3NpbWlsYXIifQ%3D%3D&pageUID=1782801989400",
+    "review": "Kurtas, Ethnic Sets and Bottoms /",
+    "sentiment": "Neutral",
+    "created_at": "2026-06-30 06:46:47.461457+00:00"
+  },
+  {
+    "product": "https://www.flipkart.com/callme-textile-design-women-kurti-pant-attached-dupatta-set/p/itmad44e9fc600d0?pid=ETHHNKEZP98HFUNE&lid=LSTETHHNKEZP98HFUNE1LKXKT&hl_lid=&marketplace=FLIPKART&fm=eyJ3dHAiOiJyZWNvIiwicHJwdCI6InBwIiwibWlkIjoicHJvZHVjdFJlY29tbWVuZGF0aW9uL3NpbWlsYXIifQ%3D%3D&pageUID=1782801989400",
+    "review": "CALLME TEXTILE & DESIGN Women's Ethnic Sets /",
+    "sentiment": "Neutral",
+    "created_at": "2026-06-30 06:46:47.461461+00:00"
+  },
+  {
+    "product": "https://www.flipkart.com/callme-textile-design-women-kurti-pant-attached-dupatta-set/p/itmad44e9fc600d0?pid=ETHHNKEZP98HFUNE&lid=LSTETHHNKEZP98HFUNE1LKXKT&hl_lid=&marketplace=FLIPKART&fm=eyJ3dHAiOiJyZWNvIiwicHJwdCI6InBwIiwibWlkIjoicHJvZHVjdFJlY29tbWVuZGF0aW9uL3NpbWlsYXIifQ%3D%3D&pageUID=1782801989400",
+    "review": "Women Pure Silk Kurti Pant Attached Dupatta Set",
+    "sentiment": "Positive",
+    "created_at": "2026-06-30 06:46:47.461464+00:00"
+  },
+  {
+    "product": "https://www.flipkart.com/callme-textile-design-women-kurti-pant-attached-dupatta-set/p/itmad44e9fc600d0?pid=ETHHNKEZP98HFUNE&lid=LSTETHHNKEZP98HFUNE1LKXKT&hl_lid=&marketplace=FLIPKART&fm=eyJ3dHAiOiJyZWNvIiwicHJwdCI6InBwIiwibWlkIjoicHJvZHVjdFJlY29tbWVuZGF0aW9uL3NpbWlsYXIifQ%3D%3D&pageUID=1782801989400",
+    "review": "Key Highlights Key Highlights Key Highlights Key Highlights Key Highlights Key Highlights HIVA TRENDZ Women Pure Silk Kurta Pant Dupatta Set 81% 4,149 \u20b9774 AD HIVA TRENDZ Women Pure Silk Kurta Pant Dupatta Set 81% 4,049 \u20b9759 AD DSK STUDIO Women Pure Silk Kurta Pant Dupatta Set 81% 4,049 \u20b9759 AD Select Size Size Chart S M L XL XXL CALLME TEXTILE & DESIGN Women Pure Silk Kurti Pant Attached Dupat... more Hot Deal 67% 3,199 \u20b91,048 Buy at \u20b9995 Apply offers for maximum savings \u20b9995 Lowest price for you OR \u20b996 x 12m Pay \u20b91,147 Bank offers Bank offers \u20b953 off View EMI offers Delivery details Location not set Select delivery location Delivery by 3 Jul, Fri Fulfilled by JDCORPORATION 4.1 \u2022 3 years with Flipkart See other sellers 10-Day Return Cash on Delivery Flipkart Assured Similar Products AD 3.8 HIVA TRENDZ Women Pure Silk Kurta Pant Dupatta Set 81% OFF \u20b94,149 \u20b9774 \u20b9735 with 2 offers Get it by 4 Jul AD 4.2 HIVA TRENDZ Women Pure Silk Kurta Pant Dupatta Set 81% OFF \u20b94,049 \u20b9759 \u20b9721 with 2 offers Get it by 4 Jul AD 3.8 HIVA TRENDZ Women Pure Silk Kurta Pant Dupatta Set 81% OFF \u20b94,149 \u20b9774 \u20b9735 with 2 offers Get it by 4 Jul AD 4.8 DSK STUDIO Women Pure Silk Kurta Pant Dupatta Set 81% OFF \u20b94,049 \u20b9759 \u20b9721 with 2 offers Get it by 4 Jul AD 4.8 DSK STUDIO Women Pure Silk Kurta Pant Dupatta Set 81% OFF \u20b94,049 \u20b9759 \u20b9721 with 2 offers Get it by 4 Jul AD ANOUK Women Cotton Blend Kurti Pant Dupatta Set 69% OFF \u20b95,495 \u20b91,697 \u20b91,612 with Bank offer Get it by 5 Jul AD Skylee Women Pure Cotton Kurta Pant Dupatta Set 59% OFF \u20b93,799 \u20b91,563 \u20b91,484 with Bank offer Get it by 5 Jul AD Skylee Women Pure Cotton Kurta Pant Dupatta Set 59% OFF \u20b93,599 \u20b91,486 \u20b91,411 with Bank offer Get it by 5 Jul",
+    "sentiment": "Positive",
+    "created_at": "2026-06-30 06:46:47.461492+00:00"
+  },
+  {
+    "product": "https://www.flipkart.com/callme-textile-design-women-kurti-pant-attached-dupatta-set/p/itmad44e9fc600d0?pid=ETHHNKEZP98HFUNE&lid=LSTETHHNKEZP98HFUNE1LKXKT&hl_lid=&marketplace=FLIPKART&fm=eyJ3dHAiOiJyZWNvIiwicHJwdCI6InBwIiwibWlkIjoicHJvZHVjdFJlY29tbWVuZGF0aW9uL3NpbWlsYXIifQ%3D%3D&pageUID=1782801989400",
+    "review": "Key Highlights Key Highlights Key Highlights Key Highlights Key Highlights Key Highlights HIVA TRENDZ Women Pure Silk Kurta Pant Dupatta Set 81% 4,149 \u20b9774 AD HIVA TRENDZ Women Pure Silk Kurta Pant Dupatta Set 81% 4,049 \u20b9759 AD DSK STUDIO Women Pure Silk Kurta Pant Dupatta Set 81% 4,049 \u20b9759 AD Select Size Size Chart S M L XL XXL CALLME TEXTILE & DESIGN Women Pure Silk Kurti Pant Attached Dupat... more Hot Deal 67% 3,199 \u20b91,048 Buy at \u20b9995 Apply offers for maximum savings \u20b9995 Lowest price for you OR \u20b996 x 12m Pay \u20b91,147 Bank offers Bank offers \u20b953 off View EMI offers Delivery details Location not set Select delivery location Delivery by 3 Jul, Fri Fulfilled by JDCORPORATION 4.1 \u2022 3 years with Flipkart See other sellers 10-Day Return Cash on Delivery Flipkart Assured",
+    "sentiment": "Positive",
+    "created_at": "2026-06-30 06:46:47.461497+00:00"
+  },
+  {
+    "product": "https://www.flipkart.com/callme-textile-design-women-kurti-pant-attached-dupatta-set/p/itmad44e9fc600d0?pid=ETHHNKEZP98HFUNE&lid=LSTETHHNKEZP98HFUNE1LKXKT&hl_lid=&marketplace=FLIPKART&fm=eyJ3dHAiOiJyZWNvIiwicHJwdCI6InBwIiwibWlkIjoicHJvZHVjdFJlY29tbWVuZGF0aW9uL3NpbWlsYXIifQ%3D%3D&pageUID=1782801989400",
+    "review": "Key Highlights Key Highlights Key Highlights Key Highlights Key Highlights Key Highlights",
+    "sentiment": "Neutral",
+    "created_at": "2026-06-30 06:46:47.461501+00:00"
+  },
+  {
+    "product": "https://www.flipkart.com/anushansa-women-embroidered-straight-kurta/product-reviews/itm603202da2cf7e?pid=KTAHKDXCFUFFFYHE&lid=LSTKTAHKDXCFUFFFYHEIQTKH6&sortOrder=MOST_HELPFUL&certifiedBuyer=false&aid=overall",
+    "review": "Flipkart A one-stop Shopping Minutes Everything in Minutes Grocery At wholesale prices Travel All your travel needs Search Icon Search Icon Login New customer? Sign Up My Profile Flipkart Plus Zone Orders Wishlist Become a Seller Rewards Gift Cards Notification Preferences 24x7 Customer Care Advertise Download App More More Become a Seller Notification Settings 24x7 Customer Care Advertise on Flipkart Cart",
+    "sentiment": "Positive",
+    "created_at": "2026-06-30 07:13:33.289806+00:00"
+  },
+  {
+    "product": "https://www.flipkart.com/anushansa-women-embroidered-straight-kurta/product-reviews/itm603202da2cf7e?pid=KTAHKDXCFUFFFYHE&lid=LSTKTAHKDXCFUFFFYHEIQTKH6&sortOrder=MOST_HELPFUL&certifiedBuyer=false&aid=overall",
+    "review": "Flipkart A one-stop Shopping Minutes Everything in Minutes Grocery At wholesale prices Travel All your travel needs",
+    "sentiment": "Neutral",
+    "created_at": "2026-06-30 07:13:33.289820+00:00"
+  },
+  {
+    "product": "https://www.flipkart.com/anushansa-women-embroidered-straight-kurta/product-reviews/itm603202da2cf7e?pid=KTAHKDXCFUFFFYHE&lid=LSTKTAHKDXCFUFFFYHEIQTKH6&sortOrder=MOST_HELPFUL&certifiedBuyer=false&aid=overall",
+    "review": "Flipkart A one-stop Shopping",
+    "sentiment": "Neutral",
+    "created_at": "2026-06-30 07:13:33.289825+00:00"
+  },
+  {
+    "product": "https://www.flipkart.com/anushansa-women-embroidered-straight-kurta/product-reviews/itm603202da2cf7e?pid=KTAHKDXCFUFFFYHE&lid=LSTKTAHKDXCFUFFFYHEIQTKH6&sortOrder=MOST_HELPFUL&certifiedBuyer=false&aid=overall",
+    "review": "Minutes Everything in Minutes",
+    "sentiment": "Neutral",
+    "created_at": "2026-06-30 07:13:33.289828+00:00"
+  },
+  {
+    "product": "https://www.flipkart.com/anushansa-women-embroidered-straight-kurta/product-reviews/itm603202da2cf7e?pid=KTAHKDXCFUFFFYHE&lid=LSTKTAHKDXCFUFFFYHEIQTKH6&sortOrder=MOST_HELPFUL&certifiedBuyer=false&aid=overall",
+    "review": "Grocery At wholesale prices",
+    "sentiment": "Neutral",
+    "created_at": "2026-06-30 07:13:33.289832+00:00"
+  },
+  {
+    "product": "https://www.flipkart.com/anushansa-women-embroidered-straight-kurta/product-reviews/itm603202da2cf7e?pid=KTAHKDXCFUFFFYHE&lid=LSTKTAHKDXCFUFFFYHEIQTKH6&sortOrder=MOST_HELPFUL&certifiedBuyer=false&aid=overall",
+    "review": "Travel All your travel needs",
+    "sentiment": "Neutral",
+    "created_at": "2026-06-30 07:13:33.289835+00:00"
+  },
+  {
+    "product": "https://www.flipkart.com/anushansa-women-embroidered-straight-kurta/product-reviews/itm603202da2cf7e?pid=KTAHKDXCFUFFFYHE&lid=LSTKTAHKDXCFUFFFYHEIQTKH6&sortOrder=MOST_HELPFUL&certifiedBuyer=false&aid=overall",
+    "review": "Login New customer? Sign Up My Profile Flipkart Plus Zone Orders Wishlist Become a Seller Rewards Gift Cards Notification Preferences 24x7 Customer Care Advertise Download App More More Become a Seller Notification Settings 24x7 Customer Care Advertise on Flipkart Cart",
+    "sentiment": "Positive",
+    "created_at": "2026-06-30 07:13:33.289838+00:00"
+  },
+  {
+    "product": "https://www.flipkart.com/anushansa-women-embroidered-straight-kurta/product-reviews/itm603202da2cf7e?pid=KTAHKDXCFUFFFYHE&lid=LSTKTAHKDXCFUFFFYHEIQTKH6&sortOrder=MOST_HELPFUL&certifiedBuyer=false&aid=overall",
+    "review": "Login New customer? Sign Up My Profile Flipkart Plus Zone Orders Wishlist Become a Seller Rewards Gift Cards Notification Preferences 24x7 Customer Care Advertise Download App",
+    "sentiment": "Positive",
+    "created_at": "2026-06-30 07:13:33.289841+00:00"
+  },
+  {
+    "product": "https://www.flipkart.com/anushansa-women-embroidered-straight-kurta/product-reviews/itm603202da2cf7e?pid=KTAHKDXCFUFFFYHE&lid=LSTKTAHKDXCFUFFFYHEIQTKH6&sortOrder=MOST_HELPFUL&certifiedBuyer=false&aid=overall",
+    "review": "More More Become a Seller Notification Settings 24x7 Customer Care Advertise on Flipkart",
+    "sentiment": "Positive",
+    "created_at": "2026-06-30 07:13:33.289844+00:00"
+  },
+  {
+    "product": "https://www.flipkart.com/anushansa-women-embroidered-straight-kurta/product-reviews/itm603202da2cf7e?pid=KTAHKDXCFUFFFYHE&lid=LSTKTAHKDXCFUFFFYHEIQTKH6&sortOrder=MOST_HELPFUL&certifiedBuyer=false&aid=overall",
+    "review": "1 \u2605 3 2 \u2605 4 3 \u2605 5 4 \u2605 15 5 \u2605 18",
+    "sentiment": "Neutral",
+    "created_at": "2026-06-30 07:13:33.289848+00:00"
+  },
+  {
+    "product": "https://www.flipkart.com/park-avenue-solid-men-polo-neck-light-green-t-shirt/p/itm79f445aa43a22?pid=TSHH9C4YKZ8RKGKH&lid=LSTTSHH9C4YKZ8RKGKH12OZLK&marketplace=FLIPKART&q=t+shirts&store=clo%2Fash%2Fank&srno=s_1_1&otracker=AS_Query_TrendingAutoSuggest_3_0_na_na_na&otracker1=AS_Query_TrendingAutoSuggest_3_0_na_na_na&fm=search-autosuggest&iid=en_3D7SJE1TjNgp7Knvchrtbvya4UnX_kQrLdcoV56M1qvxMC_guOggymcL-np19eNgbByK1H3NaFTaB2drO6ocuQiTD7eVvGCy8Q-TmjQfbcgxjljU0m0OFsLGbLQ1unhv&ppt=sp&ppn=sp&ssid=8bcz0lsmz40000001782803677994&qH=04ad3bdbbe706182&ov_redirect=true",
+    "review": "Flipkart A one-stop Shopping Minutes Everything in Minutes Grocery At wholesale prices Travel All your travel needs Search Icon Search Icon Login New customer? Sign Up My Profile Flipkart Plus Zone Orders Wishlist Become a Seller Rewards Gift Cards Notification Preferences 24x7 Customer Care Advertise Download App More More Become a Seller Notification Settings 24x7 Customer Care Advertise on Flipkart Cart Home / Clothing and Accessories / Topwear / T-shirts / Men's T-shirts / PARK AVENUE Men's T-shirts / Men Solid Polo Neck Cotton Blend Light Green T-Shirt Key Highlights Key Highlights Key Highlights Key Highlights Key Highlights Key Highlights 4.2 | 3.1K+ PARK AVENUE Men Solid Polo Neck Cotton Blend Dark Blue T-Shirt 58% 1,311 \u20b9554 AD PARK AVENUE Men Printed Polo Neck Cotton Blend Light Green T-Shirt 60% 1,599 \u20b9647 AD PARK AVENUE Men Solid Polo Neck Cotton Blend White T-Shirt 58% 1,311 \u20b9554 AD Selected Color: Light Green Out of stock Out of stock Select Size Size Chart S M L XL XXL PARK AVENUE Men Solid Polo Neck Cotton Blend Light Green T-Shirt 4.2 | 3,102 58% 1,311 \u20b9554 Buy at \u20b9476 Apply offers for maximum savings Buy at \u20b9476 Buy More Save More \u20b928 off Add 2 items to unlock offer Buy More Save More \u20b928 off Add Item Bank offers Bank offers \u20b950 off Additional benefits on this purchase Unlock Air Fryers coupon \u2022 10% off Unlock Mixer grinder coupon \u2022 10% off Delivery details Location not set Select delivery location Delivery by 3 Jul, Fri Fulfilled by HSAtlastradeFashion 4.3 \u2022 4 years with Flipkart See other sellers 10-Day Return Cash on Delivery Flipkart Assured Similar Products AD 4.3 Allen Solly Men Solid Polo Neck Cotton Blend Yellow T-Shirt 55% OFF \u20b91,299 \u20b9584 Hot Deal Get by Today AD 4.2 Allen Solly Men Colorblock Polo Neck Pure Cotton Multicolor T-Shirt 46% OFF \u20b91,049 \u20b9566 \u20b9487 with 3 offers Get by Today AD 4.3 Allen Solly Men Solid Polo Neck Pure Cotton Green T-Shirt 48% OFF \u20b91,099 \u20b9566 Hot Deal Get by Tomorrow AD 4.3 Allen Solly Men Solid Polo Neck Pure Cotton Red T-Shirt 48% OFF \u20b91,099 \u20b9566 \u20b9487 with 3 offers Get by Today AD 4.2 Allen Solly Men Colorblock Polo Neck Pure Cotton Green T-Shirt 46% OFF \u20b91,049 \u20b9566 \u20b9487 with 3 offers Get by Today AD 4.2 PARK AVENUE Men Solid Polo Neck Cotton Blend Dark Blue T-Shirt 58% OFF \u20b91,311 \u20b9554 \u20b9476 with 3 offers Get it by 5 Jul AD 4.1 PARK AVENUE Men Printed Polo Neck Cotton Blend Grey T-Shirt 55% OFF \u20b91,499 \u20b9674 \u20b9590 with 2 offers Get by Today AD 4.2 PARK AVENUE Men Printed Polo Neck Cotton Blend Dark Blue T-Shirt 64% OFF \u20b91,599 \u20b9575 Hot Deal Get it by 4 Jul Hang on, loading content",
+    "sentiment": "Positive",
+    "created_at": "2026-06-30 07:14:57.608483+00:00"
+  },
+  {
+    "product": "https://www.flipkart.com/park-avenue-solid-men-polo-neck-light-green-t-shirt/p/itm79f445aa43a22?pid=TSHH9C4YKZ8RKGKH&lid=LSTTSHH9C4YKZ8RKGKH12OZLK&marketplace=FLIPKART&q=t+shirts&store=clo%2Fash%2Fank&srno=s_1_1&otracker=AS_Query_TrendingAutoSuggest_3_0_na_na_na&otracker1=AS_Query_TrendingAutoSuggest_3_0_na_na_na&fm=search-autosuggest&iid=en_3D7SJE1TjNgp7Knvchrtbvya4UnX_kQrLdcoV56M1qvxMC_guOggymcL-np19eNgbByK1H3NaFTaB2drO6ocuQiTD7eVvGCy8Q-TmjQfbcgxjljU0m0OFsLGbLQ1unhv&ppt=sp&ppn=sp&ssid=8bcz0lsmz40000001782803677994&qH=04ad3bdbbe706182&ov_redirect=true",
+    "review": "Flipkart A one-stop Shopping Minutes Everything in Minutes Grocery At wholesale prices Travel All your travel needs Search Icon Search Icon Login New customer? Sign Up My Profile Flipkart Plus Zone Orders Wishlist Become a Seller Rewards Gift Cards Notification Preferences 24x7 Customer Care Advertise Download App More More Become a Seller Notification Settings 24x7 Customer Care Advertise on Flipkart Cart",
+    "sentiment": "Positive",
+    "created_at": "2026-06-30 07:14:57.608495+00:00"
+  },
+  {
+    "product": "https://www.flipkart.com/park-avenue-solid-men-polo-neck-light-green-t-shirt/p/itm79f445aa43a22?pid=TSHH9C4YKZ8RKGKH&lid=LSTTSHH9C4YKZ8RKGKH12OZLK&marketplace=FLIPKART&q=t+shirts&store=clo%2Fash%2Fank&srno=s_1_1&otracker=AS_Query_TrendingAutoSuggest_3_0_na_na_na&otracker1=AS_Query_TrendingAutoSuggest_3_0_na_na_na&fm=search-autosuggest&iid=en_3D7SJE1TjNgp7Knvchrtbvya4UnX_kQrLdcoV56M1qvxMC_guOggymcL-np19eNgbByK1H3NaFTaB2drO6ocuQiTD7eVvGCy8Q-TmjQfbcgxjljU0m0OFsLGbLQ1unhv&ppt=sp&ppn=sp&ssid=8bcz0lsmz40000001782803677994&qH=04ad3bdbbe706182&ov_redirect=true",
+    "review": "Flipkart A one-stop Shopping Minutes Everything in Minutes Grocery At wholesale prices Travel All your travel needs",
+    "sentiment": "Neutral",
+    "created_at": "2026-06-30 07:14:57.608499+00:00"
+  },
+  {
+    "product": "https://www.flipkart.com/park-avenue-solid-men-polo-neck-light-green-t-shirt/p/itm79f445aa43a22?pid=TSHH9C4YKZ8RKGKH&lid=LSTTSHH9C4YKZ8RKGKH12OZLK&marketplace=FLIPKART&q=t+shirts&store=clo%2Fash%2Fank&srno=s_1_1&otracker=AS_Query_TrendingAutoSuggest_3_0_na_na_na&otracker1=AS_Query_TrendingAutoSuggest_3_0_na_na_na&fm=search-autosuggest&iid=en_3D7SJE1TjNgp7Knvchrtbvya4UnX_kQrLdcoV56M1qvxMC_guOggymcL-np19eNgbByK1H3NaFTaB2drO6ocuQiTD7eVvGCy8Q-TmjQfbcgxjljU0m0OFsLGbLQ1unhv&ppt=sp&ppn=sp&ssid=8bcz0lsmz40000001782803677994&qH=04ad3bdbbe706182&ov_redirect=true",
+    "review": "Flipkart A one-stop Shopping",
+    "sentiment": "Neutral",
+    "created_at": "2026-06-30 07:14:57.608502+00:00"
+  },
+  {
+    "product": "https://www.flipkart.com/park-avenue-solid-men-polo-neck-light-green-t-shirt/p/itm79f445aa43a22?pid=TSHH9C4YKZ8RKGKH&lid=LSTTSHH9C4YKZ8RKGKH12OZLK&marketplace=FLIPKART&q=t+shirts&store=clo%2Fash%2Fank&srno=s_1_1&otracker=AS_Query_TrendingAutoSuggest_3_0_na_na_na&otracker1=AS_Query_TrendingAutoSuggest_3_0_na_na_na&fm=search-autosuggest&iid=en_3D7SJE1TjNgp7Knvchrtbvya4UnX_kQrLdcoV56M1qvxMC_guOggymcL-np19eNgbByK1H3NaFTaB2drO6ocuQiTD7eVvGCy8Q-TmjQfbcgxjljU0m0OFsLGbLQ1unhv&ppt=sp&ppn=sp&ssid=8bcz0lsmz40000001782803677994&qH=04ad3bdbbe706182&ov_redirect=true",
+    "review": "Minutes Everything in Minutes",
+    "sentiment": "Neutral",
+    "created_at": "2026-06-30 07:14:57.608505+00:00"
+  },
+  {
+    "product": "https://www.flipkart.com/park-avenue-solid-men-polo-neck-light-green-t-shirt/p/itm79f445aa43a22?pid=TSHH9C4YKZ8RKGKH&lid=LSTTSHH9C4YKZ8RKGKH12OZLK&marketplace=FLIPKART&q=t+shirts&store=clo%2Fash%2Fank&srno=s_1_1&otracker=AS_Query_TrendingAutoSuggest_3_0_na_na_na&otracker1=AS_Query_TrendingAutoSuggest_3_0_na_na_na&fm=search-autosuggest&iid=en_3D7SJE1TjNgp7Knvchrtbvya4UnX_kQrLdcoV56M1qvxMC_guOggymcL-np19eNgbByK1H3NaFTaB2drO6ocuQiTD7eVvGCy8Q-TmjQfbcgxjljU0m0OFsLGbLQ1unhv&ppt=sp&ppn=sp&ssid=8bcz0lsmz40000001782803677994&qH=04ad3bdbbe706182&ov_redirect=true",
+    "review": "Grocery At wholesale prices",
+    "sentiment": "Neutral",
+    "created_at": "2026-06-30 07:14:57.608509+00:00"
+  },
+  {
+    "product": "https://www.flipkart.com/park-avenue-solid-men-polo-neck-light-green-t-shirt/p/itm79f445aa43a22?pid=TSHH9C4YKZ8RKGKH&lid=LSTTSHH9C4YKZ8RKGKH12OZLK&marketplace=FLIPKART&q=t+shirts&store=clo%2Fash%2Fank&srno=s_1_1&otracker=AS_Query_TrendingAutoSuggest_3_0_na_na_na&otracker1=AS_Query_TrendingAutoSuggest_3_0_na_na_na&fm=search-autosuggest&iid=en_3D7SJE1TjNgp7Knvchrtbvya4UnX_kQrLdcoV56M1qvxMC_guOggymcL-np19eNgbByK1H3NaFTaB2drO6ocuQiTD7eVvGCy8Q-TmjQfbcgxjljU0m0OFsLGbLQ1unhv&ppt=sp&ppn=sp&ssid=8bcz0lsmz40000001782803677994&qH=04ad3bdbbe706182&ov_redirect=true",
+    "review": "Travel All your travel needs",
+    "sentiment": "Neutral",
+    "created_at": "2026-06-30 07:14:57.608513+00:00"
+  },
+  {
+    "product": "https://www.flipkart.com/park-avenue-solid-men-polo-neck-light-green-t-shirt/p/itm79f445aa43a22?pid=TSHH9C4YKZ8RKGKH&lid=LSTTSHH9C4YKZ8RKGKH12OZLK&marketplace=FLIPKART&q=t+shirts&store=clo%2Fash%2Fank&srno=s_1_1&otracker=AS_Query_TrendingAutoSuggest_3_0_na_na_na&otracker1=AS_Query_TrendingAutoSuggest_3_0_na_na_na&fm=search-autosuggest&iid=en_3D7SJE1TjNgp7Knvchrtbvya4UnX_kQrLdcoV56M1qvxMC_guOggymcL-np19eNgbByK1H3NaFTaB2drO6ocuQiTD7eVvGCy8Q-TmjQfbcgxjljU0m0OFsLGbLQ1unhv&ppt=sp&ppn=sp&ssid=8bcz0lsmz40000001782803677994&qH=04ad3bdbbe706182&ov_redirect=true",
+    "review": "Login New customer? Sign Up My Profile Flipkart Plus Zone Orders Wishlist Become a Seller Rewards Gift Cards Notification Preferences 24x7 Customer Care Advertise Download App More More Become a Seller Notification Settings 24x7 Customer Care Advertise on Flipkart Cart",
+    "sentiment": "Positive",
+    "created_at": "2026-06-30 07:14:57.608516+00:00"
+  },
+  {
+    "product": "https://www.flipkart.com/park-avenue-solid-men-polo-neck-light-green-t-shirt/p/itm79f445aa43a22?pid=TSHH9C4YKZ8RKGKH&lid=LSTTSHH9C4YKZ8RKGKH12OZLK&marketplace=FLIPKART&q=t+shirts&store=clo%2Fash%2Fank&srno=s_1_1&otracker=AS_Query_TrendingAutoSuggest_3_0_na_na_na&otracker1=AS_Query_TrendingAutoSuggest_3_0_na_na_na&fm=search-autosuggest&iid=en_3D7SJE1TjNgp7Knvchrtbvya4UnX_kQrLdcoV56M1qvxMC_guOggymcL-np19eNgbByK1H3NaFTaB2drO6ocuQiTD7eVvGCy8Q-TmjQfbcgxjljU0m0OFsLGbLQ1unhv&ppt=sp&ppn=sp&ssid=8bcz0lsmz40000001782803677994&qH=04ad3bdbbe706182&ov_redirect=true",
+    "review": "Login New customer? Sign Up My Profile Flipkart Plus Zone Orders Wishlist Become a Seller Rewards Gift Cards Notification Preferences 24x7 Customer Care Advertise Download App",
+    "sentiment": "Positive",
+    "created_at": "2026-06-30 07:14:57.608519+00:00"
+  },
+  {
+    "product": "https://www.flipkart.com/park-avenue-solid-men-polo-neck-light-green-t-shirt/p/itm79f445aa43a22?pid=TSHH9C4YKZ8RKGKH&lid=LSTTSHH9C4YKZ8RKGKH12OZLK&marketplace=FLIPKART&q=t+shirts&store=clo%2Fash%2Fank&srno=s_1_1&otracker=AS_Query_TrendingAutoSuggest_3_0_na_na_na&otracker1=AS_Query_TrendingAutoSuggest_3_0_na_na_na&fm=search-autosuggest&iid=en_3D7SJE1TjNgp7Knvchrtbvya4UnX_kQrLdcoV56M1qvxMC_guOggymcL-np19eNgbByK1H3NaFTaB2drO6ocuQiTD7eVvGCy8Q-TmjQfbcgxjljU0m0OFsLGbLQ1unhv&ppt=sp&ppn=sp&ssid=8bcz0lsmz40000001782803677994&qH=04ad3bdbbe706182&ov_redirect=true",
+    "review": "More More Become a Seller Notification Settings 24x7 Customer Care Advertise on Flipkart",
+    "sentiment": "Positive",
+    "created_at": "2026-06-30 07:14:57.608523+00:00"
+  },
+  {
+    "product": "https://www.flipkart.com/park-avenue-solid-men-polo-neck-light-green-t-shirt/p/itm79f445aa43a22?pid=TSHH9C4YKZ8RKGKH&lid=LSTTSHH9C4YKZ8RKGKH12OZLK&marketplace=FLIPKART&q=t+shirts&store=clo%2Fash%2Fank&srno=s_1_1&otracker=AS_Query_TrendingAutoSuggest_3_0_na_na_na&otracker1=AS_Query_TrendingAutoSuggest_3_0_na_na_na&fm=search-autosuggest&iid=en_3D7SJE1TjNgp7Knvchrtbvya4UnX_kQrLdcoV56M1qvxMC_guOggymcL-np19eNgbByK1H3NaFTaB2drO6ocuQiTD7eVvGCy8Q-TmjQfbcgxjljU0m0OFsLGbLQ1unhv&ppt=sp&ppn=sp&ssid=8bcz0lsmz40000001782803677994&qH=04ad3bdbbe706182&ov_redirect=true",
+    "review": "Home / Clothing and Accessories / Topwear / T-shirts / Men's T-shirts / PARK AVENUE Men's T-shirts / Men Solid Polo Neck Cotton Blend Light Green T-Shirt Key Highlights Key Highlights Key Highlights Key Highlights Key Highlights Key Highlights 4.2 | 3.1K+ PARK AVENUE Men Solid Polo Neck Cotton Blend Dark Blue T-Shirt 58% 1,311 \u20b9554 AD PARK AVENUE Men Printed Polo Neck Cotton Blend Light Green T-Shirt 60% 1,599 \u20b9647 AD PARK AVENUE Men Solid Polo Neck Cotton Blend White T-Shirt 58% 1,311 \u20b9554 AD Selected Color: Light Green Out of stock Out of stock Select Size Size Chart S M L XL XXL PARK AVENUE Men Solid Polo Neck Cotton Blend Light Green T-Shirt 4.2 | 3,102 58% 1,311 \u20b9554 Buy at \u20b9476 Apply offers for maximum savings Buy at \u20b9476 Buy More Save More \u20b928 off Add 2 items to unlock offer Buy More Save More \u20b928 off Add Item Bank offers Bank offers \u20b950 off Additional benefits on this purchase Unlock Air Fryers coupon \u2022 10% off Unlock Mixer grinder coupon \u2022 10% off Delivery details Location not set Select delivery location Delivery by 3 Jul, Fri Fulfilled by HSAtlastradeFashion 4.3 \u2022 4 years with Flipkart See other sellers 10-Day Return Cash on Delivery Flipkart Assured Similar Products AD 4.3 Allen Solly Men Solid Polo Neck Cotton Blend Yellow T-Shirt 55% OFF \u20b91,299 \u20b9584 Hot Deal Get by Today AD 4.2 Allen Solly Men Colorblock Polo Neck Pure Cotton Multicolor T-Shirt 46% OFF \u20b91,049 \u20b9566 \u20b9487 with 3 offers Get by Today AD 4.3 Allen Solly Men Solid Polo Neck Pure Cotton Green T-Shirt 48% OFF \u20b91,099 \u20b9566 Hot Deal Get by Tomorrow AD 4.3 Allen Solly Men Solid Polo Neck Pure Cotton Red T-Shirt 48% OFF \u20b91,099 \u20b9566 \u20b9487 with 3 offers Get by Today AD 4.2 Allen Solly Men Colorblock Polo Neck Pure Cotton Green T-Shirt 46% OFF \u20b91,049 \u20b9566 \u20b9487 with 3 offers Get by Today AD 4.2 PARK AVENUE Men Solid Polo Neck Cotton Blend Dark Blue T-Shirt 58% OFF \u20b91,311 \u20b9554 \u20b9476 with 3 offers Get it by 5 Jul AD 4.1 PARK AVENUE Men Printed Polo Neck Cotton Blend Grey T-Shirt 55% OFF \u20b91,499 \u20b9674 \u20b9590 with 2 offers Get by Today AD 4.2 PARK AVENUE Men Printed Polo Neck Cotton Blend Dark Blue T-Shirt 64% OFF \u20b91,599 \u20b9575 Hot Deal Get it by 4 Jul Hang on, loading content",
+    "sentiment": "Positive",
+    "created_at": "2026-06-30 07:14:57.608527+00:00"
+  },
+  {
+    "product": "https://www.flipkart.com/park-avenue-solid-men-polo-neck-light-green-t-shirt/p/itm79f445aa43a22?pid=TSHH9C4YKZ8RKGKH&lid=LSTTSHH9C4YKZ8RKGKH12OZLK&marketplace=FLIPKART&q=t+shirts&store=clo%2Fash%2Fank&srno=s_1_1&otracker=AS_Query_TrendingAutoSuggest_3_0_na_na_na&otracker1=AS_Query_TrendingAutoSuggest_3_0_na_na_na&fm=search-autosuggest&iid=en_3D7SJE1TjNgp7Knvchrtbvya4UnX_kQrLdcoV56M1qvxMC_guOggymcL-np19eNgbByK1H3NaFTaB2drO6ocuQiTD7eVvGCy8Q-TmjQfbcgxjljU0m0OFsLGbLQ1unhv&ppt=sp&ppn=sp&ssid=8bcz0lsmz40000001782803677994&qH=04ad3bdbbe706182&ov_redirect=true",
+    "review": "Home / Clothing and Accessories / Topwear / T-shirts / Men's T-shirts / PARK AVENUE Men's T-shirts / Men Solid Polo Neck Cotton Blend Light Green T-Shirt",
+    "sentiment": "Positive",
+    "created_at": "2026-06-30 07:14:57.608530+00:00"
+  },
+  {
+    "product": "https://www.flipkart.com/park-avenue-solid-men-polo-neck-light-green-t-shirt/p/itm79f445aa43a22?pid=TSHH9C4YKZ8RKGKH&lid=LSTTSHH9C4YKZ8RKGKH12OZLK&marketplace=FLIPKART&q=t+shirts&store=clo%2Fash%2Fank&srno=s_1_1&otracker=AS_Query_TrendingAutoSuggest_3_0_na_na_na&otracker1=AS_Query_TrendingAutoSuggest_3_0_na_na_na&fm=search-autosuggest&iid=en_3D7SJE1TjNgp7Knvchrtbvya4UnX_kQrLdcoV56M1qvxMC_guOggymcL-np19eNgbByK1H3NaFTaB2drO6ocuQiTD7eVvGCy8Q-TmjQfbcgxjljU0m0OFsLGbLQ1unhv&ppt=sp&ppn=sp&ssid=8bcz0lsmz40000001782803677994&qH=04ad3bdbbe706182&ov_redirect=true",
+    "review": "Home / Clothing and Accessories / Topwear / T-shirts / Men's T-shirts / PARK AVENUE Men's T-shirts /",
+    "sentiment": "Neutral",
+    "created_at": "2026-06-30 07:14:57.608533+00:00"
+  },
+  {
+    "product": "https://www.flipkart.com/park-avenue-solid-men-polo-neck-light-green-t-shirt/p/itm79f445aa43a22?pid=TSHH9C4YKZ8RKGKH&lid=LSTTSHH9C4YKZ8RKGKH12OZLK&marketplace=FLIPKART&q=t+shirts&store=clo%2Fash%2Fank&srno=s_1_1&otracker=AS_Query_TrendingAutoSuggest_3_0_na_na_na&otracker1=AS_Query_TrendingAutoSuggest_3_0_na_na_na&fm=search-autosuggest&iid=en_3D7SJE1TjNgp7Knvchrtbvya4UnX_kQrLdcoV56M1qvxMC_guOggymcL-np19eNgbByK1H3NaFTaB2drO6ocuQiTD7eVvGCy8Q-TmjQfbcgxjljU0m0OFsLGbLQ1unhv&ppt=sp&ppn=sp&ssid=8bcz0lsmz40000001782803677994&qH=04ad3bdbbe706182&ov_redirect=true",
+    "review": "Clothing and Accessories /",
+    "sentiment": "Neutral",
+    "created_at": "2026-06-30 07:14:57.608536+00:00"
+  },
+  {
+    "product": "https://www.flipkart.com/park-avenue-solid-men-polo-neck-light-green-t-shirt/p/itm79f445aa43a22?pid=TSHH9C4YKZ8RKGKH&lid=LSTTSHH9C4YKZ8RKGKH12OZLK&marketplace=FLIPKART&q=t+shirts&store=clo%2Fash%2Fank&srno=s_1_1&otracker=AS_Query_TrendingAutoSuggest_3_0_na_na_na&otracker1=AS_Query_TrendingAutoSuggest_3_0_na_na_na&fm=search-autosuggest&iid=en_3D7SJE1TjNgp7Knvchrtbvya4UnX_kQrLdcoV56M1qvxMC_guOggymcL-np19eNgbByK1H3NaFTaB2drO6ocuQiTD7eVvGCy8Q-TmjQfbcgxjljU0m0OFsLGbLQ1unhv&ppt=sp&ppn=sp&ssid=8bcz0lsmz40000001782803677994&qH=04ad3bdbbe706182&ov_redirect=true",
+    "review": "PARK AVENUE Men's T-shirts /",
+    "sentiment": "Neutral",
+    "created_at": "2026-06-30 07:14:57.608539+00:00"
+  },
+  {
+    "product": "https://www.flipkart.com/park-avenue-solid-men-polo-neck-light-green-t-shirt/p/itm79f445aa43a22?pid=TSHH9C4YKZ8RKGKH&lid=LSTTSHH9C4YKZ8RKGKH12OZLK&marketplace=FLIPKART&q=t+shirts&store=clo%2Fash%2Fank&srno=s_1_1&otracker=AS_Query_TrendingAutoSuggest_3_0_na_na_na&otracker1=AS_Query_TrendingAutoSuggest_3_0_na_na_na&fm=search-autosuggest&iid=en_3D7SJE1TjNgp7Knvchrtbvya4UnX_kQrLdcoV56M1qvxMC_guOggymcL-np19eNgbByK1H3NaFTaB2drO6ocuQiTD7eVvGCy8Q-TmjQfbcgxjljU0m0OFsLGbLQ1unhv&ppt=sp&ppn=sp&ssid=8bcz0lsmz40000001782803677994&qH=04ad3bdbbe706182&ov_redirect=true",
+    "review": "Men Solid Polo Neck Cotton Blend Light Green T-Shirt",
+    "sentiment": "Positive",
+    "created_at": "2026-06-30 07:14:57.608542+00:00"
+  },
+  {
+    "product": "https://www.flipkart.com/park-avenue-solid-men-polo-neck-light-green-t-shirt/p/itm79f445aa43a22?pid=TSHH9C4YKZ8RKGKH&lid=LSTTSHH9C4YKZ8RKGKH12OZLK&marketplace=FLIPKART&q=t+shirts&store=clo%2Fash%2Fank&srno=s_1_1&otracker=AS_Query_TrendingAutoSuggest_3_0_na_na_na&otracker1=AS_Query_TrendingAutoSuggest_3_0_na_na_na&fm=search-autosuggest&iid=en_3D7SJE1TjNgp7Knvchrtbvya4UnX_kQrLdcoV56M1qvxMC_guOggymcL-np19eNgbByK1H3NaFTaB2drO6ocuQiTD7eVvGCy8Q-TmjQfbcgxjljU0m0OFsLGbLQ1unhv&ppt=sp&ppn=sp&ssid=8bcz0lsmz40000001782803677994&qH=04ad3bdbbe706182&ov_redirect=true",
+    "review": "Key Highlights Key Highlights Key Highlights Key Highlights Key Highlights Key Highlights 4.2 | 3.1K+ PARK AVENUE Men Solid Polo Neck Cotton Blend Dark Blue T-Shirt 58% 1,311 \u20b9554 AD PARK AVENUE Men Printed Polo Neck Cotton Blend Light Green T-Shirt 60% 1,599 \u20b9647 AD PARK AVENUE Men Solid Polo Neck Cotton Blend White T-Shirt 58% 1,311 \u20b9554 AD Selected Color: Light Green Out of stock Out of stock Select Size Size Chart S M L XL XXL PARK AVENUE Men Solid Polo Neck Cotton Blend Light Green T-Shirt 4.2 | 3,102 58% 1,311 \u20b9554 Buy at \u20b9476 Apply offers for maximum savings Buy at \u20b9476 Buy More Save More \u20b928 off Add 2 items to unlock offer Buy More Save More \u20b928 off Add Item Bank offers Bank offers \u20b950 off Additional benefits on this purchase Unlock Air Fryers coupon \u2022 10% off Unlock Mixer grinder coupon \u2022 10% off Delivery details Location not set Select delivery location Delivery by 3 Jul, Fri Fulfilled by HSAtlastradeFashion 4.3 \u2022 4 years with Flipkart See other sellers 10-Day Return Cash on Delivery Flipkart Assured Similar Products AD 4.3 Allen Solly Men Solid Polo Neck Cotton Blend Yellow T-Shirt 55% OFF \u20b91,299 \u20b9584 Hot Deal Get by Today AD 4.2 Allen Solly Men Colorblock Polo Neck Pure Cotton Multicolor T-Shirt 46% OFF \u20b91,049 \u20b9566 \u20b9487 with 3 offers Get by Today AD 4.3 Allen Solly Men Solid Polo Neck Pure Cotton Green T-Shirt 48% OFF \u20b91,099 \u20b9566 Hot Deal Get by Tomorrow AD 4.3 Allen Solly Men Solid Polo Neck Pure Cotton Red T-Shirt 48% OFF \u20b91,099 \u20b9566 \u20b9487 with 3 offers Get by Today AD 4.2 Allen Solly Men Colorblock Polo Neck Pure Cotton Green T-Shirt 46% OFF \u20b91,049 \u20b9566 \u20b9487 with 3 offers Get by Today AD 4.2 PARK AVENUE Men Solid Polo Neck Cotton Blend Dark Blue T-Shirt 58% OFF \u20b91,311 \u20b9554 \u20b9476 with 3 offers Get it by 5 Jul AD 4.1 PARK AVENUE Men Printed Polo Neck Cotton Blend Grey T-Shirt 55% OFF \u20b91,499 \u20b9674 \u20b9590 with 2 offers Get by Today AD 4.2 PARK AVENUE Men Printed Polo Neck Cotton Blend Dark Blue T-Shirt 64% OFF \u20b91,599 \u20b9575 Hot Deal Get it by 4 Jul",
+    "sentiment": "Positive",
+    "created_at": "2026-06-30 07:14:57.608545+00:00"
+  },
+  {
+    "product": "https://www.flipkart.com/park-avenue-solid-men-polo-neck-light-green-t-shirt/p/itm79f445aa43a22?pid=TSHH9C4YKZ8RKGKH&lid=LSTTSHH9C4YKZ8RKGKH12OZLK&marketplace=FLIPKART&q=t+shirts&store=clo%2Fash%2Fank&srno=s_1_1&otracker=AS_Query_TrendingAutoSuggest_3_0_na_na_na&otracker1=AS_Query_TrendingAutoSuggest_3_0_na_na_na&fm=search-autosuggest&iid=en_3D7SJE1TjNgp7Knvchrtbvya4UnX_kQrLdcoV56M1qvxMC_guOggymcL-np19eNgbByK1H3NaFTaB2drO6ocuQiTD7eVvGCy8Q-TmjQfbcgxjljU0m0OFsLGbLQ1unhv&ppt=sp&ppn=sp&ssid=8bcz0lsmz40000001782803677994&qH=04ad3bdbbe706182&ov_redirect=true",
+    "review": "Key Highlights Key Highlights Key Highlights Key Highlights Key Highlights Key Highlights 4.2 | 3.1K+ PARK AVENUE Men Solid Polo Neck Cotton Blend Dark Blue T-Shirt 58% 1,311 \u20b9554 AD PARK AVENUE Men Printed Polo Neck Cotton Blend Light Green T-Shirt 60% 1,599 \u20b9647 AD PARK AVENUE Men Solid Polo Neck Cotton Blend White T-Shirt 58% 1,311 \u20b9554 AD Selected Color: Light Green Out of stock Out of stock Select Size Size Chart S M L XL XXL PARK AVENUE Men Solid Polo Neck Cotton Blend Light Green T-Shirt 4.2 | 3,102 58% 1,311 \u20b9554 Buy at \u20b9476 Apply offers for maximum savings Buy at \u20b9476 Buy More Save More \u20b928 off Add 2 items to unlock offer Buy More Save More \u20b928 off Add Item Bank offers Bank offers \u20b950 off Additional benefits on this purchase Unlock Air Fryers coupon \u2022 10% off Unlock Mixer grinder coupon \u2022 10% off Delivery details Location not set Select delivery location Delivery by 3 Jul, Fri Fulfilled by HSAtlastradeFashion 4.3 \u2022 4 years with Flipkart See other sellers 10-Day Return Cash on Delivery Flipkart Assured",
+    "sentiment": "Positive",
+    "created_at": "2026-06-30 07:14:57.608549+00:00"
+  },
+  {
+    "product": "https://www.flipkart.com/park-avenue-solid-men-polo-neck-light-green-t-shirt/p/itm79f445aa43a22?pid=TSHH9C4YKZ8RKGKH&lid=LSTTSHH9C4YKZ8RKGKH12OZLK&marketplace=FLIPKART&q=t+shirts&store=clo%2Fash%2Fank&srno=s_1_1&otracker=AS_Query_TrendingAutoSuggest_3_0_na_na_na&otracker1=AS_Query_TrendingAutoSuggest_3_0_na_na_na&fm=search-autosuggest&iid=en_3D7SJE1TjNgp7Knvchrtbvya4UnX_kQrLdcoV56M1qvxMC_guOggymcL-np19eNgbByK1H3NaFTaB2drO6ocuQiTD7eVvGCy8Q-TmjQfbcgxjljU0m0OFsLGbLQ1unhv&ppt=sp&ppn=sp&ssid=8bcz0lsmz40000001782803677994&qH=04ad3bdbbe706182&ov_redirect=true",
+    "review": "Key Highlights Key Highlights Key Highlights Key Highlights Key Highlights Key Highlights 4.2 | 3.1K+",
+    "sentiment": "Neutral",
+    "created_at": "2026-06-30 07:14:57.608552+00:00"
+  },
+  {
+    "product": "https://www.flipkart.com/park-avenue-solid-men-polo-neck-light-green-t-shirt/p/itm79f445aa43a22?pid=TSHH9C4YKZ8RKGKH&lid=LSTTSHH9C4YKZ8RKGKH12OZLK&marketplace=FLIPKART&q=t+shirts&store=clo%2Fash%2Fank&srno=s_1_1&otracker=AS_Query_TrendingAutoSuggest_3_0_na_na_na&otracker1=AS_Query_TrendingAutoSuggest_3_0_na_na_na&fm=search-autosuggest&iid=en_3D7SJE1TjNgp7Knvchrtbvya4UnX_kQrLdcoV56M1qvxMC_guOggymcL-np19eNgbByK1H3NaFTaB2drO6ocuQiTD7eVvGCy8Q-TmjQfbcgxjljU0m0OFsLGbLQ1unhv&ppt=sp&ppn=sp&ssid=8bcz0lsmz40000001782803677994&qH=04ad3bdbbe706182&ov_redirect=true",
+    "review": "Key Highlights Key Highlights Key Highlights Key Highlights Key Highlights Key Highlights",
+    "sentiment": "Neutral",
+    "created_at": "2026-06-30 07:14:57.608555+00:00"
+  },
+  {
+    "product": "https://www.flipkart.com/callme-textile-design-women-kurti-pant-attached-dupatta-set/p/itmad44e9fc600d0?pid=ETHHNKEZP98HFUNE&lid=LSTETHHNKEZP98HFUNE1LKXKT&hl_lid=&marketplace=FLIPKART&fm=eyJ3dHAiOiJyZWNvIiwicHJwdCI6InBwIiwibWlkIjoicHJvZHVjdFJlY29tbWVuZGF0aW9uL3NpbWlsYXIifQ%3D%3D&pageUID=1782801989400",
+    "review": "Flipkart A one-stop Shopping Minutes Everything in Minutes Grocery At wholesale prices Travel All your travel needs Search Icon Search Icon Login New customer? Sign Up My Profile Flipkart Plus Zone Orders Wishlist Become a Seller Rewards Gift Cards Notification Preferences 24x7 Customer Care Advertise Download App More More Become a Seller Notification Settings 24x7 Customer Care Advertise on Flipkart Cart Home / Clothing and Accessories / Kurtas, Ethnic Sets and Bottoms / Ethnic Sets / Women's Ethnic Sets / CALLME TEXTILE & DESIGN Women's Ethnic Sets / Women Pure Silk Kurti Pant Attached Dupatta Set Key Highlights Key Highlights Key Highlights Key Highlights Key Highlights Key Highlights Skylee Women Pure Cotton Kurta Pant Dupatta Set 59% 3,799 \u20b91,563 AD Skylee Women Pure Cotton Kurta Pant Dupatta Set 59% 3,599 \u20b91,486 AD Skylee Women Cotton Blend Kurta Pant Dupatta Set 59% 3,499 \u20b91,434 AD Select Size Size Chart S M L XL XXL CALLME TEXTILE & DESIGN Women Pure Silk Kurti Pant Attached Dupat... more Hot Deal 67% 3,199 \u20b91,048 Buy at \u20b9995 Apply offers for maximum savings \u20b9995 Lowest price for you OR \u20b996 x 12m Pay \u20b91,147 Bank offers Bank offers \u20b953 off View EMI offers Delivery details Location not set Select delivery location Delivery by 3 Jul, Fri Fulfilled by JDCORPORATION 4.1 \u2022 3 years with Flipkart See other sellers 10-Day Return Cash on Delivery Flipkart Assured Similar Products AD Skylee Women Pure Cotton Kurta Pant Dupatta Set 59% OFF \u20b93,799 \u20b91,563 \u20b91,484 with Bank offer Get it by 5 Jul AD Skylee Women Pure Cotton Kurta Pant Dupatta Set 59% OFF \u20b93,599 \u20b91,486 \u20b91,411 with Bank offer Get it by 5 Jul AD Skylee Women Silk Blend Kurta Pant Dupatta Set 62% OFF \u20b93,499 \u20b91,316 \u20b91,250 with Bank offer Get it by 5 Jul AD Skylee Women Cotton Blend Kurta Pant Dupatta Set 59% OFF \u20b93,499 \u20b91,434 \u20b91,362 with Bank offer Get it by 5 Jul padsala creation Women Cotton Blend Kurta Pant Set 79% OFF \u20b91,999 \u20b9417 \u20b9367 with 2 offers Get it by 5 Jul 3 Gosriki Women Viscose Rayon Kurti Palazzo Dupatta Set 68% OFF \u20b92,599 \u20b9820 \u20b9779 with 2 offers Get it by 5 Jul 3.8 HIVA TRENDZ Women Pure Silk Kurta Pant Dupatta Set 81% OFF \u20b94,149 \u20b9774 \u20b9735 with 2 offers Get it by 5 Jul TOINSHO Women Cotton Blend Ethnic Top Pant Set 71% OFF \u20b92,499 \u20b9720 \u20b9684 with 2 offers Get it by 5 Jul Hang on, loading content",
+    "sentiment": "Positive",
+    "created_at": "2026-06-30 14:19:02.360913+00:00"
+  },
+  {
+    "product": "https://www.flipkart.com/callme-textile-design-women-kurti-pant-attached-dupatta-set/p/itmad44e9fc600d0?pid=ETHHNKEZP98HFUNE&lid=LSTETHHNKEZP98HFUNE1LKXKT&hl_lid=&marketplace=FLIPKART&fm=eyJ3dHAiOiJyZWNvIiwicHJwdCI6InBwIiwibWlkIjoicHJvZHVjdFJlY29tbWVuZGF0aW9uL3NpbWlsYXIifQ%3D%3D&pageUID=1782801989400",
+    "review": "Flipkart A one-stop Shopping Minutes Everything in Minutes Grocery At wholesale prices Travel All your travel needs Search Icon Search Icon Login New customer? Sign Up My Profile Flipkart Plus Zone Orders Wishlist Become a Seller Rewards Gift Cards Notification Preferences 24x7 Customer Care Advertise Download App More More Become a Seller Notification Settings 24x7 Customer Care Advertise on Flipkart Cart",
+    "sentiment": "Positive",
+    "created_at": "2026-06-30 14:19:02.360933+00:00"
+  },
+  {
+    "product": "https://www.flipkart.com/callme-textile-design-women-kurti-pant-attached-dupatta-set/p/itmad44e9fc600d0?pid=ETHHNKEZP98HFUNE&lid=LSTETHHNKEZP98HFUNE1LKXKT&hl_lid=&marketplace=FLIPKART&fm=eyJ3dHAiOiJyZWNvIiwicHJwdCI6InBwIiwibWlkIjoicHJvZHVjdFJlY29tbWVuZGF0aW9uL3NpbWlsYXIifQ%3D%3D&pageUID=1782801989400",
+    "review": "Flipkart A one-stop Shopping Minutes Everything in Minutes Grocery At wholesale prices Travel All your travel needs",
+    "sentiment": "Neutral",
+    "created_at": "2026-06-30 14:19:02.360938+00:00"
+  },
+  {
+    "product": "https://www.flipkart.com/callme-textile-design-women-kurti-pant-attached-dupatta-set/p/itmad44e9fc600d0?pid=ETHHNKEZP98HFUNE&lid=LSTETHHNKEZP98HFUNE1LKXKT&hl_lid=&marketplace=FLIPKART&fm=eyJ3dHAiOiJyZWNvIiwicHJwdCI6InBwIiwibWlkIjoicHJvZHVjdFJlY29tbWVuZGF0aW9uL3NpbWlsYXIifQ%3D%3D&pageUID=1782801989400",
+    "review": "Flipkart A one-stop Shopping",
+    "sentiment": "Neutral",
+    "created_at": "2026-06-30 14:19:02.360942+00:00"
+  },
+  {
+    "product": "https://www.flipkart.com/callme-textile-design-women-kurti-pant-attached-dupatta-set/p/itmad44e9fc600d0?pid=ETHHNKEZP98HFUNE&lid=LSTETHHNKEZP98HFUNE1LKXKT&hl_lid=&marketplace=FLIPKART&fm=eyJ3dHAiOiJyZWNvIiwicHJwdCI6InBwIiwibWlkIjoicHJvZHVjdFJlY29tbWVuZGF0aW9uL3NpbWlsYXIifQ%3D%3D&pageUID=1782801989400",
+    "review": "Minutes Everything in Minutes",
+    "sentiment": "Neutral",
+    "created_at": "2026-06-30 14:19:02.360946+00:00"
+  },
+  {
+    "product": "https://www.flipkart.com/callme-textile-design-women-kurti-pant-attached-dupatta-set/p/itmad44e9fc600d0?pid=ETHHNKEZP98HFUNE&lid=LSTETHHNKEZP98HFUNE1LKXKT&hl_lid=&marketplace=FLIPKART&fm=eyJ3dHAiOiJyZWNvIiwicHJwdCI6InBwIiwibWlkIjoicHJvZHVjdFJlY29tbWVuZGF0aW9uL3NpbWlsYXIifQ%3D%3D&pageUID=1782801989400",
+    "review": "Grocery At wholesale prices",
+    "sentiment": "Neutral",
+    "created_at": "2026-06-30 14:19:02.360950+00:00"
+  },
+  {
+    "product": "https://www.flipkart.com/callme-textile-design-women-kurti-pant-attached-dupatta-set/p/itmad44e9fc600d0?pid=ETHHNKEZP98HFUNE&lid=LSTETHHNKEZP98HFUNE1LKXKT&hl_lid=&marketplace=FLIPKART&fm=eyJ3dHAiOiJyZWNvIiwicHJwdCI6InBwIiwibWlkIjoicHJvZHVjdFJlY29tbWVuZGF0aW9uL3NpbWlsYXIifQ%3D%3D&pageUID=1782801989400",
+    "review": "Travel All your travel needs",
+    "sentiment": "Neutral",
+    "created_at": "2026-06-30 14:19:02.360954+00:00"
+  },
+  {
+    "product": "https://www.flipkart.com/callme-textile-design-women-kurti-pant-attached-dupatta-set/p/itmad44e9fc600d0?pid=ETHHNKEZP98HFUNE&lid=LSTETHHNKEZP98HFUNE1LKXKT&hl_lid=&marketplace=FLIPKART&fm=eyJ3dHAiOiJyZWNvIiwicHJwdCI6InBwIiwibWlkIjoicHJvZHVjdFJlY29tbWVuZGF0aW9uL3NpbWlsYXIifQ%3D%3D&pageUID=1782801989400",
+    "review": "Login New customer? Sign Up My Profile Flipkart Plus Zone Orders Wishlist Become a Seller Rewards Gift Cards Notification Preferences 24x7 Customer Care Advertise Download App More More Become a Seller Notification Settings 24x7 Customer Care Advertise on Flipkart Cart",
+    "sentiment": "Positive",
+    "created_at": "2026-06-30 14:19:02.360957+00:00"
+  },
+  {
+    "product": "https://www.flipkart.com/callme-textile-design-women-kurti-pant-attached-dupatta-set/p/itmad44e9fc600d0?pid=ETHHNKEZP98HFUNE&lid=LSTETHHNKEZP98HFUNE1LKXKT&hl_lid=&marketplace=FLIPKART&fm=eyJ3dHAiOiJyZWNvIiwicHJwdCI6InBwIiwibWlkIjoicHJvZHVjdFJlY29tbWVuZGF0aW9uL3NpbWlsYXIifQ%3D%3D&pageUID=1782801989400",
+    "review": "Login New customer? Sign Up My Profile Flipkart Plus Zone Orders Wishlist Become a Seller Rewards Gift Cards Notification Preferences 24x7 Customer Care Advertise Download App",
+    "sentiment": "Positive",
+    "created_at": "2026-06-30 14:19:02.360960+00:00"
+  },
+  {
+    "product": "https://www.flipkart.com/callme-textile-design-women-kurti-pant-attached-dupatta-set/p/itmad44e9fc600d0?pid=ETHHNKEZP98HFUNE&lid=LSTETHHNKEZP98HFUNE1LKXKT&hl_lid=&marketplace=FLIPKART&fm=eyJ3dHAiOiJyZWNvIiwicHJwdCI6InBwIiwibWlkIjoicHJvZHVjdFJlY29tbWVuZGF0aW9uL3NpbWlsYXIifQ%3D%3D&pageUID=1782801989400",
+    "review": "More More Become a Seller Notification Settings 24x7 Customer Care Advertise on Flipkart",
+    "sentiment": "Positive",
+    "created_at": "2026-06-30 14:19:02.360964+00:00"
+  },
+  {
+    "product": "https://www.flipkart.com/callme-textile-design-women-kurti-pant-attached-dupatta-set/p/itmad44e9fc600d0?pid=ETHHNKEZP98HFUNE&lid=LSTETHHNKEZP98HFUNE1LKXKT&hl_lid=&marketplace=FLIPKART&fm=eyJ3dHAiOiJyZWNvIiwicHJwdCI6InBwIiwibWlkIjoicHJvZHVjdFJlY29tbWVuZGF0aW9uL3NpbWlsYXIifQ%3D%3D&pageUID=1782801989400",
+    "review": "Home / Clothing and Accessories / Kurtas, Ethnic Sets and Bottoms / Ethnic Sets / Women's Ethnic Sets / CALLME TEXTILE & DESIGN Women's Ethnic Sets / Women Pure Silk Kurti Pant Attached Dupatta Set Key Highlights Key Highlights Key Highlights Key Highlights Key Highlights Key Highlights Skylee Women Pure Cotton Kurta Pant Dupatta Set 59% 3,799 \u20b91,563 AD Skylee Women Pure Cotton Kurta Pant Dupatta Set 59% 3,599 \u20b91,486 AD Skylee Women Cotton Blend Kurta Pant Dupatta Set 59% 3,499 \u20b91,434 AD Select Size Size Chart S M L XL XXL CALLME TEXTILE & DESIGN Women Pure Silk Kurti Pant Attached Dupat... more Hot Deal 67% 3,199 \u20b91,048 Buy at \u20b9995 Apply offers for maximum savings \u20b9995 Lowest price for you OR \u20b996 x 12m Pay \u20b91,147 Bank offers Bank offers \u20b953 off View EMI offers Delivery details Location not set Select delivery location Delivery by 3 Jul, Fri Fulfilled by JDCORPORATION 4.1 \u2022 3 years with Flipkart See other sellers 10-Day Return Cash on Delivery Flipkart Assured Similar Products AD Skylee Women Pure Cotton Kurta Pant Dupatta Set 59% OFF \u20b93,799 \u20b91,563 \u20b91,484 with Bank offer Get it by 5 Jul AD Skylee Women Pure Cotton Kurta Pant Dupatta Set 59% OFF \u20b93,599 \u20b91,486 \u20b91,411 with Bank offer Get it by 5 Jul AD Skylee Women Silk Blend Kurta Pant Dupatta Set 62% OFF \u20b93,499 \u20b91,316 \u20b91,250 with Bank offer Get it by 5 Jul AD Skylee Women Cotton Blend Kurta Pant Dupatta Set 59% OFF \u20b93,499 \u20b91,434 \u20b91,362 with Bank offer Get it by 5 Jul padsala creation Women Cotton Blend Kurta Pant Set 79% OFF \u20b91,999 \u20b9417 \u20b9367 with 2 offers Get it by 5 Jul 3 Gosriki Women Viscose Rayon Kurti Palazzo Dupatta Set 68% OFF \u20b92,599 \u20b9820 \u20b9779 with 2 offers Get it by 5 Jul 3.8 HIVA TRENDZ Women Pure Silk Kurta Pant Dupatta Set 81% OFF \u20b94,149 \u20b9774 \u20b9735 with 2 offers Get it by 5 Jul TOINSHO Women Cotton Blend Ethnic Top Pant Set 71% OFF \u20b92,499 \u20b9720 \u20b9684 with 2 offers Get it by 5 Jul Hang on, loading content",
+    "sentiment": "Positive",
+    "created_at": "2026-06-30 14:19:02.360968+00:00"
+  },
+  {
+    "product": "https://www.flipkart.com/callme-textile-design-women-kurti-pant-attached-dupatta-set/p/itmad44e9fc600d0?pid=ETHHNKEZP98HFUNE&lid=LSTETHHNKEZP98HFUNE1LKXKT&hl_lid=&marketplace=FLIPKART&fm=eyJ3dHAiOiJyZWNvIiwicHJwdCI6InBwIiwibWlkIjoicHJvZHVjdFJlY29tbWVuZGF0aW9uL3NpbWlsYXIifQ%3D%3D&pageUID=1782801989400",
+    "review": "Home / Clothing and Accessories / Kurtas, Ethnic Sets and Bottoms / Ethnic Sets / Women's Ethnic Sets / CALLME TEXTILE & DESIGN Women's Ethnic Sets / Women Pure Silk Kurti Pant Attached Dupatta Set",
+    "sentiment": "Positive",
+    "created_at": "2026-06-30 14:19:02.360973+00:00"
+  },
+  {
+    "product": "https://www.flipkart.com/callme-textile-design-women-kurti-pant-attached-dupatta-set/p/itmad44e9fc600d0?pid=ETHHNKEZP98HFUNE&lid=LSTETHHNKEZP98HFUNE1LKXKT&hl_lid=&marketplace=FLIPKART&fm=eyJ3dHAiOiJyZWNvIiwicHJwdCI6InBwIiwibWlkIjoicHJvZHVjdFJlY29tbWVuZGF0aW9uL3NpbWlsYXIifQ%3D%3D&pageUID=1782801989400",
+    "review": "Home / Clothing and Accessories / Kurtas, Ethnic Sets and Bottoms / Ethnic Sets / Women's Ethnic Sets / CALLME TEXTILE & DESIGN Women's Ethnic Sets /",
+    "sentiment": "Neutral",
+    "created_at": "2026-06-30 14:19:02.360976+00:00"
+  },
+  {
+    "product": "https://www.flipkart.com/callme-textile-design-women-kurti-pant-attached-dupatta-set/p/itmad44e9fc600d0?pid=ETHHNKEZP98HFUNE&lid=LSTETHHNKEZP98HFUNE1LKXKT&hl_lid=&marketplace=FLIPKART&fm=eyJ3dHAiOiJyZWNvIiwicHJwdCI6InBwIiwibWlkIjoicHJvZHVjdFJlY29tbWVuZGF0aW9uL3NpbWlsYXIifQ%3D%3D&pageUID=1782801989400",
+    "review": "Clothing and Accessories /",
+    "sentiment": "Neutral",
+    "created_at": "2026-06-30 14:19:02.360980+00:00"
+  },
+  {
+    "product": "https://www.flipkart.com/callme-textile-design-women-kurti-pant-attached-dupatta-set/p/itmad44e9fc600d0?pid=ETHHNKEZP98HFUNE&lid=LSTETHHNKEZP98HFUNE1LKXKT&hl_lid=&marketplace=FLIPKART&fm=eyJ3dHAiOiJyZWNvIiwicHJwdCI6InBwIiwibWlkIjoicHJvZHVjdFJlY29tbWVuZGF0aW9uL3NpbWlsYXIifQ%3D%3D&pageUID=1782801989400",
+    "review": "Kurtas, Ethnic Sets and Bottoms /",
+    "sentiment": "Neutral",
+    "created_at": "2026-06-30 14:19:02.360983+00:00"
+  },
+  {
+    "product": "https://www.flipkart.com/callme-textile-design-women-kurti-pant-attached-dupatta-set/p/itmad44e9fc600d0?pid=ETHHNKEZP98HFUNE&lid=LSTETHHNKEZP98HFUNE1LKXKT&hl_lid=&marketplace=FLIPKART&fm=eyJ3dHAiOiJyZWNvIiwicHJwdCI6InBwIiwibWlkIjoicHJvZHVjdFJlY29tbWVuZGF0aW9uL3NpbWlsYXIifQ%3D%3D&pageUID=1782801989400",
+    "review": "CALLME TEXTILE & DESIGN Women's Ethnic Sets /",
+    "sentiment": "Neutral",
+    "created_at": "2026-06-30 14:19:02.360986+00:00"
+  },
+  {
+    "product": "https://www.flipkart.com/callme-textile-design-women-kurti-pant-attached-dupatta-set/p/itmad44e9fc600d0?pid=ETHHNKEZP98HFUNE&lid=LSTETHHNKEZP98HFUNE1LKXKT&hl_lid=&marketplace=FLIPKART&fm=eyJ3dHAiOiJyZWNvIiwicHJwdCI6InBwIiwibWlkIjoicHJvZHVjdFJlY29tbWVuZGF0aW9uL3NpbWlsYXIifQ%3D%3D&pageUID=1782801989400",
+    "review": "Women Pure Silk Kurti Pant Attached Dupatta Set",
+    "sentiment": "Positive",
+    "created_at": "2026-06-30 14:19:02.360990+00:00"
+  },
+  {
+    "product": "https://www.flipkart.com/callme-textile-design-women-kurti-pant-attached-dupatta-set/p/itmad44e9fc600d0?pid=ETHHNKEZP98HFUNE&lid=LSTETHHNKEZP98HFUNE1LKXKT&hl_lid=&marketplace=FLIPKART&fm=eyJ3dHAiOiJyZWNvIiwicHJwdCI6InBwIiwibWlkIjoicHJvZHVjdFJlY29tbWVuZGF0aW9uL3NpbWlsYXIifQ%3D%3D&pageUID=1782801989400",
+    "review": "Key Highlights Key Highlights Key Highlights Key Highlights Key Highlights Key Highlights Skylee Women Pure Cotton Kurta Pant Dupatta Set 59% 3,799 \u20b91,563 AD Skylee Women Pure Cotton Kurta Pant Dupatta Set 59% 3,599 \u20b91,486 AD Skylee Women Cotton Blend Kurta Pant Dupatta Set 59% 3,499 \u20b91,434 AD Select Size Size Chart S M L XL XXL CALLME TEXTILE & DESIGN Women Pure Silk Kurti Pant Attached Dupat... more Hot Deal 67% 3,199 \u20b91,048 Buy at \u20b9995 Apply offers for maximum savings \u20b9995 Lowest price for you OR \u20b996 x 12m Pay \u20b91,147 Bank offers Bank offers \u20b953 off View EMI offers Delivery details Location not set Select delivery location Delivery by 3 Jul, Fri Fulfilled by JDCORPORATION 4.1 \u2022 3 years with Flipkart See other sellers 10-Day Return Cash on Delivery Flipkart Assured Similar Products AD Skylee Women Pure Cotton Kurta Pant Dupatta Set 59% OFF \u20b93,799 \u20b91,563 \u20b91,484 with Bank offer Get it by 5 Jul AD Skylee Women Pure Cotton Kurta Pant Dupatta Set 59% OFF \u20b93,599 \u20b91,486 \u20b91,411 with Bank offer Get it by 5 Jul AD Skylee Women Silk Blend Kurta Pant Dupatta Set 62% OFF \u20b93,499 \u20b91,316 \u20b91,250 with Bank offer Get it by 5 Jul AD Skylee Women Cotton Blend Kurta Pant Dupatta Set 59% OFF \u20b93,499 \u20b91,434 \u20b91,362 with Bank offer Get it by 5 Jul padsala creation Women Cotton Blend Kurta Pant Set 79% OFF \u20b91,999 \u20b9417 \u20b9367 with 2 offers Get it by 5 Jul 3 Gosriki Women Viscose Rayon Kurti Palazzo Dupatta Set 68% OFF \u20b92,599 \u20b9820 \u20b9779 with 2 offers Get it by 5 Jul 3.8 HIVA TRENDZ Women Pure Silk Kurta Pant Dupatta Set 81% OFF \u20b94,149 \u20b9774 \u20b9735 with 2 offers Get it by 5 Jul TOINSHO Women Cotton Blend Ethnic Top Pant Set 71% OFF \u20b92,499 \u20b9720 \u20b9684 with 2 offers Get it by 5 Jul",
+    "sentiment": "Positive",
+    "created_at": "2026-06-30 14:19:02.360994+00:00"
+  },
+  {
+    "product": "https://www.flipkart.com/callme-textile-design-women-kurti-pant-attached-dupatta-set/p/itmad44e9fc600d0?pid=ETHHNKEZP98HFUNE&lid=LSTETHHNKEZP98HFUNE1LKXKT&hl_lid=&marketplace=FLIPKART&fm=eyJ3dHAiOiJyZWNvIiwicHJwdCI6InBwIiwibWlkIjoicHJvZHVjdFJlY29tbWVuZGF0aW9uL3NpbWlsYXIifQ%3D%3D&pageUID=1782801989400",
+    "review": "Key Highlights Key Highlights Key Highlights Key Highlights Key Highlights Key Highlights Skylee Women Pure Cotton Kurta Pant Dupatta Set 59% 3,799 \u20b91,563 AD Skylee Women Pure Cotton Kurta Pant Dupatta Set 59% 3,599 \u20b91,486 AD Skylee Women Cotton Blend Kurta Pant Dupatta Set 59% 3,499 \u20b91,434 AD Select Size Size Chart S M L XL XXL CALLME TEXTILE & DESIGN Women Pure Silk Kurti Pant Attached Dupat... more Hot Deal 67% 3,199 \u20b91,048 Buy at \u20b9995 Apply offers for maximum savings \u20b9995 Lowest price for you OR \u20b996 x 12m Pay \u20b91,147 Bank offers Bank offers \u20b953 off View EMI offers Delivery details Location not set Select delivery location Delivery by 3 Jul, Fri Fulfilled by JDCORPORATION 4.1 \u2022 3 years with Flipkart See other sellers 10-Day Return Cash on Delivery Flipkart Assured",
+    "sentiment": "Positive",
+    "created_at": "2026-06-30 14:19:02.360997+00:00"
+  },
+  {
+    "product": "https://www.flipkart.com/callme-textile-design-women-kurti-pant-attached-dupatta-set/p/itmad44e9fc600d0?pid=ETHHNKEZP98HFUNE&lid=LSTETHHNKEZP98HFUNE1LKXKT&hl_lid=&marketplace=FLIPKART&fm=eyJ3dHAiOiJyZWNvIiwicHJwdCI6InBwIiwibWlkIjoicHJvZHVjdFJlY29tbWVuZGF0aW9uL3NpbWlsYXIifQ%3D%3D&pageUID=1782801989400",
+    "review": "Key Highlights Key Highlights Key Highlights Key Highlights Key Highlights Key Highlights",
+    "sentiment": "Neutral",
+    "created_at": "2026-06-30 14:19:02.361001+00:00"
+  },
+  {
+    "product": "https://www.flipkart.com/callme-textile-design-women-kurti-pant-attached-dupatta-set/p/itmad44e9fc600d0?pid=ETHHNKEZP98HFUNE&lid=LSTETHHNKEZP98HFUNE1LKXKT&hl_lid=&marketplace=FLIPKART&fm=eyJ3dHAiOiJyZWNvIiwicHJwdCI6InBwIiwibWlkIjoicHJvZHVjdFJlY29tbWVuZGF0aW9uL3NpbWlsYXIifQ%3D%3D&pageUID=1782801989400",
+    "review": "Flipkart A one-stop Shopping Minutes Everything in Minutes Grocery At wholesale prices Travel All your travel needs Search Icon Search Icon Login New customer? Sign Up My Profile Flipkart Plus Zone Orders Wishlist Become a Seller Rewards Gift Cards Notification Preferences 24x7 Customer Care Advertise Download App More More Become a Seller Notification Settings 24x7 Customer Care Advertise on Flipkart Cart Home / Clothing and Accessories / Kurtas, Ethnic Sets and Bottoms / Ethnic Sets / Women's Ethnic Sets / CALLME TEXTILE & DESIGN Women's Ethnic Sets / Women Pure Silk Kurti Pant Attached Dupatta Set Key Highlights Key Highlights Key Highlights Key Highlights Key Highlights Key Highlights Skylee Women Pure Cotton Kurta Pant Dupatta Set 59% 3,799 \u20b91,563 AD Skylee Women Pure Cotton Kurta Pant Dupatta Set 59% 3,599 \u20b91,486 AD Skylee Women Cotton Blend Kurta Pant Dupatta Set 59% 3,499 \u20b91,434 AD Select Size Size Chart S M L XL XXL CALLME TEXTILE & DESIGN Women Pure Silk Kurti Pant Attached Dupat... more Hot Deal 67% 3,199 \u20b91,048 Buy at \u20b9995 Apply offers for maximum savings \u20b9995 Lowest price for you OR \u20b996 x 12m Pay \u20b91,147 Bank offers Bank offers \u20b953 off View EMI offers Delivery details Location not set Select delivery location Delivery by 3 Jul, Fri Fulfilled by JDCORPORATION 4.1 \u2022 3 years with Flipkart See other sellers 10-Day Return Cash on Delivery Flipkart Assured Similar Products AD Skylee Women Pure Cotton Kurta Pant Dupatta Set 59% OFF \u20b93,799 \u20b91,563 \u20b91,484 with Bank offer Get it by 5 Jul AD Skylee Women Pure Cotton Kurta Pant Dupatta Set 59% OFF \u20b93,599 \u20b91,486 \u20b91,411 with Bank offer Get it by 5 Jul AD Skylee Women Silk Blend Kurta Pant Dupatta Set 62% OFF \u20b93,499 \u20b91,316 \u20b91,250 with Bank offer Get it by 5 Jul AD Skylee Women Cotton Blend Kurta Pant Dupatta Set 59% OFF \u20b93,499 \u20b91,434 \u20b91,362 with Bank offer Get it by 5 Jul padsala creation Women Cotton Blend Kurta Pant Set 79% OFF \u20b91,999 \u20b9417 \u20b9367 with 2 offers Get it by 5 Jul 3 Gosriki Women Viscose Rayon Kurti Palazzo Dupatta Set 68% OFF \u20b92,599 \u20b9820 \u20b9779 with 2 offers Get it by 5 Jul 3.8 HIVA TRENDZ Women Pure Silk Kurta Pant Dupatta Set 81% OFF \u20b94,149 \u20b9774 \u20b9735 with 2 offers Get it by 5 Jul TOINSHO Women Cotton Blend Ethnic Top Pant Set 71% OFF \u20b92,499 \u20b9720 \u20b9684 with 2 offers Get it by 5 Jul Hang on, loading content",
+    "sentiment": "Positive",
+    "created_at": "2026-06-30 14:21:05.811580+00:00"
+  },
+  {
+    "product": "https://www.flipkart.com/callme-textile-design-women-kurti-pant-attached-dupatta-set/p/itmad44e9fc600d0?pid=ETHHNKEZP98HFUNE&lid=LSTETHHNKEZP98HFUNE1LKXKT&hl_lid=&marketplace=FLIPKART&fm=eyJ3dHAiOiJyZWNvIiwicHJwdCI6InBwIiwibWlkIjoicHJvZHVjdFJlY29tbWVuZGF0aW9uL3NpbWlsYXIifQ%3D%3D&pageUID=1782801989400",
+    "review": "Flipkart A one-stop Shopping Minutes Everything in Minutes Grocery At wholesale prices Travel All your travel needs Search Icon Search Icon Login New customer? Sign Up My Profile Flipkart Plus Zone Orders Wishlist Become a Seller Rewards Gift Cards Notification Preferences 24x7 Customer Care Advertise Download App More More Become a Seller Notification Settings 24x7 Customer Care Advertise on Flipkart Cart",
+    "sentiment": "Positive",
+    "created_at": "2026-06-30 14:21:05.811606+00:00"
+  },
+  {
+    "product": "https://www.flipkart.com/callme-textile-design-women-kurti-pant-attached-dupatta-set/p/itmad44e9fc600d0?pid=ETHHNKEZP98HFUNE&lid=LSTETHHNKEZP98HFUNE1LKXKT&hl_lid=&marketplace=FLIPKART&fm=eyJ3dHAiOiJyZWNvIiwicHJwdCI6InBwIiwibWlkIjoicHJvZHVjdFJlY29tbWVuZGF0aW9uL3NpbWlsYXIifQ%3D%3D&pageUID=1782801989400",
+    "review": "Flipkart A one-stop Shopping Minutes Everything in Minutes Grocery At wholesale prices Travel All your travel needs",
+    "sentiment": "Neutral",
+    "created_at": "2026-06-30 14:21:05.811612+00:00"
+  },
+  {
+    "product": "https://www.flipkart.com/callme-textile-design-women-kurti-pant-attached-dupatta-set/p/itmad44e9fc600d0?pid=ETHHNKEZP98HFUNE&lid=LSTETHHNKEZP98HFUNE1LKXKT&hl_lid=&marketplace=FLIPKART&fm=eyJ3dHAiOiJyZWNvIiwicHJwdCI6InBwIiwibWlkIjoicHJvZHVjdFJlY29tbWVuZGF0aW9uL3NpbWlsYXIifQ%3D%3D&pageUID=1782801989400",
+    "review": "Flipkart A one-stop Shopping",
+    "sentiment": "Neutral",
+    "created_at": "2026-06-30 14:21:05.811616+00:00"
+  },
+  {
+    "product": "https://www.flipkart.com/callme-textile-design-women-kurti-pant-attached-dupatta-set/p/itmad44e9fc600d0?pid=ETHHNKEZP98HFUNE&lid=LSTETHHNKEZP98HFUNE1LKXKT&hl_lid=&marketplace=FLIPKART&fm=eyJ3dHAiOiJyZWNvIiwicHJwdCI6InBwIiwibWlkIjoicHJvZHVjdFJlY29tbWVuZGF0aW9uL3NpbWlsYXIifQ%3D%3D&pageUID=1782801989400",
+    "review": "Minutes Everything in Minutes",
+    "sentiment": "Neutral",
+    "created_at": "2026-06-30 14:21:05.811621+00:00"
+  },
+  {
+    "product": "https://www.flipkart.com/callme-textile-design-women-kurti-pant-attached-dupatta-set/p/itmad44e9fc600d0?pid=ETHHNKEZP98HFUNE&lid=LSTETHHNKEZP98HFUNE1LKXKT&hl_lid=&marketplace=FLIPKART&fm=eyJ3dHAiOiJyZWNvIiwicHJwdCI6InBwIiwibWlkIjoicHJvZHVjdFJlY29tbWVuZGF0aW9uL3NpbWlsYXIifQ%3D%3D&pageUID=1782801989400",
+    "review": "Grocery At wholesale prices",
+    "sentiment": "Neutral",
+    "created_at": "2026-06-30 14:21:05.811625+00:00"
+  },
+  {
+    "product": "https://www.flipkart.com/callme-textile-design-women-kurti-pant-attached-dupatta-set/p/itmad44e9fc600d0?pid=ETHHNKEZP98HFUNE&lid=LSTETHHNKEZP98HFUNE1LKXKT&hl_lid=&marketplace=FLIPKART&fm=eyJ3dHAiOiJyZWNvIiwicHJwdCI6InBwIiwibWlkIjoicHJvZHVjdFJlY29tbWVuZGF0aW9uL3NpbWlsYXIifQ%3D%3D&pageUID=1782801989400",
+    "review": "Travel All your travel needs",
+    "sentiment": "Neutral",
+    "created_at": "2026-06-30 14:21:05.811629+00:00"
+  },
+  {
+    "product": "https://www.flipkart.com/callme-textile-design-women-kurti-pant-attached-dupatta-set/p/itmad44e9fc600d0?pid=ETHHNKEZP98HFUNE&lid=LSTETHHNKEZP98HFUNE1LKXKT&hl_lid=&marketplace=FLIPKART&fm=eyJ3dHAiOiJyZWNvIiwicHJwdCI6InBwIiwibWlkIjoicHJvZHVjdFJlY29tbWVuZGF0aW9uL3NpbWlsYXIifQ%3D%3D&pageUID=1782801989400",
+    "review": "Login New customer? Sign Up My Profile Flipkart Plus Zone Orders Wishlist Become a Seller Rewards Gift Cards Notification Preferences 24x7 Customer Care Advertise Download App More More Become a Seller Notification Settings 24x7 Customer Care Advertise on Flipkart Cart",
+    "sentiment": "Positive",
+    "created_at": "2026-06-30 14:21:05.811634+00:00"
+  },
+  {
+    "product": "https://www.flipkart.com/callme-textile-design-women-kurti-pant-attached-dupatta-set/p/itmad44e9fc600d0?pid=ETHHNKEZP98HFUNE&lid=LSTETHHNKEZP98HFUNE1LKXKT&hl_lid=&marketplace=FLIPKART&fm=eyJ3dHAiOiJyZWNvIiwicHJwdCI6InBwIiwibWlkIjoicHJvZHVjdFJlY29tbWVuZGF0aW9uL3NpbWlsYXIifQ%3D%3D&pageUID=1782801989400",
+    "review": "Login New customer? Sign Up My Profile Flipkart Plus Zone Orders Wishlist Become a Seller Rewards Gift Cards Notification Preferences 24x7 Customer Care Advertise Download App",
+    "sentiment": "Positive",
+    "created_at": "2026-06-30 14:21:05.811637+00:00"
+  },
+  {
+    "product": "https://www.flipkart.com/callme-textile-design-women-kurti-pant-attached-dupatta-set/p/itmad44e9fc600d0?pid=ETHHNKEZP98HFUNE&lid=LSTETHHNKEZP98HFUNE1LKXKT&hl_lid=&marketplace=FLIPKART&fm=eyJ3dHAiOiJyZWNvIiwicHJwdCI6InBwIiwibWlkIjoicHJvZHVjdFJlY29tbWVuZGF0aW9uL3NpbWlsYXIifQ%3D%3D&pageUID=1782801989400",
+    "review": "More More Become a Seller Notification Settings 24x7 Customer Care Advertise on Flipkart",
+    "sentiment": "Positive",
+    "created_at": "2026-06-30 14:21:05.811642+00:00"
+  },
+  {
+    "product": "https://www.flipkart.com/callme-textile-design-women-kurti-pant-attached-dupatta-set/p/itmad44e9fc600d0?pid=ETHHNKEZP98HFUNE&lid=LSTETHHNKEZP98HFUNE1LKXKT&hl_lid=&marketplace=FLIPKART&fm=eyJ3dHAiOiJyZWNvIiwicHJwdCI6InBwIiwibWlkIjoicHJvZHVjdFJlY29tbWVuZGF0aW9uL3NpbWlsYXIifQ%3D%3D&pageUID=1782801989400",
+    "review": "Home / Clothing and Accessories / Kurtas, Ethnic Sets and Bottoms / Ethnic Sets / Women's Ethnic Sets / CALLME TEXTILE & DESIGN Women's Ethnic Sets / Women Pure Silk Kurti Pant Attached Dupatta Set Key Highlights Key Highlights Key Highlights Key Highlights Key Highlights Key Highlights Skylee Women Pure Cotton Kurta Pant Dupatta Set 59% 3,799 \u20b91,563 AD Skylee Women Pure Cotton Kurta Pant Dupatta Set 59% 3,599 \u20b91,486 AD Skylee Women Cotton Blend Kurta Pant Dupatta Set 59% 3,499 \u20b91,434 AD Select Size Size Chart S M L XL XXL CALLME TEXTILE & DESIGN Women Pure Silk Kurti Pant Attached Dupat... more Hot Deal 67% 3,199 \u20b91,048 Buy at \u20b9995 Apply offers for maximum savings \u20b9995 Lowest price for you OR \u20b996 x 12m Pay \u20b91,147 Bank offers Bank offers \u20b953 off View EMI offers Delivery details Location not set Select delivery location Delivery by 3 Jul, Fri Fulfilled by JDCORPORATION 4.1 \u2022 3 years with Flipkart See other sellers 10-Day Return Cash on Delivery Flipkart Assured Similar Products AD Skylee Women Pure Cotton Kurta Pant Dupatta Set 59% OFF \u20b93,799 \u20b91,563 \u20b91,484 with Bank offer Get it by 5 Jul AD Skylee Women Pure Cotton Kurta Pant Dupatta Set 59% OFF \u20b93,599 \u20b91,486 \u20b91,411 with Bank offer Get it by 5 Jul AD Skylee Women Silk Blend Kurta Pant Dupatta Set 62% OFF \u20b93,499 \u20b91,316 \u20b91,250 with Bank offer Get it by 5 Jul AD Skylee Women Cotton Blend Kurta Pant Dupatta Set 59% OFF \u20b93,499 \u20b91,434 \u20b91,362 with Bank offer Get it by 5 Jul padsala creation Women Cotton Blend Kurta Pant Set 79% OFF \u20b91,999 \u20b9417 \u20b9367 with 2 offers Get it by 5 Jul 3 Gosriki Women Viscose Rayon Kurti Palazzo Dupatta Set 68% OFF \u20b92,599 \u20b9820 \u20b9779 with 2 offers Get it by 5 Jul 3.8 HIVA TRENDZ Women Pure Silk Kurta Pant Dupatta Set 81% OFF \u20b94,149 \u20b9774 \u20b9735 with 2 offers Get it by 5 Jul TOINSHO Women Cotton Blend Ethnic Top Pant Set 71% OFF \u20b92,499 \u20b9720 \u20b9684 with 2 offers Get it by 5 Jul Hang on, loading content",
+    "sentiment": "Positive",
+    "created_at": "2026-06-30 14:21:05.811646+00:00"
+  },
+  {
+    "product": "https://www.flipkart.com/callme-textile-design-women-kurti-pant-attached-dupatta-set/p/itmad44e9fc600d0?pid=ETHHNKEZP98HFUNE&lid=LSTETHHNKEZP98HFUNE1LKXKT&hl_lid=&marketplace=FLIPKART&fm=eyJ3dHAiOiJyZWNvIiwicHJwdCI6InBwIiwibWlkIjoicHJvZHVjdFJlY29tbWVuZGF0aW9uL3NpbWlsYXIifQ%3D%3D&pageUID=1782801989400",
+    "review": "Home / Clothing and Accessories / Kurtas, Ethnic Sets and Bottoms / Ethnic Sets / Women's Ethnic Sets / CALLME TEXTILE & DESIGN Women's Ethnic Sets / Women Pure Silk Kurti Pant Attached Dupatta Set",
+    "sentiment": "Positive",
+    "created_at": "2026-06-30 14:21:05.811651+00:00"
+  },
+  {
+    "product": "https://www.flipkart.com/callme-textile-design-women-kurti-pant-attached-dupatta-set/p/itmad44e9fc600d0?pid=ETHHNKEZP98HFUNE&lid=LSTETHHNKEZP98HFUNE1LKXKT&hl_lid=&marketplace=FLIPKART&fm=eyJ3dHAiOiJyZWNvIiwicHJwdCI6InBwIiwibWlkIjoicHJvZHVjdFJlY29tbWVuZGF0aW9uL3NpbWlsYXIifQ%3D%3D&pageUID=1782801989400",
+    "review": "Home / Clothing and Accessories / Kurtas, Ethnic Sets and Bottoms / Ethnic Sets / Women's Ethnic Sets / CALLME TEXTILE & DESIGN Women's Ethnic Sets /",
+    "sentiment": "Neutral",
+    "created_at": "2026-06-30 14:21:05.811655+00:00"
+  },
+  {
+    "product": "https://www.flipkart.com/callme-textile-design-women-kurti-pant-attached-dupatta-set/p/itmad44e9fc600d0?pid=ETHHNKEZP98HFUNE&lid=LSTETHHNKEZP98HFUNE1LKXKT&hl_lid=&marketplace=FLIPKART&fm=eyJ3dHAiOiJyZWNvIiwicHJwdCI6InBwIiwibWlkIjoicHJvZHVjdFJlY29tbWVuZGF0aW9uL3NpbWlsYXIifQ%3D%3D&pageUID=1782801989400",
+    "review": "Clothing and Accessories /",
+    "sentiment": "Neutral",
+    "created_at": "2026-06-30 14:21:05.811659+00:00"
+  },
+  {
+    "product": "https://www.flipkart.com/callme-textile-design-women-kurti-pant-attached-dupatta-set/p/itmad44e9fc600d0?pid=ETHHNKEZP98HFUNE&lid=LSTETHHNKEZP98HFUNE1LKXKT&hl_lid=&marketplace=FLIPKART&fm=eyJ3dHAiOiJyZWNvIiwicHJwdCI6InBwIiwibWlkIjoicHJvZHVjdFJlY29tbWVuZGF0aW9uL3NpbWlsYXIifQ%3D%3D&pageUID=1782801989400",
+    "review": "Kurtas, Ethnic Sets and Bottoms /",
+    "sentiment": "Neutral",
+    "created_at": "2026-06-30 14:21:05.811663+00:00"
+  },
+  {
+    "product": "https://www.flipkart.com/callme-textile-design-women-kurti-pant-attached-dupatta-set/p/itmad44e9fc600d0?pid=ETHHNKEZP98HFUNE&lid=LSTETHHNKEZP98HFUNE1LKXKT&hl_lid=&marketplace=FLIPKART&fm=eyJ3dHAiOiJyZWNvIiwicHJwdCI6InBwIiwibWlkIjoicHJvZHVjdFJlY29tbWVuZGF0aW9uL3NpbWlsYXIifQ%3D%3D&pageUID=1782801989400",
+    "review": "CALLME TEXTILE & DESIGN Women's Ethnic Sets /",
+    "sentiment": "Neutral",
+    "created_at": "2026-06-30 14:21:05.811666+00:00"
+  },
+  {
+    "product": "https://www.flipkart.com/callme-textile-design-women-kurti-pant-attached-dupatta-set/p/itmad44e9fc600d0?pid=ETHHNKEZP98HFUNE&lid=LSTETHHNKEZP98HFUNE1LKXKT&hl_lid=&marketplace=FLIPKART&fm=eyJ3dHAiOiJyZWNvIiwicHJwdCI6InBwIiwibWlkIjoicHJvZHVjdFJlY29tbWVuZGF0aW9uL3NpbWlsYXIifQ%3D%3D&pageUID=1782801989400",
+    "review": "Women Pure Silk Kurti Pant Attached Dupatta Set",
+    "sentiment": "Positive",
+    "created_at": "2026-06-30 14:21:05.811670+00:00"
+  },
+  {
+    "product": "https://www.flipkart.com/callme-textile-design-women-kurti-pant-attached-dupatta-set/p/itmad44e9fc600d0?pid=ETHHNKEZP98HFUNE&lid=LSTETHHNKEZP98HFUNE1LKXKT&hl_lid=&marketplace=FLIPKART&fm=eyJ3dHAiOiJyZWNvIiwicHJwdCI6InBwIiwibWlkIjoicHJvZHVjdFJlY29tbWVuZGF0aW9uL3NpbWlsYXIifQ%3D%3D&pageUID=1782801989400",
+    "review": "Key Highlights Key Highlights Key Highlights Key Highlights Key Highlights Key Highlights Skylee Women Pure Cotton Kurta Pant Dupatta Set 59% 3,799 \u20b91,563 AD Skylee Women Pure Cotton Kurta Pant Dupatta Set 59% 3,599 \u20b91,486 AD Skylee Women Cotton Blend Kurta Pant Dupatta Set 59% 3,499 \u20b91,434 AD Select Size Size Chart S M L XL XXL CALLME TEXTILE & DESIGN Women Pure Silk Kurti Pant Attached Dupat... more Hot Deal 67% 3,199 \u20b91,048 Buy at \u20b9995 Apply offers for maximum savings \u20b9995 Lowest price for you OR \u20b996 x 12m Pay \u20b91,147 Bank offers Bank offers \u20b953 off View EMI offers Delivery details Location not set Select delivery location Delivery by 3 Jul, Fri Fulfilled by JDCORPORATION 4.1 \u2022 3 years with Flipkart See other sellers 10-Day Return Cash on Delivery Flipkart Assured Similar Products AD Skylee Women Pure Cotton Kurta Pant Dupatta Set 59% OFF \u20b93,799 \u20b91,563 \u20b91,484 with Bank offer Get it by 5 Jul AD Skylee Women Pure Cotton Kurta Pant Dupatta Set 59% OFF \u20b93,599 \u20b91,486 \u20b91,411 with Bank offer Get it by 5 Jul AD Skylee Women Silk Blend Kurta Pant Dupatta Set 62% OFF \u20b93,499 \u20b91,316 \u20b91,250 with Bank offer Get it by 5 Jul AD Skylee Women Cotton Blend Kurta Pant Dupatta Set 59% OFF \u20b93,499 \u20b91,434 \u20b91,362 with Bank offer Get it by 5 Jul padsala creation Women Cotton Blend Kurta Pant Set 79% OFF \u20b91,999 \u20b9417 \u20b9367 with 2 offers Get it by 5 Jul 3 Gosriki Women Viscose Rayon Kurti Palazzo Dupatta Set 68% OFF \u20b92,599 \u20b9820 \u20b9779 with 2 offers Get it by 5 Jul 3.8 HIVA TRENDZ Women Pure Silk Kurta Pant Dupatta Set 81% OFF \u20b94,149 \u20b9774 \u20b9735 with 2 offers Get it by 5 Jul TOINSHO Women Cotton Blend Ethnic Top Pant Set 71% OFF \u20b92,499 \u20b9720 \u20b9684 with 2 offers Get it by 5 Jul",
+    "sentiment": "Positive",
+    "created_at": "2026-06-30 14:21:05.811675+00:00"
+  },
+  {
+    "product": "https://www.flipkart.com/callme-textile-design-women-kurti-pant-attached-dupatta-set/p/itmad44e9fc600d0?pid=ETHHNKEZP98HFUNE&lid=LSTETHHNKEZP98HFUNE1LKXKT&hl_lid=&marketplace=FLIPKART&fm=eyJ3dHAiOiJyZWNvIiwicHJwdCI6InBwIiwibWlkIjoicHJvZHVjdFJlY29tbWVuZGF0aW9uL3NpbWlsYXIifQ%3D%3D&pageUID=1782801989400",
+    "review": "Key Highlights Key Highlights Key Highlights Key Highlights Key Highlights Key Highlights Skylee Women Pure Cotton Kurta Pant Dupatta Set 59% 3,799 \u20b91,563 AD Skylee Women Pure Cotton Kurta Pant Dupatta Set 59% 3,599 \u20b91,486 AD Skylee Women Cotton Blend Kurta Pant Dupatta Set 59% 3,499 \u20b91,434 AD Select Size Size Chart S M L XL XXL CALLME TEXTILE & DESIGN Women Pure Silk Kurti Pant Attached Dupat... more Hot Deal 67% 3,199 \u20b91,048 Buy at \u20b9995 Apply offers for maximum savings \u20b9995 Lowest price for you OR \u20b996 x 12m Pay \u20b91,147 Bank offers Bank offers \u20b953 off View EMI offers Delivery details Location not set Select delivery location Delivery by 3 Jul, Fri Fulfilled by JDCORPORATION 4.1 \u2022 3 years with Flipkart See other sellers 10-Day Return Cash on Delivery Flipkart Assured",
+    "sentiment": "Positive",
+    "created_at": "2026-06-30 14:21:05.811679+00:00"
+  },
+  {
+    "product": "https://www.flipkart.com/callme-textile-design-women-kurti-pant-attached-dupatta-set/p/itmad44e9fc600d0?pid=ETHHNKEZP98HFUNE&lid=LSTETHHNKEZP98HFUNE1LKXKT&hl_lid=&marketplace=FLIPKART&fm=eyJ3dHAiOiJyZWNvIiwicHJwdCI6InBwIiwibWlkIjoicHJvZHVjdFJlY29tbWVuZGF0aW9uL3NpbWlsYXIifQ%3D%3D&pageUID=1782801989400",
+    "review": "Key Highlights Key Highlights Key Highlights Key Highlights Key Highlights Key Highlights",
+    "sentiment": "Neutral",
+    "created_at": "2026-06-30 14:21:05.811682+00:00"
+  },
+  {
+    "product": "https://www.flipkart.com/callme-textile-design-women-kurti-pant-attached-dupatta-set/p/itmad44e9fc600d0?pid=ETHHNKEZP98HFUNE&lid=LSTETHHNKEZP98HFUNE1LKXKT&hl_lid=&marketplace=FLIPKART&fm=eyJ3dHAiOiJyZWNvIiwicHJwdCI6InBwIiwibWlkIjoicHJvZHVjdFJlY29tbWVuZGF0aW9uL3NpbWlsYXIifQ%3D%3D&pageUID=1782801989400",
+    "review": "Flipkart A one-stop Shopping Minutes Everything in Minutes Grocery At wholesale prices Travel All your travel needs Search Icon Search Icon Login New customer? Sign Up My Profile Flipkart Plus Zone Orders Wishlist Become a Seller Rewards Gift Cards Notification Preferences 24x7 Customer Care Advertise Download App More More Become a Seller Notification Settings 24x7 Customer Care Advertise on Flipkart Cart Home / Clothing and Accessories / Kurtas, Ethnic Sets and Bottoms / Ethnic Sets / Women's Ethnic Sets / CALLME TEXTILE & DESIGN Women's Ethnic Sets / Women Pure Silk Kurti Pant Attached Dupatta Set Key Highlights Key Highlights Key Highlights Key Highlights Key Highlights Key Highlights Select Size Size Chart S M L XL XXL CALLME TEXTILE & DESIGN Women Pure Silk Kurti Pant Attached Dupat... more Hot Deal 67% 3,199 \u20b91,048 Buy at \u20b9995 Apply offers for maximum savings \u20b9995 Lowest price for you OR \u20b996 x 12m Pay \u20b91,147 Bank offers Bank offers \u20b953 off View EMI offers Delivery details Location not set Select delivery location Delivery by 3 Jul, Fri Fulfilled by JDCORPORATION 4.1 \u2022 3 years with Flipkart See other sellers 10-Day Return Cash on Delivery Flipkart Assured Product highlights Fabric Pure Silk Pattern Embroidered Similar Products AD Skylee Women Pure Cotton Kurta Pant Dupatta Set 59% OFF \u20b93,799 \u20b91,563 \u20b91,484 with Bank offer Get it by 5 Jul AD Skylee Women Pure Cotton Kurta Pant Dupatta Set 59% OFF \u20b93,599 \u20b91,486 \u20b91,411 with Bank offer Get it by 5 Jul AD Skylee Women Silk Blend Kurta Pant Dupatta Set 62% OFF \u20b93,499 \u20b91,316 \u20b91,250 with Bank offer Get it by 5 Jul AD Skylee Women Cotton Blend Kurta Pant Dupatta Set 59% OFF \u20b93,499 \u20b91,434 \u20b91,362 with Bank offer Get it by 5 Jul padsala creation Women Cotton Blend Kurta Pant Set 79% OFF \u20b91,999 \u20b9417 \u20b9367 with 2 offers Get it by 5 Jul 3 Gosriki Women Viscose Rayon Kurti Palazzo Dupatta Set 68% OFF \u20b92,599 \u20b9820 \u20b9779 with 2 offers Get it by 5 Jul 3.8 HIVA TRENDZ Women Pure Silk Kurta Pant Dupatta Set 81% OFF \u20b94,149 \u20b9774 \u20b9735 with 2 offers Get it by 5 Jul TOINSHO Women Cotton Blend Ethnic Top Pant Set 71% OFF \u20b92,499 \u20b9720 \u20b9684 with 2 offers Get it by 5 Jul Hang on, loading content",
+    "sentiment": "Positive",
+    "created_at": "2026-06-30 14:21:43.797201+00:00"
+  },
+  {
+    "product": "https://www.flipkart.com/callme-textile-design-women-kurti-pant-attached-dupatta-set/p/itmad44e9fc600d0?pid=ETHHNKEZP98HFUNE&lid=LSTETHHNKEZP98HFUNE1LKXKT&hl_lid=&marketplace=FLIPKART&fm=eyJ3dHAiOiJyZWNvIiwicHJwdCI6InBwIiwibWlkIjoicHJvZHVjdFJlY29tbWVuZGF0aW9uL3NpbWlsYXIifQ%3D%3D&pageUID=1782801989400",
+    "review": "Flipkart A one-stop Shopping Minutes Everything in Minutes Grocery At wholesale prices Travel All your travel needs Search Icon Search Icon Login New customer? Sign Up My Profile Flipkart Plus Zone Orders Wishlist Become a Seller Rewards Gift Cards Notification Preferences 24x7 Customer Care Advertise Download App More More Become a Seller Notification Settings 24x7 Customer Care Advertise on Flipkart Cart",
+    "sentiment": "Positive",
+    "created_at": "2026-06-30 14:21:43.797210+00:00"
+  },
+  {
+    "product": "https://www.flipkart.com/callme-textile-design-women-kurti-pant-attached-dupatta-set/p/itmad44e9fc600d0?pid=ETHHNKEZP98HFUNE&lid=LSTETHHNKEZP98HFUNE1LKXKT&hl_lid=&marketplace=FLIPKART&fm=eyJ3dHAiOiJyZWNvIiwicHJwdCI6InBwIiwibWlkIjoicHJvZHVjdFJlY29tbWVuZGF0aW9uL3NpbWlsYXIifQ%3D%3D&pageUID=1782801989400",
+    "review": "Flipkart A one-stop Shopping Minutes Everything in Minutes Grocery At wholesale prices Travel All your travel needs",
+    "sentiment": "Neutral",
+    "created_at": "2026-06-30 14:21:43.797214+00:00"
+  },
+  {
+    "product": "https://www.flipkart.com/callme-textile-design-women-kurti-pant-attached-dupatta-set/p/itmad44e9fc600d0?pid=ETHHNKEZP98HFUNE&lid=LSTETHHNKEZP98HFUNE1LKXKT&hl_lid=&marketplace=FLIPKART&fm=eyJ3dHAiOiJyZWNvIiwicHJwdCI6InBwIiwibWlkIjoicHJvZHVjdFJlY29tbWVuZGF0aW9uL3NpbWlsYXIifQ%3D%3D&pageUID=1782801989400",
+    "review": "Flipkart A one-stop Shopping",
+    "sentiment": "Neutral",
+    "created_at": "2026-06-30 14:21:43.797217+00:00"
+  },
+  {
+    "product": "https://www.flipkart.com/callme-textile-design-women-kurti-pant-attached-dupatta-set/p/itmad44e9fc600d0?pid=ETHHNKEZP98HFUNE&lid=LSTETHHNKEZP98HFUNE1LKXKT&hl_lid=&marketplace=FLIPKART&fm=eyJ3dHAiOiJyZWNvIiwicHJwdCI6InBwIiwibWlkIjoicHJvZHVjdFJlY29tbWVuZGF0aW9uL3NpbWlsYXIifQ%3D%3D&pageUID=1782801989400",
+    "review": "Minutes Everything in Minutes",
+    "sentiment": "Neutral",
+    "created_at": "2026-06-30 14:21:43.797220+00:00"
+  },
+  {
+    "product": "https://www.flipkart.com/callme-textile-design-women-kurti-pant-attached-dupatta-set/p/itmad44e9fc600d0?pid=ETHHNKEZP98HFUNE&lid=LSTETHHNKEZP98HFUNE1LKXKT&hl_lid=&marketplace=FLIPKART&fm=eyJ3dHAiOiJyZWNvIiwicHJwdCI6InBwIiwibWlkIjoicHJvZHVjdFJlY29tbWVuZGF0aW9uL3NpbWlsYXIifQ%3D%3D&pageUID=1782801989400",
+    "review": "Grocery At wholesale prices",
+    "sentiment": "Neutral",
+    "created_at": "2026-06-30 14:21:43.797224+00:00"
+  },
+  {
+    "product": "https://www.flipkart.com/callme-textile-design-women-kurti-pant-attached-dupatta-set/p/itmad44e9fc600d0?pid=ETHHNKEZP98HFUNE&lid=LSTETHHNKEZP98HFUNE1LKXKT&hl_lid=&marketplace=FLIPKART&fm=eyJ3dHAiOiJyZWNvIiwicHJwdCI6InBwIiwibWlkIjoicHJvZHVjdFJlY29tbWVuZGF0aW9uL3NpbWlsYXIifQ%3D%3D&pageUID=1782801989400",
+    "review": "Travel All your travel needs",
+    "sentiment": "Neutral",
+    "created_at": "2026-06-30 14:21:43.797229+00:00"
+  },
+  {
+    "product": "https://www.flipkart.com/callme-textile-design-women-kurti-pant-attached-dupatta-set/p/itmad44e9fc600d0?pid=ETHHNKEZP98HFUNE&lid=LSTETHHNKEZP98HFUNE1LKXKT&hl_lid=&marketplace=FLIPKART&fm=eyJ3dHAiOiJyZWNvIiwicHJwdCI6InBwIiwibWlkIjoicHJvZHVjdFJlY29tbWVuZGF0aW9uL3NpbWlsYXIifQ%3D%3D&pageUID=1782801989400",
+    "review": "Login New customer? Sign Up My Profile Flipkart Plus Zone Orders Wishlist Become a Seller Rewards Gift Cards Notification Preferences 24x7 Customer Care Advertise Download App More More Become a Seller Notification Settings 24x7 Customer Care Advertise on Flipkart Cart",
+    "sentiment": "Positive",
+    "created_at": "2026-06-30 14:21:43.797233+00:00"
+  },
+  {
+    "product": "https://www.flipkart.com/callme-textile-design-women-kurti-pant-attached-dupatta-set/p/itmad44e9fc600d0?pid=ETHHNKEZP98HFUNE&lid=LSTETHHNKEZP98HFUNE1LKXKT&hl_lid=&marketplace=FLIPKART&fm=eyJ3dHAiOiJyZWNvIiwicHJwdCI6InBwIiwibWlkIjoicHJvZHVjdFJlY29tbWVuZGF0aW9uL3NpbWlsYXIifQ%3D%3D&pageUID=1782801989400",
+    "review": "Login New customer? Sign Up My Profile Flipkart Plus Zone Orders Wishlist Become a Seller Rewards Gift Cards Notification Preferences 24x7 Customer Care Advertise Download App",
+    "sentiment": "Positive",
+    "created_at": "2026-06-30 14:21:43.797236+00:00"
+  },
+  {
+    "product": "https://www.flipkart.com/callme-textile-design-women-kurti-pant-attached-dupatta-set/p/itmad44e9fc600d0?pid=ETHHNKEZP98HFUNE&lid=LSTETHHNKEZP98HFUNE1LKXKT&hl_lid=&marketplace=FLIPKART&fm=eyJ3dHAiOiJyZWNvIiwicHJwdCI6InBwIiwibWlkIjoicHJvZHVjdFJlY29tbWVuZGF0aW9uL3NpbWlsYXIifQ%3D%3D&pageUID=1782801989400",
+    "review": "More More Become a Seller Notification Settings 24x7 Customer Care Advertise on Flipkart",
+    "sentiment": "Positive",
+    "created_at": "2026-06-30 14:21:43.797240+00:00"
+  },
+  {
+    "product": "https://www.flipkart.com/callme-textile-design-women-kurti-pant-attached-dupatta-set/p/itmad44e9fc600d0?pid=ETHHNKEZP98HFUNE&lid=LSTETHHNKEZP98HFUNE1LKXKT&hl_lid=&marketplace=FLIPKART&fm=eyJ3dHAiOiJyZWNvIiwicHJwdCI6InBwIiwibWlkIjoicHJvZHVjdFJlY29tbWVuZGF0aW9uL3NpbWlsYXIifQ%3D%3D&pageUID=1782801989400",
+    "review": "Home / Clothing and Accessories / Kurtas, Ethnic Sets and Bottoms / Ethnic Sets / Women's Ethnic Sets / CALLME TEXTILE & DESIGN Women's Ethnic Sets / Women Pure Silk Kurti Pant Attached Dupatta Set Key Highlights Key Highlights Key Highlights Key Highlights Key Highlights Key Highlights Select Size Size Chart S M L XL XXL CALLME TEXTILE & DESIGN Women Pure Silk Kurti Pant Attached Dupat... more Hot Deal 67% 3,199 \u20b91,048 Buy at \u20b9995 Apply offers for maximum savings \u20b9995 Lowest price for you OR \u20b996 x 12m Pay \u20b91,147 Bank offers Bank offers \u20b953 off View EMI offers Delivery details Location not set Select delivery location Delivery by 3 Jul, Fri Fulfilled by JDCORPORATION 4.1 \u2022 3 years with Flipkart See other sellers 10-Day Return Cash on Delivery Flipkart Assured Product highlights Fabric Pure Silk Pattern Embroidered Similar Products AD Skylee Women Pure Cotton Kurta Pant Dupatta Set 59% OFF \u20b93,799 \u20b91,563 \u20b91,484 with Bank offer Get it by 5 Jul AD Skylee Women Pure Cotton Kurta Pant Dupatta Set 59% OFF \u20b93,599 \u20b91,486 \u20b91,411 with Bank offer Get it by 5 Jul AD Skylee Women Silk Blend Kurta Pant Dupatta Set 62% OFF \u20b93,499 \u20b91,316 \u20b91,250 with Bank offer Get it by 5 Jul AD Skylee Women Cotton Blend Kurta Pant Dupatta Set 59% OFF \u20b93,499 \u20b91,434 \u20b91,362 with Bank offer Get it by 5 Jul padsala creation Women Cotton Blend Kurta Pant Set 79% OFF \u20b91,999 \u20b9417 \u20b9367 with 2 offers Get it by 5 Jul 3 Gosriki Women Viscose Rayon Kurti Palazzo Dupatta Set 68% OFF \u20b92,599 \u20b9820 \u20b9779 with 2 offers Get it by 5 Jul 3.8 HIVA TRENDZ Women Pure Silk Kurta Pant Dupatta Set 81% OFF \u20b94,149 \u20b9774 \u20b9735 with 2 offers Get it by 5 Jul TOINSHO Women Cotton Blend Ethnic Top Pant Set 71% OFF \u20b92,499 \u20b9720 \u20b9684 with 2 offers Get it by 5 Jul Hang on, loading content",
+    "sentiment": "Positive",
+    "created_at": "2026-06-30 14:21:43.797243+00:00"
+  },
+  {
+    "product": "https://www.flipkart.com/callme-textile-design-women-kurti-pant-attached-dupatta-set/p/itmad44e9fc600d0?pid=ETHHNKEZP98HFUNE&lid=LSTETHHNKEZP98HFUNE1LKXKT&hl_lid=&marketplace=FLIPKART&fm=eyJ3dHAiOiJyZWNvIiwicHJwdCI6InBwIiwibWlkIjoicHJvZHVjdFJlY29tbWVuZGF0aW9uL3NpbWlsYXIifQ%3D%3D&pageUID=1782801989400",
+    "review": "Home / Clothing and Accessories / Kurtas, Ethnic Sets and Bottoms / Ethnic Sets / Women's Ethnic Sets / CALLME TEXTILE & DESIGN Women's Ethnic Sets / Women Pure Silk Kurti Pant Attached Dupatta Set",
+    "sentiment": "Positive",
+    "created_at": "2026-06-30 14:21:43.797246+00:00"
+  },
+  {
+    "product": "https://www.flipkart.com/callme-textile-design-women-kurti-pant-attached-dupatta-set/p/itmad44e9fc600d0?pid=ETHHNKEZP98HFUNE&lid=LSTETHHNKEZP98HFUNE1LKXKT&hl_lid=&marketplace=FLIPKART&fm=eyJ3dHAiOiJyZWNvIiwicHJwdCI6InBwIiwibWlkIjoicHJvZHVjdFJlY29tbWVuZGF0aW9uL3NpbWlsYXIifQ%3D%3D&pageUID=1782801989400",
+    "review": "Home / Clothing and Accessories / Kurtas, Ethnic Sets and Bottoms / Ethnic Sets / Women's Ethnic Sets / CALLME TEXTILE & DESIGN Women's Ethnic Sets /",
+    "sentiment": "Neutral",
+    "created_at": "2026-06-30 14:21:43.797249+00:00"
+  },
+  {
+    "product": "https://www.flipkart.com/callme-textile-design-women-kurti-pant-attached-dupatta-set/p/itmad44e9fc600d0?pid=ETHHNKEZP98HFUNE&lid=LSTETHHNKEZP98HFUNE1LKXKT&hl_lid=&marketplace=FLIPKART&fm=eyJ3dHAiOiJyZWNvIiwicHJwdCI6InBwIiwibWlkIjoicHJvZHVjdFJlY29tbWVuZGF0aW9uL3NpbWlsYXIifQ%3D%3D&pageUID=1782801989400",
+    "review": "Clothing and Accessories /",
+    "sentiment": "Neutral",
+    "created_at": "2026-06-30 14:21:43.797252+00:00"
+  },
+  {
+    "product": "https://www.flipkart.com/callme-textile-design-women-kurti-pant-attached-dupatta-set/p/itmad44e9fc600d0?pid=ETHHNKEZP98HFUNE&lid=LSTETHHNKEZP98HFUNE1LKXKT&hl_lid=&marketplace=FLIPKART&fm=eyJ3dHAiOiJyZWNvIiwicHJwdCI6InBwIiwibWlkIjoicHJvZHVjdFJlY29tbWVuZGF0aW9uL3NpbWlsYXIifQ%3D%3D&pageUID=1782801989400",
+    "review": "Kurtas, Ethnic Sets and Bottoms /",
+    "sentiment": "Neutral",
+    "created_at": "2026-06-30 14:21:43.797255+00:00"
+  },
+  {
+    "product": "https://www.flipkart.com/callme-textile-design-women-kurti-pant-attached-dupatta-set/p/itmad44e9fc600d0?pid=ETHHNKEZP98HFUNE&lid=LSTETHHNKEZP98HFUNE1LKXKT&hl_lid=&marketplace=FLIPKART&fm=eyJ3dHAiOiJyZWNvIiwicHJwdCI6InBwIiwibWlkIjoicHJvZHVjdFJlY29tbWVuZGF0aW9uL3NpbWlsYXIifQ%3D%3D&pageUID=1782801989400",
+    "review": "CALLME TEXTILE & DESIGN Women's Ethnic Sets /",
+    "sentiment": "Neutral",
+    "created_at": "2026-06-30 14:21:43.797258+00:00"
+  },
+  {
+    "product": "https://www.flipkart.com/callme-textile-design-women-kurti-pant-attached-dupatta-set/p/itmad44e9fc600d0?pid=ETHHNKEZP98HFUNE&lid=LSTETHHNKEZP98HFUNE1LKXKT&hl_lid=&marketplace=FLIPKART&fm=eyJ3dHAiOiJyZWNvIiwicHJwdCI6InBwIiwibWlkIjoicHJvZHVjdFJlY29tbWVuZGF0aW9uL3NpbWlsYXIifQ%3D%3D&pageUID=1782801989400",
+    "review": "Women Pure Silk Kurti Pant Attached Dupatta Set",
+    "sentiment": "Positive",
+    "created_at": "2026-06-30 14:21:43.797261+00:00"
+  },
+  {
+    "product": "https://www.flipkart.com/callme-textile-design-women-kurti-pant-attached-dupatta-set/p/itmad44e9fc600d0?pid=ETHHNKEZP98HFUNE&lid=LSTETHHNKEZP98HFUNE1LKXKT&hl_lid=&marketplace=FLIPKART&fm=eyJ3dHAiOiJyZWNvIiwicHJwdCI6InBwIiwibWlkIjoicHJvZHVjdFJlY29tbWVuZGF0aW9uL3NpbWlsYXIifQ%3D%3D&pageUID=1782801989400",
+    "review": "Key Highlights Key Highlights Key Highlights Key Highlights Key Highlights Key Highlights Select Size Size Chart S M L XL XXL CALLME TEXTILE & DESIGN Women Pure Silk Kurti Pant Attached Dupat... more Hot Deal 67% 3,199 \u20b91,048 Buy at \u20b9995 Apply offers for maximum savings \u20b9995 Lowest price for you OR \u20b996 x 12m Pay \u20b91,147 Bank offers Bank offers \u20b953 off View EMI offers Delivery details Location not set Select delivery location Delivery by 3 Jul, Fri Fulfilled by JDCORPORATION 4.1 \u2022 3 years with Flipkart See other sellers 10-Day Return Cash on Delivery Flipkart Assured Product highlights Fabric Pure Silk Pattern Embroidered Similar Products AD Skylee Women Pure Cotton Kurta Pant Dupatta Set 59% OFF \u20b93,799 \u20b91,563 \u20b91,484 with Bank offer Get it by 5 Jul AD Skylee Women Pure Cotton Kurta Pant Dupatta Set 59% OFF \u20b93,599 \u20b91,486 \u20b91,411 with Bank offer Get it by 5 Jul AD Skylee Women Silk Blend Kurta Pant Dupatta Set 62% OFF \u20b93,499 \u20b91,316 \u20b91,250 with Bank offer Get it by 5 Jul AD Skylee Women Cotton Blend Kurta Pant Dupatta Set 59% OFF \u20b93,499 \u20b91,434 \u20b91,362 with Bank offer Get it by 5 Jul padsala creation Women Cotton Blend Kurta Pant Set 79% OFF \u20b91,999 \u20b9417 \u20b9367 with 2 offers Get it by 5 Jul 3 Gosriki Women Viscose Rayon Kurti Palazzo Dupatta Set 68% OFF \u20b92,599 \u20b9820 \u20b9779 with 2 offers Get it by 5 Jul 3.8 HIVA TRENDZ Women Pure Silk Kurta Pant Dupatta Set 81% OFF \u20b94,149 \u20b9774 \u20b9735 with 2 offers Get it by 5 Jul TOINSHO Women Cotton Blend Ethnic Top Pant Set 71% OFF \u20b92,499 \u20b9720 \u20b9684 with 2 offers Get it by 5 Jul",
+    "sentiment": "Positive",
+    "created_at": "2026-06-30 14:21:43.797264+00:00"
+  },
+  {
+    "product": "https://www.flipkart.com/callme-textile-design-women-kurti-pant-attached-dupatta-set/p/itmad44e9fc600d0?pid=ETHHNKEZP98HFUNE&lid=LSTETHHNKEZP98HFUNE1LKXKT&hl_lid=&marketplace=FLIPKART&fm=eyJ3dHAiOiJyZWNvIiwicHJwdCI6InBwIiwibWlkIjoicHJvZHVjdFJlY29tbWVuZGF0aW9uL3NpbWlsYXIifQ%3D%3D&pageUID=1782801989400",
+    "review": "Key Highlights Key Highlights Key Highlights Key Highlights Key Highlights Key Highlights Select Size Size Chart S M L XL XXL CALLME TEXTILE & DESIGN Women Pure Silk Kurti Pant Attached Dupat... more Hot Deal 67% 3,199 \u20b91,048 Buy at \u20b9995 Apply offers for maximum savings \u20b9995 Lowest price for you OR \u20b996 x 12m Pay \u20b91,147 Bank offers Bank offers \u20b953 off View EMI offers Delivery details Location not set Select delivery location Delivery by 3 Jul, Fri Fulfilled by JDCORPORATION 4.1 \u2022 3 years with Flipkart See other sellers 10-Day Return Cash on Delivery Flipkart Assured Product highlights Fabric Pure Silk Pattern Embroidered",
+    "sentiment": "Positive",
+    "created_at": "2026-06-30 14:21:43.797268+00:00"
+  },
+  {
+    "product": "https://www.flipkart.com/callme-textile-design-women-kurti-pant-attached-dupatta-set/p/itmad44e9fc600d0?pid=ETHHNKEZP98HFUNE&lid=LSTETHHNKEZP98HFUNE1LKXKT&hl_lid=&marketplace=FLIPKART&fm=eyJ3dHAiOiJyZWNvIiwicHJwdCI6InBwIiwibWlkIjoicHJvZHVjdFJlY29tbWVuZGF0aW9uL3NpbWlsYXIifQ%3D%3D&pageUID=1782801989400",
+    "review": "Key Highlights Key Highlights Key Highlights Key Highlights Key Highlights Key Highlights",
+    "sentiment": "Neutral",
+    "created_at": "2026-06-30 14:21:43.797270+00:00"
+  }
+]
